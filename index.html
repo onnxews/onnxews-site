@@ -1002,16 +1002,24 @@
     <main class="wrap">
       <!-- HERO -->
       <section class="hero" aria-label="Top stories">
-        <a class="lead" href="#story-iu-michigan-gameday-2026" data-open="iu-michigan-gameday-2026">
-          <img class="bg" src="real-photos/michigan-stadium.jpg" alt="Michigan Stadium in Ann Arbor" />
+        <a class="lead" href="#story-france-protests-second-weekend-2026" data-open="france-protests-second-weekend-2026">
+          <img class="bg" src="real-photos/france-protests.jpg" alt="Yellow Vest protesters marching in Paris" />
           <div class="lead-body">
-            <span class="kicker"><span class="tag">Sports</span> College Football · Lead story</span>
-            <h2>No. 6 Indiana Heads to the Big House: Can the Hoosiers End 59 Years of Heartbreak at Michigan?</h2>
-            <p>Indiana hasn't won in Ann Arbor since 1967. Today, a true freshman quarterback stands between the Hoosiers and history.</p>
+            <span class="kicker"><span class="tag">World</span> Europe · Lead story</span>
+            <h2>France Erupts Again: Hundreds of Thousands March in Second Weekend of Protests as Police Flood Paris Streets</h2>
+            <p>Around 410,000 people marched nationwide — 110,000 in Paris alone — as 70,000 police deployed to prevent a repeat of last weekend's riots.</p>
             <div class="meta"><span>Orbit News Network</span><span>Today</span><span>4 min read</span></div>
           </div>
         </a>
         <div class="hero-side">
+          <a class="side-card" href="#story-iu-michigan-gameday-2026" data-open="iu-michigan-gameday-2026">
+            <div class="thumb"><img src="real-photos/michigan-stadium.jpg" alt="Michigan Stadium in Ann Arbor" loading="lazy" /></div>
+            <div class="sc-body">
+              <span class="kicker plain">Sports · College Football</span>
+              <h3>No. 6 Indiana Heads to the Big House: Can the Hoosiers End 59 Years of Heartbreak at Michigan?</h3>
+              <p>Indiana hasn't won in Ann Arbor since 1967. Today, a true freshman quarterback stands between the Hoosiers and history.</p>
+            </div>
+          </a>
           <a class="side-card" href="#story-eagles-nest-fire-2026" data-open="eagles-nest-fire-2026">
             <div class="thumb"><img src="real-photos/eagles-nest.jpg" alt="The Kehlsteinhaus, known as the Eagle's Nest, in Bavaria" loading="lazy" /></div>
             <div class="sc-body">
@@ -1244,6 +1252,33 @@
 
         var ARTICLES = [
           {
+            id: "france-protests-second-weekend-2026",
+            cat: "World",
+            kicker: "World · Europe",
+            title: "France Erupts Again: Hundreds of Thousands March in Second Weekend of Protests as Police Flood Paris Streets",
+            dek: "Around 410,000 people marched nationwide — 110,000 in Paris alone — as 70,000 police deployed to prevent a repeat of last weekend's riots.",
+            img: "real-photos/france-protests.jpg",
+            alt: "Yellow Vest protesters marching in Paris",
+            cap: "Yellow Vest protesters in Paris. Photo: Norbu Gyachung, CC BY-SA 4.0, via Wikimedia Commons.",
+            time: "Today",
+            read: "4 min read",
+            metric: "World · France",
+            body: [
+              "PARIS — Hundreds of thousands of demonstrators marched across France on Saturday in a second consecutive weekend of nationwide protests over the cost of living and school conditions, as the government flooded the streets with 70,000 police officers to prevent a repeat of last weekend's riots.",
+              "The Interior Ministry said 410,000 people took part nationwide, though unions claimed the true figure was twice as high. In Paris, around 110,000 people marched peacefully through the capital's southeastern fringes, waving flags and denouncing rising living costs and growing inequality. “Down with the state, the police and the fascists,” the crowd chanted.",
+              "The movement brings together an unlikely coalition: Yellow Vest groups, trade unions including the CGT with its roughly 600,000 members, and high school and university students. It began over rising living costs and worsening school and study conditions, and has since spread nationwide, fueled by broader anger over purchasing power.",
+              "The march in Paris was thrown into dispute before it even began. The Paris police prefecture approved a route from Bastille to Nation on Thursday, then changed it at the last minute on Friday to run from Porte d'Italie to Porte de Vincennes between 1pm and 7pm. Organizers rejected the new route as “impossible to secure” and said they would march to Bastille as planned.",
+              "The disruption was widespread. At least 24 Paris metro stations were closed on police orders, the Louvre and the Musée d'Orsay shut for the day, Art Basel Paris cancelled its weekend programme, and shops along the Champs-Élysées and in central Paris and Lyon were boarded up. The Yellow Vests listed more than 700 actions at roundabouts, petrol stations and near oil depots across the country.",
+              "For most of the day, the marches were largely peaceful — a sharp contrast to last Saturday, when student-led protests devolved into looting, arson and clashes that damaged thousands of businesses and led to more than 2,000 people being taken into custody.",
+              "But as night fell, the atmosphere deteriorated. In Paris, riot police fired tear gas and used water cannon to disperse a group of around 500 hooded youths who hurled stones at officers. In Marseille, France's second city, youths dragged metal sheets to block a street, set fire to rubbish bins, and hurled rocks and bottles at riot police. Clashes also flared in Lyon, Bordeaux and Grenoble, while police fired volleys of tear gas in Clermont-Ferrand, Lille, Nantes and Nice.",
+              "Police said they arrested 135 people nationwide by early afternoon, many following pre-emptive searches that uncovered fireworks, ball bearings and other items that could be used as weapons. Authorities also banned or restricted demonstrations in several city centres, including Montpellier, Rouen, Nice and Lyon.",
+              "On Friday, President Emmanuel Macron met student representatives and promised more teachers and an overhaul of the Parcoursup university admissions system — but students called for more protests. Interior Minister Laurent Nuñez, who deployed 10,000 more officers than last week after conceding authorities had underestimated the unrest on October 17, said: “We have to be ultra, ultra responsive.”",
+              "The violence, while real, was still less intense than a week ago. Whether the movement grows or fades from here may depend on what the government offers next — and whether the streets stay peaceful enough to keep public sympathy.",
+            ],
+            byline: "By Peter Osibajo"
+          },
+
+          {
             id: "iu-michigan-gameday-2026",
             cat: "Sports",
             kicker: "Sports · College Football",
@@ -1296,6 +1331,7 @@
         ARTICLES.forEach(function (a) { if (!a.author) a.author = DEFAULT_AUTHOR; });
 
         var RANKED = [
+          { id: "france-protests-second-weekend-2026", why: "410,000 march nationwide as 70,000 police flood France's streets for a second weekend" },
           { id: "iu-michigan-gameday-2026", why: "59 years of heartbreak on the line — IU goes for its first win in Ann Arbor since 1967" },
           { id: "eagles-nest-fire-2026", why: "Fire engulfs Hitler's 'Eagle's Nest' retreat in Bavaria, suspect detained" }
         ];

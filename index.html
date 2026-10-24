@@ -1392,7 +1392,7 @@
             cap.style.display = "none";
           }
           document.getElementById("readerBody").innerHTML = a.body.map(function (p) { return "<p>" + p + "</p>"; }).join("");
-          document.getElementById("readerLinks").innerHTML = a.links.map(function (l) {
+          document.getElementById("readerLinks").innerHTML = (a.links || []).map(function (l) {
             return '<a class="btn red" href="' + l.href + '" target="_blank" rel="noopener">' + l.label + " →</a>";
           }).join("");
           document.getElementById("readerLinks").querySelectorAll("a").forEach(function (lnk) {

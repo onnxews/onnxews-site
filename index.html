@@ -994,6 +994,7 @@
           <a href="#latest" data-jump="Culture">Culture</a>
           <a href="#reels">Reels</a>
           <a href="#ondeck">On Deck</a>
+          <a href="#archive">Archive</a>
           <a href="#xwire">X Wire</a>
         </div>
       </nav>
@@ -1170,6 +1171,13 @@
         </a>
       </div>
 
+      <!-- ARCHIVE -->
+      <div class="sec-head" id="archive">
+        <h2>The Archive<span class="o">.</span></h2>
+        <p>Every story Orbit has published — newest first. Nothing gets deleted anymore.</p>
+      </div>
+      <div class="wire" id="archiveList"></div>
+
       <!-- CTA -->
       <section class="cta">
         <div>
@@ -1270,6 +1278,7 @@
             alt: "Two children carrying a large jack-o'-lantern",
             cap: "Two children carrying a jack-o'-lantern. Public domain, via Wikimedia Commons.",
             time: "Today",
+            date: "Oct 24, 2026",
             read: "4 min read",
             metric: "Culture · Debate",
             body: [
@@ -1294,6 +1303,7 @@
             alt: "Yellow Vest protesters marching in Paris",
             cap: "Yellow Vest protesters in Paris. Photo: Norbu Gyachung, CC BY-SA 4.0, via Wikimedia Commons.",
             time: "Today",
+            date: "Oct 24, 2026",
             read: "4 min read",
             metric: "World · France",
             body: [
@@ -1321,6 +1331,7 @@
             alt: "Michigan Stadium in Ann Arbor",
             cap: "Michigan Stadium in Ann Arbor. Photo via Wikimedia Commons.",
             time: "Today",
+            date: "Oct 24, 2026",
             read: "4 min read",
             metric: "Sports · Big Ten",
             body: [
@@ -1343,6 +1354,7 @@
             alt: "The Kehlsteinhaus, known as the Eagle's Nest, in Bavaria",
             cap: "The Kehlsteinhaus in Berchtesgaden, Bavaria. Photo: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons.",
             time: "Today",
+            date: "Oct 24, 2026",
             read: "3 min read",
             metric: "World · Germany",
             body: [
@@ -1420,6 +1432,17 @@
             "</button>"
           );
         }).join("");
+
+        var archEl = document.getElementById("archiveList");
+        if (archEl) {
+          archEl.innerHTML = ARTICLES.map(function (a) {
+            return (
+              '<a class="wire-row" href="#story-' + a.id + '" data-open="' + a.id + '">' +
+              '<span class="w-main"><span class="w-title">' + a.title + '</span><span class="w-sub">' + a.kicker + " · " + (a.date || a.time) + "</span></span>" +
+              '<span class="w-arrow" aria-hidden="true">→</span></a>'
+            );
+          }).join("");
+        }
 
         chipsEl.addEventListener("click", function (e) {
           var chip = e.target.closest(".chip");

@@ -1003,6 +1003,7 @@
           <a href="#latest" data-jump="World">World</a>
           <a href="#latest" data-jump="Sports">Sports</a>
           <a href="#latest" data-jump="Culture">Culture</a>
+          <a href="#mythoughts">My Thoughts</a>
           <a href="#archive">Archive</a>
         </div>
       </nav>
@@ -1024,6 +1025,12 @@
       </section>
 
       <!-- LATEST + RANKED -->
+      <div class="sec-head" id="mythoughts">
+        <h2>My Thoughts<span class="o">.</span></h2>
+        <p>Straight from Olu — his unfiltered, controversial takes. Not the newsroom's voice.</p>
+      </div>
+      <div class="cards" id="thoughtsList"></div>
+
       <div class="sec-head" id="latest">
         <h2>The Latest<span class="o">.</span></h2>
         <p>Every story Orbit is running right now. Tap any story to read the full breakdown.</p>
@@ -1245,6 +1252,7 @@
           {
             id: "nicki-minaj-dumb-ass-2026",
             cat: "Culture",
+            opinion: true,
             kicker: "Culture · Celebrity",
             title: "Nicki Minaj's a Dumb Ass",
             dek: "She built a career off Black fans, then spent years cashing that love in for a seat at somebody else's table. The press secretary rumors just made it official.",
@@ -1500,6 +1508,11 @@
               "</button>"
             );
           }).join("");
+        }
+
+        var thoughtsEl = document.getElementById("thoughtsList");
+        if (thoughtsEl) {
+          thoughtsEl.innerHTML = ARTICLES.filter(function (a) { return a.opinion; }).map(cardHTML).join("");
         }
 
         var archEl = document.getElementById("archiveList");

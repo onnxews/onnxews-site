@@ -1,4 +1,8 @@
 User-agent: *
 Allow: /
 
+User-agent: Googlebot-News
+Allow: /
+
 Sitemap: https://onnxews.com/sitemap.xml
+Sitemap: https://onnxews.com/news-sitemap.xml

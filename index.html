@@ -1,130 +1,2106 @@
 <!doctype html>
 <html lang="en">
-<head>
-<meta charset="utf-8" />
-<meta name="viewport" content="width=device-width, initial-scale=1" />
-<title>Orbit News Network | Breaking news &amp; viral moments, daily</title>
-<meta name="description" content="Orbit News Network covers the biggest national, world, politics, entertainment and sports stories — original summaries with source links, published daily." />
-<meta property="og:type" content="website" />
-<meta property="og:site_name" content="Orbit News Network" />
-<meta property="og:title" content="Orbit News Network | Breaking news &amp; viral moments, daily" />
-<meta property="og:description" content="Orbit News Network covers the biggest national, world, politics, entertainment and sports stories — original summaries with source links, published daily." />
-<meta property="og:url" content="https://onnxews.com/" />
-<meta property="og:image" content="https://onnxews.com/real-photos/bronx-school-file.jpg" />
-<meta name="twitter:image" content="https://onnxews.com/real-photos/bronx-school-file.jpg" />
-<meta name="twitter:card" content="summary_large_image" />
-<meta name="twitter:title" content="Orbit News Network | Breaking news &amp; viral moments, daily" />
-<meta name="twitter:description" content="Orbit News Network covers the biggest national, world, politics, entertainment and sports stories — original summaries with source links, published daily." />
-<link rel="icon" href="/favicon.ico" sizes="32x32" />
-<link rel="preconnect" href="https://fonts.googleapis.com" />
-<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-<link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:wght@400;600;700;800;900&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;0,8..60,700;1,8..60,400&display=swap" rel="stylesheet" />
-<link rel="stylesheet" href="/styles.css" />
-<link rel="canonical" href="https://onnxews.com/" />
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
+    <meta name="color-scheme" content="light dark" />
+    <meta name="description" content="Orbit News Network — the biggest stories on the timeline, fast. National, world, sports and culture news, posted daily on Facebook and X." />
+    <meta property="og:type" content="website" />
+    <meta property="og:site_name" content="Orbit News Network" />
+    <meta property="og:title" content="Orbit News Network — Breaking news & viral moments, daily" />
+    <meta property="og:description" content="The biggest stories on the timeline, fast. National, world, sports and culture news." />
+    <meta property="og:url" content="https://onnxews.com/" />
+    <meta property="og:image" content="https://onnxews.com/real-photos/michigan-stadium.jpg" />
+    <meta property="og:image:alt" content="Orbit News Network" />
+    <meta name="twitter:card" content="summary_large_image" />
+    <meta name="twitter:title" content="Orbit News Network — Breaking news & viral moments, daily" />
+    <meta name="twitter:description" content="The biggest stories on the timeline, fast. National, world, sports and culture news." />
+    <meta name="twitter:image" content="https://onnxews.com/real-photos/michigan-stadium.jpg" />
+    <link rel="icon" href="/favicon.ico" sizes="32x32" />
+<link rel="icon" href="/favicon-32x32.png" type="image/png" sizes="32x32" />
+<link rel="apple-touch-icon" href="/apple-touch-icon.png" />
+    <title>Orbit News Network</title>
+    <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-8890195253926062" crossorigin="anonymous"></script>
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Libre+Franklin:ital,wght@0,400;0,500;0,600;0,700;0,800;0,900;1,600&family=Source+Serif+4:ital,opsz,wght@0,8..60,400;0,8..60,600;1,8..60,400&family=IBM+Plex+Mono:wght@400;500;600&display=swap" rel="stylesheet" />
+    <style>
+      :root {
+        --paper: #faf6ee;
+        --paper-2: #f3ecdd;
+        --card: #fffdf7;
+        --ink: #16130e;
+        --ink-2: #4c463c;
+        --muted: #7d7462;
+        --line: #ddd2ba;
+        --line-strong: #16130e;
+        --red: #d9230f;
+        --red-deep: #a81a08;
+        --gold: #b97e10;
+        --bar-bg: #12100d;
+        --bar-ink: #f5efe1;
+        --shadow: 0 18px 40px rgba(22, 19, 14, 0.14);
+        --radius: 12px;
+      }
+      @media (prefers-color-scheme: dark) {
+        :root {
+          --paper: #131109;
+          --paper-2: #1a1710;
+          --card: #1c1912;
+          --ink: #f3edde;
+          --ink-2: #cdc3ab;
+          --muted: #9a9078;
+          --line: #38321f;
+          --line-strong: #f3edde;
+          --red: #ff4126;
+          --red-deep: #ff6a52;
+          --gold: #e0a92e;
+          --bar-bg: #0a0906;
+          --bar-ink: #f5efe1;
+          --shadow: 0 18px 44px rgba(0, 0, 0, 0.55);
+        }
+      }
+      * { box-sizing: border-box; }
+      html { scroll-behavior: smooth; }
+      @media (prefers-reduced-motion: reduce) {
+        html { scroll-behavior: auto; }
+      }
+      body {
+        margin: 0;
+        background: var(--paper);
+        color: var(--ink);
+        font-family: "Libre Franklin", system-ui, sans-serif;
+        font-size: 16px;
+        line-height: 1.55;
+        -webkit-font-smoothing: antialiased;
+      }
+      img { display: block; max-width: 100%; }
+      a { color: inherit; }
+      button { font: inherit; cursor: pointer; }
+      :focus-visible { outline: 3px solid var(--red); outline-offset: 2px; border-radius: 4px; }
+      .wrap { max-width: 1180px; margin: 0 auto; padding: 0 20px; }
+      .mono { font-family: "IBM Plex Mono", ui-monospace, monospace; }
+      .serif { font-family: "Source Serif 4", Georgia, serif; }
+
+      /* ---------- ticker ---------- */
+      .ticker {
+        background: var(--bar-bg);
+        color: var(--bar-ink);
+        display: flex;
+        align-items: stretch;
+        overflow: hidden;
+        border-bottom: 3px solid var(--red);
+      }
+      .ticker-tag {
+        flex: 0 0 auto;
+        background: var(--red);
+        color: #fff;
+        font-family: "IBM Plex Mono", monospace;
+        font-weight: 600;
+        font-size: 12px;
+        letter-spacing: 0.14em;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        padding: 9px 14px;
+        text-transform: uppercase;
+      }
+      .ticker-tag .dot {
+        width: 8px; height: 8px; border-radius: 50%;
+        background: #fff;
+        animation: pulse 1.6s ease-in-out infinite;
+      }
+      @keyframes pulse { 0%, 100% { opacity: 1; } 50% { opacity: 0.25; } }
+      @media (prefers-reduced-motion: reduce) {
+        .ticker-tag .dot { animation: none; }
+      }
+      .ticker-viewport { overflow: hidden; flex: 1 1 auto; display: flex; align-items: center; }
+      .ticker-track {
+        display: inline-flex;
+        white-space: nowrap;
+        animation: tick 55s linear infinite;
+        will-change: transform;
+      }
+      .ticker:hover .ticker-track { animation-play-state: paused; }
+      @keyframes tick { from { transform: translateX(0); } to { transform: translateX(-50%); } }
+      .ticker-track span {
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 12.5px;
+        padding: 0 26px;
+        position: relative;
+      }
+      .ticker-track span::after {
+        content: "///";
+        color: var(--red);
+        position: absolute;
+        right: -8px;
+        font-weight: 600;
+      }
+
+      /* ---------- masthead ---------- */
+      .masthead { padding: 26px 0 0; }
+      .mast-top {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 16px;
+        flex-wrap: wrap;
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 12px;
+        letter-spacing: 0.08em;
+        text-transform: uppercase;
+        color: var(--muted);
+        padding-bottom: 14px;
+      }
+      .mast-top .live-clock { color: var(--ink-2); }
+      .wordmark {
+        display: flex;
+        align-items: center;
+        gap: 16px;
+        border-top: 3px solid var(--line-strong);
+        border-bottom: 1px solid var(--line);
+        padding: 18px 0 16px;
+      }
+      .orbit-mark { flex: 0 0 auto; width: 74px; height: 74px; }
+      .wordmark h1 {
+        margin: 0;
+        font-weight: 900;
+        font-size: clamp(44px, 8.5vw, 88px);
+        line-height: 0.92;
+        letter-spacing: -0.015em;
+        text-transform: uppercase;
+      }
+      .wordmark h1 .thin { font-weight: 300; }
+      .wordmark .net {
+        display: block;
+        font-size: clamp(13px, 2.2vw, 19px);
+        font-weight: 700;
+        letter-spacing: 0.52em;
+        color: var(--red);
+        margin-top: 6px;
+      }
+      .mast-tag {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 14px;
+        flex-wrap: wrap;
+        padding: 12px 0 4px;
+      }
+      .mast-tag p {
+        margin: 0;
+        font-family: "Source Serif 4", serif;
+        font-style: italic;
+        font-size: 17px;
+        color: var(--ink-2);
+        max-width: 560px;
+      }
+      .follow-row { display: flex; gap: 8px; flex-wrap: wrap; }
+      .btn {
+        display: inline-flex;
+        align-items: center;
+        gap: 8px;
+        text-decoration: none;
+        font-weight: 700;
+        font-size: 13.5px;
+        padding: 10px 16px;
+        border-radius: 999px;
+        border: 1.5px solid var(--line-strong);
+        background: transparent;
+        color: var(--ink);
+        transition: background 0.15s ease, color 0.15s ease, transform 0.15s ease;
+      }
+      .btn:hover { transform: translateY(-1px); }
+      .btn.solid { background: var(--ink); color: var(--paper); }
+      .btn.solid:hover { background: var(--red); border-color: var(--red); color: #fff; }
+      .btn.red { background: var(--red); border-color: var(--red); color: #fff; }
+      .btn.red:hover { background: var(--red-deep); }
+      .btn svg { width: 15px; height: 15px; flex: 0 0 auto; }
+
+      /* ---------- nav ---------- */
+      nav.sections {
+        position: sticky;
+        top: 0;
+        z-index: 40;
+        background: var(--paper);
+        border-bottom: 2px solid var(--line-strong);
+        margin-top: 14px;
+      }
+      nav.sections .wrap {
+        display: flex;
+        gap: 4px;
+        overflow-x: auto;
+        scrollbar-width: none;
+        padding-top: 0;
+        padding-bottom: 0;
+      }
+      nav.sections .wrap::-webkit-scrollbar { display: none; }
+      nav.sections a {
+        text-decoration: none;
+        font-weight: 800;
+        font-size: 13px;
+        letter-spacing: 0.1em;
+        text-transform: uppercase;
+        padding: 13px 14px;
+        white-space: nowrap;
+        border-bottom: 3px solid transparent;
+        color: var(--ink-2);
+      }
+      nav.sections a:hover, nav.sections a.active { color: var(--ink); border-bottom-color: var(--red); }
+      @media (max-width: 700px) {
+        nav.sections .wrap { flex-wrap: wrap; overflow-x: visible; }
+        nav.sections a { padding: 11px 10px; }
+      }
+
+      /* ---------- hero ---------- */
+      .hero {
+        display: grid;
+        grid-template-columns: 1.9fr 1fr;
+        gap: 22px;
+        padding: 26px 0 8px;
+      }
+      .lead {
+        position: relative;
+        border-radius: var(--radius);
+        overflow: hidden;
+        min-height: 480px;
+        display: flex;
+        align-items: flex-end;
+        text-decoration: none;
+        color: #fff;
+        box-shadow: var(--shadow);
+        isolation: isolate;
+      }
+      .lead img.bg {
+        position: absolute; inset: 0;
+        width: 100%; height: 100%;
+        object-fit: cover;
+        z-index: -2;
+      }
+      .lead.noimg { background: var(--bar-bg); }
+      .lead.noimg::after {
+        background: linear-gradient(to top, rgba(8, 6, 3, 0.6) 0%, rgba(8, 6, 3, 0.1) 55%, rgba(8, 6, 3, 0) 80%);
+      }
+      .lead-wm {
+        position: absolute;
+        right: 14px; top: 10px;
+        font-size: clamp(84px, 13vw, 168px);
+        font-weight: 900;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+        line-height: 1;
+        color: rgba(245, 239, 225, 0.08);
+        z-index: -1;
+        pointer-events: none;
+      }
+      .hero-side .side-card .sc-body {
+        flex: 1;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+      }
+      .lead::after {
+        content: "";
+        position: absolute; inset: 0;
+        background: linear-gradient(to top, rgba(8, 6, 3, 0.92) 0%, rgba(8, 6, 3, 0.55) 46%, rgba(8, 6, 3, 0.05) 78%);
+        z-index: -1;
+      }
+      .lead-body { padding: 26px 28px 24px; }
+      .lead .kicker { background: rgba(8, 6, 3, 0.5); padding: 5px 9px; border-radius: 5px; }
+      .side-card .thumb img[src$="jayz.jpg"],
+      .card .thumb img[src$="jayz.jpg"],
+      .reader-img img[src$="jayz.jpg"] { object-position: center 15%; }
+      .kicker {
+        display: inline-flex;
+        align-items: center;
+        gap: 7px;
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 11.5px;
+        font-weight: 600;
+        letter-spacing: 0.16em;
+        text-transform: uppercase;
+      }
+      .kicker .tag {
+        background: var(--red);
+        color: #fff;
+        padding: 3px 8px;
+        border-radius: 3px;
+      }
+      .kicker.plain { color: var(--red); }
+      .lead h2 {
+        margin: 12px 0 10px;
+        font-size: clamp(30px, 4.6vw, 50px);
+        font-weight: 900;
+        line-height: 1.02;
+        letter-spacing: -0.01em;
+        text-wrap: balance;
+      }
+      .lead p {
+        margin: 0 0 14px;
+        font-family: "Source Serif 4", serif;
+        font-size: 17.5px;
+        line-height: 1.45;
+        color: rgba(255, 255, 255, 0.88);
+        max-width: 620px;
+      }
+      .meta {
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 11.5px;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        display: flex;
+        gap: 14px;
+        flex-wrap: wrap;
+        opacity: 0.85;
+      }
+      .hero-side { display: grid; gap: 22px; grid-template-rows: 1fr 1fr; }
+      .side-card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        overflow: hidden;
+        display: flex;
+        flex-direction: column;
+        text-decoration: none;
+        transition: border-color 0.15s ease, transform 0.15s ease;
+      }
+      .side-card:hover { border-color: var(--ink); transform: translateY(-2px); }
+      .side-card .thumb { height: 128px; overflow: hidden; }
+      .side-card .thumb img { width: 100%; height: 100%; object-fit: cover; }
+      .side-card .sc-body { padding: 14px 16px 16px; }
+      .side-card h3 {
+        margin: 7px 0 6px;
+        font-size: 19px;
+        font-weight: 800;
+        line-height: 1.15;
+      }
+      .side-card p { margin: 0; font-size: 13.5px; color: var(--ink-2); line-height: 1.45; }
+      @media (max-width: 860px) {
+        .hero { grid-template-columns: 1fr; }
+        .lead { min-height: 420px; }
+        .hero-side { grid-template-rows: none; }
+        .side-card .thumb { height: 170px; }
+      }
+
+      /* ---------- stats band ---------- */
+      .stats {
+        margin: 26px 0 6px;
+        border-top: 1px solid var(--line);
+        border-bottom: 1px solid var(--line);
+        display: grid;
+        grid-template-columns: repeat(4, 1fr);
+      }
+      .stat { padding: 18px 18px 16px; border-left: 1px solid var(--line); }
+      .stat:first-child { border-left: none; padding-left: 2px; }
+      .stat b {
+        display: block;
+        font-size: clamp(26px, 3.4vw, 38px);
+        font-weight: 900;
+        line-height: 1;
+        letter-spacing: -0.01em;
+      }
+      .stat b em { font-style: normal; color: var(--red); }
+      .stat span {
+        display: block;
+        margin-top: 7px;
+        font-size: 12.5px;
+        color: var(--muted);
+        line-height: 1.4;
+      }
+      @media (max-width: 700px) {
+        .stats { grid-template-columns: 1fr 1fr; }
+        .stat { border-top: 1px solid var(--line); }
+        .stat:nth-child(-n + 2) { border-top: none; }
+        .stat:nth-child(odd) { border-left: none; padding-left: 2px; }
+      }
+
+      /* ---------- section heads ---------- */
+      .sec-head {
+        display: flex;
+        align-items: baseline;
+        justify-content: space-between;
+        gap: 16px;
+        margin: 44px 0 6px;
+        border-bottom: 3px solid var(--line-strong);
+        padding-bottom: 10px;
+      }
+      .sec-head h2 {
+        margin: 0;
+        font-size: clamp(24px, 3.4vw, 34px);
+        font-weight: 900;
+        letter-spacing: -0.01em;
+        text-transform: uppercase;
+      }
+      .sec-head h2 .o { color: var(--red); }
+      .sec-head p { margin: 0; font-size: 13.5px; color: var(--muted); text-align: right; max-width: 380px; }
+
+      /* ---------- feed layout ---------- */
+      .feed-layout {
+        display: grid;
+        grid-template-columns: 1fr 320px;
+        gap: 34px;
+        align-items: start;
+        padding-top: 18px;
+      }
+      @media (max-width: 960px) {
+        .feed-layout { grid-template-columns: 1fr; }
+      }
+      .controls {
+        display: flex;
+        gap: 10px;
+        flex-wrap: wrap;
+        align-items: center;
+        margin-bottom: 18px;
+      }
+      .chips { display: flex; gap: 7px; flex-wrap: wrap; }
+      .chip {
+        border: 1.5px solid var(--line);
+        background: var(--card);
+        color: var(--ink-2);
+        border-radius: 999px;
+        padding: 7px 14px;
+        font-size: 13px;
+        font-weight: 700;
+      }
+      .chip[aria-pressed="true"] { background: var(--ink); color: var(--paper); border-color: var(--ink); }
+      .search {
+        margin-left: auto;
+        display: flex;
+        align-items: center;
+        gap: 8px;
+        border: 1.5px solid var(--line);
+        background: var(--card);
+        border-radius: 999px;
+        padding: 7px 14px;
+        min-width: min(240px, 100%);
+      }
+      .search input {
+        border: none;
+        background: transparent;
+        color: var(--ink);
+        font: inherit;
+        font-size: 14px;
+        width: 100%;
+        outline: none;
+      }
+      .search input::placeholder { color: var(--muted); }
+      .cards { display: grid; grid-template-columns: 1fr 1fr; gap: 20px; }
+      @media (max-width: 620px) { .cards { grid-template-columns: 1fr; } }
+      .card {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        overflow: hidden;
+        text-align: left;
+        padding: 0;
+        display: flex;
+        flex-direction: column;
+        width: 100%;
+        transition: border-color 0.15s ease, transform 0.15s ease, box-shadow 0.15s ease;
+        color: var(--ink);
+      }
+      .card:hover { border-color: var(--ink); transform: translateY(-2px); box-shadow: var(--shadow); }
+      .card .thumb { aspect-ratio: 16 / 9; overflow: hidden; background: var(--paper-2); }
+      .card .thumb img { width: 100%; height: 100%; object-fit: cover; }
+      .card .c-body { padding: 16px 18px 18px; display: flex; flex-direction: column; gap: 8px; flex: 1; }
+      .card h3 { margin: 0; font-size: 20px; font-weight: 800; line-height: 1.18; text-wrap: balance; }
+      .card-byline {
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 11px;
+        letter-spacing: 0.05em;
+        text-transform: uppercase;
+        color: var(--muted);
+        font-weight: 500;
+      }
+      .card-byline strong { color: var(--ink-2); font-weight: 600; }
+      .card p { margin: 0; font-size: 14px; color: var(--ink-2); line-height: 1.5; }
+      .card .c-foot {
+        margin-top: auto;
+        padding-top: 6px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 11px;
+        letter-spacing: 0.06em;
+        text-transform: uppercase;
+        color: var(--muted);
+      }
+      .card .c-foot .read { color: var(--red); font-weight: 600; }
+      .empty {
+        border: 1.5px dashed var(--line);
+        border-radius: var(--radius);
+        padding: 34px 22px;
+        text-align: center;
+        color: var(--muted);
+        font-size: 14.5px;
+        grid-column: 1 / -1;
+      }
+
+      /* ranked rail */
+      .rail {
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        background: var(--card);
+        padding: 20px 20px 8px;
+        position: sticky;
+        top: 64px;
+      }
+      .rail h3 {
+        margin: 0 0 4px;
+        font-size: 15px;
+        font-weight: 900;
+        letter-spacing: 0.12em;
+        text-transform: uppercase;
+      }
+      .rail h3 .o { color: var(--red); }
+      .rail .sub { font-size: 12.5px; color: var(--muted); margin: 0 0 10px; }
+      .rank {
+        display: flex;
+        gap: 14px;
+        width: 100%;
+        background: none;
+        border: none;
+        border-top: 1px solid var(--line);
+        padding: 13px 2px;
+        text-align: left;
+        align-items: baseline;
+        color: var(--ink);
+      }
+      .rank:hover .rank-title { color: var(--red); }
+      .rank-num {
+        font-size: 26px;
+        font-weight: 900;
+        color: var(--red);
+        line-height: 1;
+        min-width: 30px;
+      }
+      .rank-title { font-size: 15px; font-weight: 700; line-height: 1.3; display: block; }
+      .rank-why { font-size: 12px; color: var(--muted); display: block; margin-top: 3px; line-height: 1.4; }
+      @media (max-width: 960px) { .rail { position: static; } }
+
+      /* ---------- reels ---------- */
+      .reels { display: grid; grid-template-columns: repeat(3, 1fr); gap: 20px; padding-top: 18px; }
+      @media (max-width: 860px) { .reels { grid-template-columns: 1fr; } }
+      .reel {
+        position: relative;
+        border-radius: var(--radius);
+        overflow: hidden;
+        min-height: 300px;
+        display: flex;
+        align-items: flex-end;
+        text-decoration: none;
+        color: #fff;
+        isolation: isolate;
+      }
+      .reel img.bg { position: absolute; inset: 0; width: 100%; height: 100%; object-fit: cover; z-index: -2; }
+      .reel::after {
+        content: "";
+        position: absolute; inset: 0;
+        background: linear-gradient(to top, rgba(8, 6, 3, 0.9), rgba(8, 6, 3, 0.12) 62%);
+        z-index: -1;
+      }
+      .reel-body { padding: 18px; width: 100%; }
+      .reel .play {
+        width: 46px; height: 46px;
+        border-radius: 50%;
+        background: var(--red);
+        display: flex; align-items: center; justify-content: center;
+        margin-bottom: 12px;
+      }
+      .reel .play svg { width: 18px; height: 18px; margin-left: 2px; }
+      .reel h3 { margin: 0 0 5px; font-size: 19px; font-weight: 800; line-height: 1.2; }
+      .reel p { margin: 0; font-size: 13px; color: rgba(255, 255, 255, 0.82); }
+      .reel .dur {
+        position: absolute; top: 14px; right: 14px;
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 11px; font-weight: 600;
+        background: rgba(8, 6, 3, 0.75);
+        padding: 4px 8px; border-radius: 4px;
+      }
+
+      /* ---------- on deck + poll ---------- */
+      .deck { display: grid; grid-template-columns: 1.25fr 1fr; gap: 20px; padding-top: 18px; }
+      @media (max-width: 860px) { .deck { grid-template-columns: 1fr; } }
+      .game {
+        background: var(--bar-bg);
+        color: var(--bar-ink);
+        border-radius: var(--radius);
+        padding: 26px 28px;
+        position: relative;
+        overflow: hidden;
+      }
+      .game::before {
+        content: "IU";
+        position: absolute;
+        right: -8px; top: -34px;
+        font-size: 190px;
+        font-weight: 900;
+        color: rgba(245, 239, 225, 0.06);
+        line-height: 1;
+        pointer-events: none;
+      }
+      .game .kicker { color: #ffb3a6; }
+      .game h3 { margin: 10px 0 8px; font-size: clamp(24px, 3vw, 32px); font-weight: 900; line-height: 1.08; }
+      .game p { margin: 0 0 16px; font-size: 14.5px; color: rgba(245, 239, 225, 0.78); max-width: 480px; }
+      .game .facts { display: flex; gap: 10px; flex-wrap: wrap; }
+      .fact {
+        border: 1px solid rgba(245, 239, 225, 0.28);
+        border-radius: 8px;
+        padding: 9px 13px;
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 12px;
+      }
+      .fact b { display: block; font-size: 16px; color: #fff; }
+      .poll {
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        padding: 24px 24px 20px;
+      }
+      .poll h3 { margin: 8px 0 6px; font-size: 21px; font-weight: 800; line-height: 1.2; }
+      .poll p { margin: 0 0 16px; font-size: 14px; color: var(--ink-2); }
+      .poll-opts { display: grid; gap: 9px; }
+      .poll-opt {
+        border: 1.5px solid var(--line);
+        background: var(--paper);
+        color: var(--ink);
+        border-radius: 9px;
+        padding: 12px 15px;
+        font-weight: 700;
+        font-size: 14.5px;
+        text-align: left;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 10px;
+      }
+      .poll-opt:hover { border-color: var(--ink); }
+      .poll-opt.picked { border-color: var(--red); background: var(--red); color: #fff; }
+      .poll-note { font-size: 12.5px; color: var(--muted); margin-top: 13px !important; margin-bottom: 0 !important; }
+      .poll-note a { color: var(--red); font-weight: 700; }
+
+      /* ---------- X wire ---------- */
+      .wire { display: grid; gap: 0; border: 1px solid var(--line); border-radius: var(--radius); background: var(--card); overflow: hidden; margin-top: 18px; }
+      .wire-row {
+        display: flex;
+        gap: 16px;
+        align-items: center;
+        padding: 16px 20px;
+        text-decoration: none;
+        border-top: 1px solid var(--line);
+      }
+      .wire-row:first-child { border-top: none; }
+      .wire-row:hover { background: var(--paper-2); }
+      .wire-row .x-badge {
+        flex: 0 0 auto;
+        width: 38px; height: 38px;
+        border-radius: 9px;
+        background: var(--ink);
+        color: var(--paper);
+        display: flex; align-items: center; justify-content: center;
+        font-weight: 900; font-size: 17px;
+      }
+      .wire-row .w-main { flex: 1; min-width: 0; }
+      .wire-row .w-title { font-weight: 700; font-size: 15.5px; display: block; line-height: 1.3; }
+      .wire-row .w-sub { font-size: 12.5px; color: var(--muted); display: block; margin-top: 2px; }
+      .wire-row .w-arrow { color: var(--red); font-weight: 900; font-size: 18px; }
+
+      /* ---------- CTA + footer ---------- */
+      .cta {
+        margin: 52px 0 0;
+        background: var(--red);
+        color: #fff;
+        border-radius: var(--radius);
+        padding: 34px 30px;
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        gap: 22px;
+        flex-wrap: wrap;
+      }
+      .cta h2 { margin: 0 0 6px; font-size: clamp(24px, 3.4vw, 36px); font-weight: 900; line-height: 1.05; }
+      .cta p { margin: 0; font-size: 15px; color: rgba(255, 255, 255, 0.88); max-width: 520px; }
+      .cta .btn { border-color: #fff; color: #fff; }
+      .cta .btn.solid { background: #fff; color: var(--red-deep); border-color: #fff; }
+      .cta .btn.solid:hover { background: var(--bar-bg); color: #fff; border-color: var(--bar-bg); }
+      footer {
+        margin-top: 44px;
+        border-top: 3px solid var(--line-strong);
+        padding: 22px 0 40px;
+        display: flex;
+        justify-content: space-between;
+        gap: 18px;
+        flex-wrap: wrap;
+        font-size: 13px;
+        color: var(--muted);
+      }
+      footer .f-brand { font-weight: 900; color: var(--ink); letter-spacing: 0.06em; text-transform: uppercase; }
+      footer a { color: var(--ink-2); font-weight: 600; }
+      .credits { font-size: 11.5px; color: var(--muted); max-width: 1180px; margin: 0 auto; padding: 0 20px 34px; line-height: 1.6; }
+
+
+      /* ---------- reader overlay ---------- */
+      .reader {
+        position: fixed;
+        inset: 0;
+        z-index: 90;
+        background: var(--paper);
+        overflow-y: auto;
+        display: none;
+      }
+      .reader.open { display: block; }
+      .reader-bar {
+        position: sticky;
+        top: 0;
+        background: var(--paper);
+        border-bottom: 1px solid var(--line);
+        z-index: 2;
+      }
+      .reader-bar .wrap {
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        padding-top: 12px;
+        padding-bottom: 12px;
+      }
+      .reader-bar .brand { font-weight: 900; letter-spacing: 0.08em; text-transform: uppercase; font-size: 13px; }
+      .reader-bar .brand span { color: var(--red); }
+      .reader-nav { display: flex; gap: 8px; }
+      .icon-btn {
+        width: 40px; height: 40px;
+        border-radius: 50%;
+        border: 1.5px solid var(--line-strong);
+        background: transparent;
+        color: var(--ink);
+        font-size: 17px;
+        display: flex; align-items: center; justify-content: center;
+        font-weight: 700;
+      }
+      .icon-btn:hover { background: var(--ink); color: var(--paper); }
+      .reader-inner { max-width: 760px; margin: 0 auto; padding: 34px 20px 70px; }
+      .reader-inner h2 {
+        font-size: clamp(30px, 5.4vw, 48px);
+        font-weight: 900;
+        line-height: 1.04;
+        margin: 14px 0 12px;
+        text-wrap: balance;
+      }
+      .reader-dek {
+        font-family: "Source Serif 4", serif;
+        font-size: 20px;
+        line-height: 1.45;
+        color: var(--ink-2);
+        margin: 0 0 18px;
+      }
+      .reader-meta {
+        display: flex; gap: 14px; flex-wrap: wrap;
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 11.5px; letter-spacing: 0.07em; text-transform: uppercase;
+        color: var(--muted);
+        border-top: 1px solid var(--line);
+        border-bottom: 1px solid var(--line);
+        padding: 11px 0;
+        margin-bottom: 22px;
+      }
+      .reader-meta .byline-author {
+        color: var(--ink);
+        font-weight: 600;
+      }
+      .reader-meta .byline-author strong { font-weight: 700; }
+      .reader-img { border-radius: var(--radius); overflow: hidden; margin-bottom: 8px; }
+      .reader-img img { width: 100%; max-height: 480px; object-fit: cover; }
+      .reader-cap { font-size: 12px; color: var(--muted); margin: 0 0 24px; }
+      .reader-body p {
+        font-family: "Source Serif 4", serif;
+        font-size: 18.5px;
+        line-height: 1.65;
+        margin: 0 0 18px;
+        color: var(--ink);
+      }
+      .reader-body p:first-of-type::first-letter {
+        font-family: "Libre Franklin", sans-serif;
+        font-weight: 900;
+        font-size: 52px;
+        float: left;
+        line-height: 0.85;
+        padding: 5px 10px 0 0;
+        color: var(--red);
+      }
+      .reader-links { display: flex; gap: 9px; flex-wrap: wrap; margin-top: 28px; }
+      .reader-next {
+        margin-top: 40px;
+        border-top: 3px solid var(--line-strong);
+        padding-top: 18px;
+        display: flex;
+        justify-content: space-between;
+        gap: 12px;
+      }
+      .reader-next button {
+        background: none; border: none; color: var(--ink);
+        font-weight: 800; font-size: 14px; padding: 6px 0;
+        text-align: left;
+      }
+      .reader-next button span { display: block; font-family: "IBM Plex Mono", monospace; font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase; color: var(--muted); font-weight: 500; margin-bottom: 4px; }
+      .reader-next button:hover { color: var(--red); }
+      .reader-next .nx { text-align: right; }
+      body.locked { overflow: hidden; }
+
+      /* ---------- share ---------- */
+      .share-btn {
+        display: inline-flex; align-items: center; gap: 7px;
+        height: 40px; padding: 0 16px;
+        border-radius: 999px;
+        border: 1.5px solid var(--red);
+        background: var(--red); color: #fff;
+        font-weight: 800; font-size: 13.5px;
+      }
+      .share-btn:hover { background: var(--red-deep); border-color: var(--red-deep); }
+      .share-btn svg { width: 15px; height: 15px; flex: 0 0 auto; }
+      .share-box {
+        margin-top: 30px;
+        border: 1px solid var(--line);
+        border-radius: var(--radius);
+        background: var(--card);
+        padding: 20px;
+      }
+      .share-box h3 {
+        margin: 0 0 4px;
+        font-size: 13px; font-weight: 900;
+        letter-spacing: 0.14em; text-transform: uppercase;
+      }
+      .share-box p { margin: 0 0 14px; font-size: 13.5px; color: var(--muted); }
+      .share-row { display: flex; gap: 8px; flex-wrap: wrap; align-items: center; }
+      .share-opt {
+        display: inline-flex; align-items: center; gap: 7px;
+        border: 1.5px solid var(--line-strong);
+        background: transparent; color: var(--ink);
+        border-radius: 999px; padding: 9px 14px;
+        font-weight: 700; font-size: 13px;
+      }
+      .share-opt:hover { background: var(--ink); color: var(--paper); }
+      .share-opt svg { width: 14px; height: 14px; flex: 0 0 auto; }
+      .card-wrap { position: relative; display: flex; }
+      .card-wrap .card { flex: 1; }
+      .card-share {
+        position: absolute; top: 10px; right: 10px; z-index: 3;
+        width: 36px; height: 36px; border-radius: 50%;
+        border: 1.5px solid var(--line);
+        background: var(--card); color: var(--ink);
+        display: flex; align-items: center; justify-content: center;
+        box-shadow: 0 4px 14px rgba(22, 19, 14, 0.18);
+      }
+      .card-share:hover { background: var(--red); border-color: var(--red); color: #fff; }
+      .card-share svg { width: 16px; height: 16px; }
+      .share-menu {
+        position: fixed; z-index: 120;
+        min-width: 224px;
+        background: var(--card);
+        border: 1px solid var(--line);
+        border-radius: 10px;
+        box-shadow: var(--shadow);
+        padding: 6px;
+        display: none;
+      }
+      .share-menu.open { display: block; }
+      .share-menu .sm-head {
+        font-family: "IBM Plex Mono", monospace;
+        font-size: 10.5px; letter-spacing: 0.12em; text-transform: uppercase;
+        color: var(--muted); padding: 8px 10px 6px;
+      }
+      .share-menu button {
+        display: flex; align-items: center; gap: 10px;
+        width: 100%; text-align: left;
+        background: none; border: none; color: var(--ink);
+        padding: 10px; border-radius: 7px;
+        font-weight: 700; font-size: 14px;
+      }
+      .share-menu button:hover { background: var(--paper-2); }
+      .share-menu button svg { width: 16px; height: 16px; flex: 0 0 auto; }
+      .toast {
+        position: fixed; left: 50%; bottom: 24px; z-index: 130;
+        transform: translate(-50%, 16px);
+        background: var(--bar-bg); color: var(--bar-ink);
+        font-weight: 700; font-size: 14px;
+        padding: 12px 20px; border-radius: 999px;
+        box-shadow: var(--shadow);
+        opacity: 0; pointer-events: none;
+        transition: opacity 0.2s ease, transform 0.2s ease;
+        max-width: calc(100vw - 32px); text-align: center;
+      }
+      .toast.show { opacity: 1; transform: translate(-50%, 0); }
+      @media (prefers-reduced-motion: reduce) { .toast { transition: none; } }
+
+      /* ---------- TABLOID REDESIGN 2026-10-27: NY Post energy, Orbit spin ---------- */
+      .wrap { max-width: 1140px; }
+      .mast-top { justify-content: center; flex-wrap: nowrap; font-size: 11px; letter-spacing: 0.04em; padding-bottom: 10px; }
+      .masthead .wordmark { justify-content: center; text-align: center; }
+      .wordmark h1 { font-size: clamp(46px, 7vw, 88px); letter-spacing: -0.03em; }
+      .mast-tag { text-align: center; }
+      .mast-tag p { margin: 0 auto; font-size: 16px; max-width: 640px; }
+      .breaking { display: flex; gap: 12px; align-items: center; background: var(--red); color: #fff; padding: 10px 16px; margin: 18px 0 0; font-weight: 800; font-size: 15px; line-height: 1.3; }
+      .breaking .blabel { background: #fff; color: var(--red); padding: 3px 8px; font-size: 12px; letter-spacing: 0.08em; white-space: nowrap; }
+      .feed-layout { display: block; }
+      .hero { display: block; padding: 18px 0 4px; }
+      .lead { min-height: 540px; box-shadow: var(--shadow); }
+      .lead h2 { font-size: clamp(32px, 5.2vw, 58px); font-weight: 900; text-transform: uppercase; line-height: 1.02; letter-spacing: -0.01em; }
+      .lead p { font-size: 17px; }
+      .sec-head { margin-top: 44px; padding-top: 18px; border-top: 5px solid var(--ink); }
+      .sec-head h2 { font-size: 30px; text-transform: uppercase; letter-spacing: -0.01em; }
+      .sec-head .o { color: var(--red); }
+      .cards { gap: 22px; }
+      .card h3 { font-size: 22px; font-weight: 800; line-height: 1.15; }
+      .card .kicker { color: var(--red); font-weight: 800; letter-spacing: 0.05em; text-transform: uppercase; font-size: 12px; }
+      #rankList { display: grid; grid-template-columns: 1fr 1fr; gap: 0 28px; }
+      @media (max-width: 700px) { #rankList { grid-template-columns: 1fr; } .lead { min-height: 420px; } }
+      .rank-num { font-size: 32px; color: var(--red); font-weight: 900; }
+      .rank-title { font-weight: 800; font-size: 16.5px; }
+      footer { margin-top: 48px; padding-top: 24px; border-top: 5px solid var(--ink); }
+      .wrap { max-width: 880px; }
+      .masthead { padding-bottom: 8px; }
+      .mast-tag p { font-size: 15px; max-width: 640px; }
+      .hero { display: block; padding: 22px 0 4px; }
+      .lead { min-height: 380px; box-shadow: none; }
+      .feed-layout { display: block; }
+      .sec-head { margin-top: 44px; padding-top: 24px; border-top: 1px solid var(--line); }
+      .sec-head p { max-width: 600px; }
+      .controls { padding: 14px 0 4px; }
+      .cards { display: block; }
+      .card-wrap { border-bottom: 1px solid var(--line); }
+      .card { display: block; padding: 20px 0; background: none; border: 0; box-shadow: none; border-radius: 0; }
+      .card h3 { font-size: 24px; }
+      .card p { color: var(--ink-2); }
+      .card-share { top: 22px; }
+      .wire-row { padding: 14px 0; }
+      footer { margin-top: 48px; padding-top: 24px; border-top: 1px solid var(--line); }
+    </style>
+  <link rel="canonical" href="https://onnxews.com/" />
 <meta name="robots" content="max-image-preview:large" />
-<script>(function(){try{var t=localStorage.getItem('onn-theme');if(!t&&window.matchMedia('(prefers-color-scheme: dark)').matches)t='dark';if(t==='dark')document.documentElement.setAttribute('data-theme','dark');}catch(e){}})();</script>
 <script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "Organization",
-  "name": "Orbit News Network",
-  "url": "https://onnxews.com",
-  "logo": {
-    "@type": "ImageObject",
-    "url": "https://onnxews.com/apple-touch-icon.png"
+[
+  {
+    "@context": "https://schema.org",
+    "@type": "Organization",
+    "name": "Orbit News Network",
+    "url": "https://onnxews.com",
+    "logo": "https://onnxews.com/apple-touch-icon.png",
+    "sameAs": [
+      "https://www.facebook.com/OrbitNewsNetwork",
+      "https://x.com/ONNxews",
+      "https://www.instagram.com/onnxewss/"
+    ]
   },
-  "sameAs": [
-    "https://www.facebook.com/OrbitNewsNetwork",
-    "https://x.com/ONNxews",
-    "https://www.instagram.com/onnxewss/"
-  ]
-}
-</script>
-<script type="application/ld+json">
-{
-  "@context": "https://schema.org",
-  "@type": "WebSite",
-  "name": "Orbit News Network",
-  "url": "https://onnxews.com",
-  "potentialAction": {
-    "@type": "SearchAction",
-    "target": "https://onnxews.com/search?q={search_term_string}",
-    "query-input": "required name=search_term_string"
+  {
+    "@context": "https://schema.org",
+    "@type": "WebSite",
+    "name": "Orbit News Network",
+    "url": "https://onnxews.com",
+    "publisher": {
+      "@type": "Organization",
+      "name": "Orbit News Network"
+    }
   }
-}
-</script></head>
-<body>
-<header class="mast">
-<a class="skip" href="#main">Skip to content</a>
-<div class="wrap">
-<div class="mast-top">
-<a class="logo" href="/" aria-label="Orbit News Network home"><span class="mark">ONN</span><span class="wordmark">Orbit News Network<small>Breaking news &amp; viral moments, daily</small></span></a>
-<div class="mast-tools">
-<span class="today" id="today">Friday, October 30, 2026</span>
-<a class="iconbtn" href="/search" aria-label="Search">⌕</a>
-<button class="iconbtn" id="themeBtn" aria-label="Toggle dark mode">◐</button>
-<button class="iconbtn" id="menuBtn" aria-label="Open menu" aria-expanded="false">☰</button>
-</div>
-</div>
-<nav class="mainnav" id="mainnav" aria-label="Sections"><ul>
-<li><a href="/">News</a></li>
-<li><a href="/category/world">World</a></li>
-<li><a href="/category/politics">Politics</a></li>
-<li><a href="/category/business">Business</a></li>
-<li><a href="/category/technology">Technology</a></li>
-<li><a href="/category/entertainment">Entertainment</a></li>
-<li><a href="/category/sports">Sports</a></li>
-<li><a href="/category/opinion">My Thoughts</a></li>
-</ul></nav>
-</div>
-</header><div class="strip"><div class="wrap"><b>LATEST</b><a href="/story/javits-frimpong-bronx-2026">15-YEAR-OLD JAVITS FRIMPONG SHOT AND KILLED ON HIS WAY TO SCHOOL IN THE BRONX</a></div></div><main id="main" class="wrap"><section class="hero" aria-label="Top stories"><a class="hero-lead" href="/story/javits-frimpong-bronx-2026"><figure><img src="/real-photos/bronx-school-file.jpg" alt="A school building (file photo)" fetchpriority="high" width="640" height="361" /></figure><div class="kick">National · Bronx</div><h1>15-YEAR-OLD JAVITS FRIMPONG SHOT AND KILLED ON HIS WAY TO SCHOOL IN THE BRONX</h1><p>Javits Frimpong, who moved from Ghana about a year ago to live with his father, was shot Thursday morning in the Bronx. His father says he believes bullying at school played a role. Police have made no arrests and have not confirmed a motive.</p></a><div class="hero-rail" aria-label="More top stories"><a class="rail-item" href="/story/patrick-stewart-dies-2026"><img src="/real-photos/patrick-stewart.jpg" alt="Patrick Stewart" loading="lazy" width="1297" height="1686" /><div><div class="kick">Entertainment</div><h3>MAKE IT SO, ONE LAST TIME: Sir Patrick Stewart Dies at 86</h3></div></a><a class="rail-item" href="/story/binance-crypto-hack-2026"><img src="/real-photos/binance-bitcoin.jpg" alt="Bitcoin" loading="lazy" width="1920" height="823" /><div><div class="kick">World</div><h3>THE BIGGEST CRYPTO HEIST EVER: Binance Says $6.3 Billion Hit in Hack</h3></div></a><a class="rail-item" href="/story/megan-hottieween-2026"><img src="/real-photos/megan-thee-stallion.jpg" alt="Megan Thee Stallion" loading="lazy" width="723" height="812" /><div><div class="kick">Entertainment</div><h3>THEE CIRCUS IS HERE: Megan Thee Stallion&#x27;s Hottieween Takes Over Vegas Tonight</h3></div></a></div></section><section class="support" aria-label="Supporting stories"><a class="sup wide" href="/story/dolores-huerta-dies-2026"><figure><img src="/real-photos/dolores-huerta.jpg" alt="Dolores Huerta" loading="lazy" width="1280" height="853" /></figure><div class="kick">U.S. News</div><h3>SÍ, SE PUEDE: Labor Leader Dolores Huerta Dies at 96</h3><p>Dolores Huerta — the labor leader who co-founded the United Farm Workers with Cesar Chavez and gave the movement its famous slogan — has died at 96, her family announced.</p></a><a class="sup mid" href="/story/okeefe-higby-charged-2026"><figure><img src="/real-photos/minnesota-voters.jpg" alt="Voters in Minnesota" loading="lazy" width="1280" height="854" /></figure><div class="kick">U.S. News</div><h3>CHARGED OVER A POLLING-PLACE STUNT: O&#x27;Keefe and Higby Face Felony Counts in Minnesota</h3><p>Minnesota prosecutors have charged conservative activist James O&#x27;Keefe and influencer Cam Higby with felony unlawful voting and identity theft over a hidden-camera polling-place stunt. Neither man actually voted, prosecutors say — but they say misrepresenting yourself while applying for a ballot is enough.</p></a><a class="sup narrow" href="/story/dnipro-train-station-strike-2026"><figure><img src="/real-photos/ukraine-railway-station.jpg" alt="A Ukrainian railway station" loading="lazy" width="1280" height="1392" /></figure><div class="kick">World</div><h3>13 KILLED AT A TRAIN STATION: Russian Drone Hits Passenger Train in Dnipro</h3><p>A Russian drone struck a passenger train at Dnipro&#x27;s main railway station in central Ukraine on Thursday morning, killing 13 people and injuring 10 others, authorities said.</p></a><a class="sup feature" href="/story/juju-watkins-return-2026"><figure><img src="/real-photos/juju-watkins.jpg" alt="JuJu Watkins" loading="lazy" width="1897" height="2688" /></figure><div><div class="kick">Sports · Feature</div><h3>JUJU IS BACK: Watkins Drops 18 in 23 Minutes in Return After 580 Days Out</h3><p>After 580 days out with a torn ACL, USC star JuJu Watkins returned Sunday and dropped 18 points in 23 minutes in an exhibition win over Cal.</p></div></a></section><section class="sec" aria-label="Latest headlines"><div class="sec-head"><h2>Latest headlines</h2><a href="/search">Search all stories →</a></div><div class="latest-grid"><a class="latest-item" href="/story/javits-frimpong-bronx-2026"><span class="idx">01</span><span><h3>15-YEAR-OLD JAVITS FRIMPONG SHOT AND KILLED ON HIS WAY TO SCHOOL IN THE BRONX</h3><span class="meta">U.S. News · Oct 30, 2026</span></span></a><a class="latest-item" href="/story/patrick-stewart-dies-2026"><span class="idx">02</span><span><h3>MAKE IT SO, ONE LAST TIME: Sir Patrick Stewart Dies at 86</h3><span class="meta">Entertainment · Oct 30, 2026</span></span></a><a class="latest-item" href="/story/binance-crypto-hack-2026"><span class="idx">03</span><span><h3>THE BIGGEST CRYPTO HEIST EVER: Binance Says $6.3 Billion Hit in Hack</h3><span class="meta">World · Oct 30, 2026</span></span></a><a class="latest-item" href="/story/megan-hottieween-2026"><span class="idx">04</span><span><h3>THEE CIRCUS IS HERE: Megan Thee Stallion&#x27;s Hottieween Takes Over Vegas Tonight</h3><span class="meta">Entertainment · Oct 30, 2026</span></span></a><a class="latest-item" href="/story/dolores-huerta-dies-2026"><span class="idx">05</span><span><h3>SÍ, SE PUEDE: Labor Leader Dolores Huerta Dies at 96</h3><span class="meta">U.S. News · Oct 29, 2026</span></span></a><a class="latest-item" href="/story/okeefe-higby-charged-2026"><span class="idx">06</span><span><h3>CHARGED OVER A POLLING-PLACE STUNT: O&#x27;Keefe and Higby Face Felony Counts in Minnesota</h3><span class="meta">U.S. News · Oct 29, 2026</span></span></a><a class="latest-item" href="/story/dnipro-train-station-strike-2026"><span class="idx">07</span><span><h3>13 KILLED AT A TRAIN STATION: Russian Drone Hits Passenger Train in Dnipro</h3><span class="meta">World · Oct 29, 2026</span></span></a><a class="latest-item" href="/story/demi-lovato-hospital-scare-2026"><span class="idx">08</span><span><h3>DEMI LOVATO SPEAKS OUT AFTER BRIEF HOSPITAL SCARE</h3><span class="meta">Entertainment · Oct 29, 2026</span></span></a><a class="latest-item" href="/story/cassidy-hutchinson-grand-jury-2026"><span class="idx">09</span><span><h3>GRAND JURY SAYS NO: No Indictment for Cassidy Hutchinson Over Jan. 6 Testimony</h3><span class="meta">Politics · Oct 28, 2026</span></span></a><a class="latest-item" href="/story/flavio-bolsonaro-flees-us-2026"><span class="idx">10</span><span><h3>BOLSONARO FLEES TO THE U.S.: Brazil Cancels His Passports After He Defies Court Order</h3><span class="meta">World · Oct 28, 2026</span></span></a><a class="latest-item" href="/story/cdc-drug-resistant-germs-2026"><span class="idx">11</span><span><h3>50,800 DEATHS A YEAR: CDC Warns Drug-Resistant Germs Are a Growing Crisis</h3><span class="meta">U.S. News · Oct 28, 2026</span></span></a><a class="latest-item" href="/story/ramayana-la-premiere-2026"><span class="idx">12</span><span><h3>RAMA MEETS RAVANA: Ranbir Kapoor and Yash’s Hug Steals the Ramayana LA Premiere</h3><span class="meta">Entertainment · Oct 28, 2026</span></span></a><a class="latest-item" href="/story/are-you-really-a-bird-2026"><span class="idx">13</span><span><h3>Are You Really a &#x27;Bird&#x27; or You Just Love Hard?</h3><span class="meta">Opinion · Oct 27, 2026</span></span></a><a class="latest-item" href="/story/signs-ho-halloween-2026"><span class="idx">14</span><span><h3>Signs Ur Ho Going This Halloween</h3><span class="meta">Opinion · Oct 27, 2026</span></span></a><a class="latest-item" href="/story/trump-reward-2026-10-27"><span class="idx">15</span><span><h3>$1 MILLION FOR A TIP: Trump Offers Cash for Voter Fraud Reports</h3><span class="meta">Politics · Oct 27, 2026</span></span></a><a class="latest-item" href="/story/israel-election-2026-10-27"><span class="idx">16</span><span><h3>ISRAEL VOTES: Netanyahu&#x27;s Survival on the Line in First Election Since Oct. 7</h3><span class="meta">World · Oct 27, 2026</span></span></a><a class="latest-item" href="/story/jayz-superbowl-2026-10-27"><span class="idx">17</span><span><h3>JAY-Z IS HEADLINING THE SUPER BOWL: Hov Picks Himself for Halftime</h3><span class="meta">Entertainment · Oct 27, 2026</span></span></a><a class="latest-item" href="/story/noah-wyle-sexiest-2026-10-27"><span class="idx">18</span><span><h3>FROM THE ER TO SEXIEST MAN ALIVE: Noah Wyle Takes People&#x27;s 2026 Title</h3><span class="meta">Entertainment · Oct 27, 2026</span></span></a><a class="latest-item" href="/story/nicki-minaj-dumb-ass-2026"><span class="idx">19</span><span><h3>Nicki Minaj&#x27;s a Dumb Ass</h3><span class="meta">Opinion · Oct 26, 2026</span></span></a><a class="latest-item" href="/story/eric-bauza-dies-2026"><span class="idx">20</span><span><h3>RIP TO THE VOICE OF OUR CHILDHOOD: Eric Bauza, Voice of Bugs Bunny and Daffy Duck, Dies at 46</h3><span class="meta">Entertainment · Oct 26, 2026</span></span></a><a class="latest-item" href="/story/juju-watkins-return-2026"><span class="idx">21</span><span><h3>JUJU IS BACK: Watkins Drops 18 in 23 Minutes in Return After 580 Days Out</h3><span class="meta">Sports · Oct 26, 2026</span></span></a><a class="latest-item" href="/story/heidi-klum-halloween-2026"><span class="idx">22</span><span><h3>HEIDIWEEN IS COMING — AND IT&#x27;S BLOODY: Heidi Klum Teases Her 2026 Halloween Costume</h3><span class="meta">Entertainment · Oct 26, 2026</span></span></a><a class="latest-item" href="/story/lula-brazil-win-2026"><span class="idx">23</span><span><h3>LULA WINS BRAZIL: President Takes Historic Fourth Term With 51.76% in Runoff</h3><span class="meta">World · Oct 26, 2026</span></span></a><a class="latest-item" href="/story/christians-halloween-debate-2026"><span class="idx">24</span><span><h3>Should Christians Celebrate Halloween? One Podcast Ignited a Holy War Over Candy, Tracts and Horror Movies</h3><span class="meta">Entertainment · Oct 24, 2026</span></span></a><a class="latest-item" href="/story/france-protests-second-weekend-2026"><span class="idx">25</span><span><h3>France Erupts Again: Hundreds of Thousands March in Second Weekend of Protests as Police Flood Paris Streets</h3><span class="meta">World · Oct 24, 2026</span></span></a><a class="latest-item" href="/story/eagles-nest-fire-2026"><span class="idx">26</span><span><h3>Fire Engulfs Hitler&#x27;s &#x27;Eagle&#x27;s Nest&#x27; Mountain Retreat in Bavaria</h3><span class="meta">World · Oct 24, 2026</span></span></a></div></section></main><section class="picks" aria-label="Editor’s Picks"><div class="wrap"><div class="sec-head"><h2>Editor’s Picks</h2></div><p class="note">Chosen by our editors — not ranked by traffic. This site has no analytics-based popularity ranking, so no view counts are shown.</p><div class="picks-grid"><a class="pick big" href="/story/patrick-stewart-dies-2026"><figure><img src="/real-photos/patrick-stewart.jpg" alt="Patrick Stewart" loading="lazy" width="1297" height="1686" /></figure><div class="kick">Entertainment</div><h3>MAKE IT SO, ONE LAST TIME: Sir Patrick Stewart Dies at 86</h3><p>From Shakespeare&#x27;s stage to the bridge of the Enterprise as Captain Jean-Luc Picard — and as Professor X in X-Men — Stewart defined two of the biggest franchises ever. He died at his Los Angeles home after a brief journey with Alzheimer&#x27;s disease and Lewy body dementia.</p></a><a class="pick" href="/story/juju-watkins-return-2026"><figure><img src="/real-photos/juju-watkins.jpg" alt="JuJu Watkins" loading="lazy" width="1897" height="2688" /></figure><div class="kick">Sports</div><h3>JUJU IS BACK: Watkins Drops 18 in 23 Minutes in Return After 580 Days Out</h3><p>After 580 days out with a torn ACL, USC star JuJu Watkins returned Sunday and dropped 18 points in 23 minutes in an exhibition win over Cal.</p></a><a class="pick" href="/story/are-you-really-a-bird-2026"><figure><img src="/real-photos/wedding.jpg" alt="A wedding couple" loading="lazy" width="960" height="720" /></figure><div class="kick">Opinion</div><h3>Are You Really a &#x27;Bird&#x27; or You Just Love Hard?</h3><p>TikTok will call any girl who loves out loud a bird. But there&#x27;s a difference between a bird and a girl who just loves hard — and most people calling names can&#x27;t tell them apart.</p></a><a class="pick text" href="/story/signs-ho-halloween-2026"><div class="kick">Opinion · My Thoughts</div><h3>Signs Ur Ho Going This Halloween</h3><p>Halloween is breakup season. Before the costumes come out, the signs show up first — distance, resources, attire, and the arguing that comes right before the breakup. Here&#x27;s how you know the breakup is coming before the party even starts.</p></a><a class="pick text" href="/story/nicki-minaj-dumb-ass-2026"><div class="kick">Opinion · My Thoughts</div><h3>Nicki Minaj&#x27;s a Dumb Ass</h3><p>She built a career off Black fans, then spent years cashing that love in for a seat at somebody else&#x27;s table. The press secretary rumors just made it official.</p></a></div></div></section><main class="wrap"><section class="showcase"><a class="show-feature" href="/story/javits-frimpong-bronx-2026"><figure><img src="/real-photos/bronx-school-file.jpg" alt="A school building (file photo)" loading="lazy" width="640" height="361" /></figure><div class="kick">U.S. News</div><h3>15-YEAR-OLD JAVITS FRIMPONG SHOT AND KILLED ON HIS WAY TO SCHOOL IN THE BRONX</h3><p>Javits Frimpong, who moved from Ghana about a year ago to live with his father, was shot Thursday morning in the Bronx. His father says he believes bullying at school played a role. Police have made no arrests and have not confirmed a motive.</p></a><div><div class="sec-head" style="margin-bottom:6px"><h2>U.S. News</h2><a href="/category/us-news">All U.S. News →</a></div><div class="show-more"><a href="/story/dolores-huerta-dies-2026">SÍ, SE PUEDE: Labor Leader Dolores Huerta Dies at 96<span class="meta">U.S. News · Oct 29, 2026</span></a><a href="/story/okeefe-higby-charged-2026">CHARGED OVER A POLLING-PLACE STUNT: O&#x27;Keefe and Higby Face Felony Counts in Minnesota<span class="meta">U.S. News · Oct 29, 2026</span></a><a href="/story/cdc-drug-resistant-germs-2026">50,800 DEATHS A YEAR: CDC Warns Drug-Resistant Germs Are a Growing Crisis<span class="meta">U.S. News · Oct 28, 2026</span></a></div></div></section><section class="showcase flip"><a class="show-feature" href="/story/binance-crypto-hack-2026"><figure><img src="/real-photos/binance-bitcoin.jpg" alt="Bitcoin" loading="lazy" width="1920" height="823" /></figure><div class="kick">World</div><h3>THE BIGGEST CRYPTO HEIST EVER: Binance Says $6.3 Billion Hit in Hack</h3><p>Binance says about $6.3 billion in assets was impacted in a security incident — dwarfing the $1.5 billion Bybit hack of 2025. About $3 billion has been frozen, withdrawals are suspended, and Binance says it will cover all losses.</p></a><div><div class="sec-head" style="margin-bottom:6px"><h2>World</h2><a href="/category/world">All World →</a></div><div class="show-more"><a href="/story/dnipro-train-station-strike-2026">13 KILLED AT A TRAIN STATION: Russian Drone Hits Passenger Train in Dnipro<span class="meta">World · Oct 29, 2026</span></a><a href="/story/flavio-bolsonaro-flees-us-2026">BOLSONARO FLEES TO THE U.S.: Brazil Cancels His Passports After He Defies Court Order<span class="meta">World · Oct 28, 2026</span></a><a href="/story/israel-election-2026-10-27">ISRAEL VOTES: Netanyahu&#x27;s Survival on the Line in First Election Since Oct. 7<span class="meta">World · Oct 27, 2026</span></a><a href="/story/lula-brazil-win-2026">LULA WINS BRAZIL: President Takes Historic Fourth Term With 51.76% in Runoff<span class="meta">World · Oct 26, 2026</span></a><a href="/story/france-protests-second-weekend-2026">France Erupts Again: Hundreds of Thousands March in Second Weekend of Protests as Police Flood Paris Streets<span class="meta">World · Oct 24, 2026</span></a><a href="/story/eagles-nest-fire-2026">Fire Engulfs Hitler&#x27;s &#x27;Eagle&#x27;s Nest&#x27; Mountain Retreat in Bavaria<span class="meta">World · Oct 24, 2026</span></a></div></div></section><section class="showcase"><a class="show-feature" href="/story/cassidy-hutchinson-grand-jury-2026"><figure><img src="/real-photos/cassidy-hutchinson.jpg" alt="Cassidy Hutchinson testifying" loading="lazy" width="709" height="881" /></figure><div class="kick">Politics</div><h3>GRAND JURY SAYS NO: No Indictment for Cassidy Hutchinson Over Jan. 6 Testimony</h3><p>A federal grand jury declined to indict the former White House aide over her testimony to the congressional panel that investigated the Jan. 6, 2021 Capitol attack. Hutchinson has maintained her testimony was truthful.</p></a><div><div class="sec-head" style="margin-bottom:6px"><h2>Politics</h2><a href="/category/politics">All Politics →</a></div><div class="show-more"><a href="/story/trump-reward-2026-10-27">$1 MILLION FOR A TIP: Trump Offers Cash for Voter Fraud Reports<span class="meta">Politics · Oct 27, 2026</span></a></div></div></section><section class="showcase flip"><a class="show-feature" href="/story/patrick-stewart-dies-2026"><figure><img src="/real-photos/patrick-stewart.jpg" alt="Patrick Stewart" loading="lazy" width="1297" height="1686" /></figure><div class="kick">Entertainment</div><h3>MAKE IT SO, ONE LAST TIME: Sir Patrick Stewart Dies at 86</h3><p>From Shakespeare&#x27;s stage to the bridge of the Enterprise as Captain Jean-Luc Picard — and as Professor X in X-Men — Stewart defined two of the biggest franchises ever. He died at his Los Angeles home after a brief journey with Alzheimer&#x27;s disease and Lewy body dementia.</p></a><div><div class="sec-head" style="margin-bottom:6px"><h2>Entertainment</h2><a href="/category/entertainment">All Entertainment →</a></div><div class="show-more"><a href="/story/megan-hottieween-2026">THEE CIRCUS IS HERE: Megan Thee Stallion&#x27;s Hottieween Takes Over Vegas Tonight<span class="meta">Entertainment · Oct 30, 2026</span></a><a href="/story/demi-lovato-hospital-scare-2026">DEMI LOVATO SPEAKS OUT AFTER BRIEF HOSPITAL SCARE<span class="meta">Entertainment · Oct 29, 2026</span></a><a href="/story/ramayana-la-premiere-2026">RAMA MEETS RAVANA: Ranbir Kapoor and Yash’s Hug Steals the Ramayana LA Premiere<span class="meta">Entertainment · Oct 28, 2026</span></a><a href="/story/jayz-superbowl-2026-10-27">JAY-Z IS HEADLINING THE SUPER BOWL: Hov Picks Himself for Halftime<span class="meta">Entertainment · Oct 27, 2026</span></a><a href="/story/noah-wyle-sexiest-2026-10-27">FROM THE ER TO SEXIEST MAN ALIVE: Noah Wyle Takes People&#x27;s 2026 Title<span class="meta">Entertainment · Oct 27, 2026</span></a><a href="/story/eric-bauza-dies-2026">RIP TO THE VOICE OF OUR CHILDHOOD: Eric Bauza, Voice of Bugs Bunny and Daffy Duck, Dies at 46<span class="meta">Entertainment · Oct 26, 2026</span></a><a href="/story/heidi-klum-halloween-2026">HEIDIWEEN IS COMING — AND IT&#x27;S BLOODY: Heidi Klum Teases Her 2026 Halloween Costume<span class="meta">Entertainment · Oct 26, 2026</span></a><a href="/story/christians-halloween-debate-2026">Should Christians Celebrate Halloween? One Podcast Ignited a Holy War Over Candy, Tracts and Horror Movies<span class="meta">Entertainment · Oct 24, 2026</span></a></div></div></section><section class="showcase"><a class="show-feature" href="/story/juju-watkins-return-2026"><figure><img src="/real-photos/juju-watkins.jpg" alt="JuJu Watkins" loading="lazy" width="1897" height="2688" /></figure><div class="kick">Sports</div><h3>JUJU IS BACK: Watkins Drops 18 in 23 Minutes in Return After 580 Days Out</h3><p>After 580 days out with a torn ACL, USC star JuJu Watkins returned Sunday and dropped 18 points in 23 minutes in an exhibition win over Cal.</p></a><div><div class="sec-head" style="margin-bottom:6px"><h2>Sports</h2><a href="/category/sports">All Sports →</a></div><div class="show-more"></div></div></section><section class="showcase flip"><a class="show-feature" href="/story/are-you-really-a-bird-2026"><figure><img src="/real-photos/wedding.jpg" alt="A wedding couple" loading="lazy" width="960" height="720" /></figure><div class="kick">My Thoughts</div><h3>Are You Really a &#x27;Bird&#x27; or You Just Love Hard?</h3><p>TikTok will call any girl who loves out loud a bird. But there&#x27;s a difference between a bird and a girl who just loves hard — and most people calling names can&#x27;t tell them apart.</p></a><div><div class="sec-head" style="margin-bottom:6px"><h2>My Thoughts</h2><a href="/category/opinion">All My Thoughts →</a></div><div class="show-more"><a href="/story/signs-ho-halloween-2026">Signs Ur Ho Going This Halloween<span class="meta">Opinion · Oct 27, 2026</span></a><a href="/story/nicki-minaj-dumb-ass-2026">Nicki Minaj&#x27;s a Dumb Ass<span class="meta">Opinion · Oct 26, 2026</span></a></div></div></section><section class="newsletter" aria-label="Newsletter"><h2>Get Orbit News in your inbox</h2><p>We are setting up our mailing list. Until a mailing service is connected, this form does not collect or store your address — submitting it only shows this notice.</p><form id="nlForm"><input type="email" name="email" placeholder="Your email address" aria-label="Email address" required /><button type="submit">Sign up</button></form><p class="nl-note" id="nlNote">Newsletter signup is not connected to a mailing service yet.</p></section></main><footer class="site"><div class="wrap">
-<div class="foot-grid">
-<div><h3>Orbit News Network</h3>
-<p>An independent news site, published daily by Peter Osibajo — covering the biggest national, world, sports and culture stories, posted fast, hook first.</p>
-<p><a href="https://www.facebook.com/OrbitNewsNetwork">Facebook</a> · <a href="https://x.com/ONNxews">X / @ONNxews</a> · <a href="https://www.instagram.com/onnxewss/">Instagram / @onnxewss</a></p></div>
-<div><h3>Sections</h3><ul>
-<li><a href="/">News</a></li><li><a href="/category/world">World</a></li><li><a href="/category/politics">Politics</a></li><li><a href="/category/entertainment">Entertainment</a></li><li><a href="/category/sports">Sports</a></li><li><a href="/category/opinion">My Thoughts</a></li>
-</ul></div>
-<div><h3>Publisher</h3><ul>
-<li><a href="/about">About Orbit News Network</a></li>
-<li><a href="/editorial-policy">Editorial Policy</a></li>
-<li><a href="/editorial-policy">Corrections</a></li>
-<li><a href="/privacy">Privacy Policy</a></li>
-<li><a href="/terms">Terms of Use</a></li>
-<li><a href="/contact">Contact Us</a></li>
-<li><a href="/advertising">Advertising</a></li>
-</ul></div>
-<div><h3>Follow</h3><ul>
-<li><a href="https://www.facebook.com/OrbitNewsNetwork">Facebook — Orbit News Network</a></li>
-<li><a href="https://x.com/ONNxews">X — @ONNxews</a></li>
-<li><a href="https://www.instagram.com/onnxewss/">Instagram — @onnxewss</a></li>
-<li><a href="/search">Search the site</a></li>
-</ul></div>
-</div>
-<div class="foot-bottom"><span>© 2026 Orbit News Network. Published by Peter Osibajo.</span><span>Original summaries with source links — never full article text from other outlets.</span></div>
-</div></footer>
-<script>
-(function(){
-  var btn=document.getElementById('themeBtn');
-  if(btn)btn.addEventListener('click',function(){
-    var dark=document.documentElement.getAttribute('data-theme')==='dark';
-    if(dark){document.documentElement.removeAttribute('data-theme');try{localStorage.setItem('onn-theme','light');}catch(e){}}
-    else{document.documentElement.setAttribute('data-theme','dark');try{localStorage.setItem('onn-theme','dark');}catch(e){}}
-  });
-  var menu=document.getElementById('menuBtn'),nav=document.getElementById('mainnav');
-  if(menu&&nav)menu.addEventListener('click',function(){
-    var open=nav.classList.toggle('open');
-    menu.setAttribute('aria-expanded',open?'true':'false');
-  });
-  var d=document.getElementById('today');
-  if(d){try{d.textContent=new Date().toLocaleDateString('en-US',{weekday:'long',year:'numeric',month:'long',day:'numeric'});}catch(e){}}
-  var nl=document.getElementById('nlForm');
-  if(nl)nl.addEventListener('submit',function(e){
-    e.preventDefault();
-    var n=document.getElementById('nlNote');
-    if(n)n.textContent='Newsletter signup is not connected to a mailing service yet — no address was collected or stored.';
-  });
-})();
+]
 </script>
+</head>
+  <body>
+
+    <!-- TICKER -->
+    <header class="masthead">
+      <div class="wrap">
+        <div class="mast-top">
+          <span>Friday, October 30, 2026 · Est. 2026</span>
+        </div>
+        <div class="wordmark">
+          <svg class="orbit-mark" viewBox="0 0 100 100" role="img" aria-label="Orbit News Network logo — a planet with an orbiting ring">
+            <circle cx="50" cy="50" r="21" fill="var(--red)" />
+            <circle cx="50" cy="50" r="9" fill="var(--paper)" opacity="0.35" />
+            <ellipse cx="50" cy="50" rx="46" ry="17" fill="none" stroke="var(--ink)" stroke-width="4" transform="rotate(-18 50 50)" />
+            <circle cx="88" cy="33" r="5.5" fill="var(--ink)" />
+          </svg>
+          <h1>Orbit<span class="net">News Network</span></h1>
+        </div>
+        <div class="mast-tag">
+          <p>The biggest stories on the timeline — national, world and culture — posted fast, hook first, no dry headlines.</p>
+        </div>
+      </div>
+      <nav class="sections" aria-label="News sections">
+        <div class="wrap">
+          <a href="#latest" class="active">Latest</a>
+          <a href="#latest" data-jump="National">National</a>
+          <a href="#latest" data-jump="World">World</a>
+          <a href="#latest" data-jump="Sports">Sports</a>
+          <a href="#latest" data-jump="Culture">Culture</a>
+          <a href="#mythoughts">My Thoughts</a>
+          <a href="#archive">Archive</a>
+        </div>
+      </nav>
+    </header>
+
+    <main class="wrap">
+      <div class="breaking"><span class="blabel">BREAKING</span><span id="breakingText"></span></div>
+      <!-- HERO -->
+      <section class="hero" aria-label="Top stories">
+        <a class="lead" href="#story-javits-frimpong-bronx-2026" data-open="javits-frimpong-bronx-2026">
+          <img class="bg" src="real-photos/bronx-school-file.jpg" alt="A school building (file photo)" />
+          <div class="lead-body">
+            <span class="kicker"><span class="tag">National</span> National · Bronx · Lead story</span>
+            <h2>15-YEAR-OLD JAVITS FRIMPONG SHOT AND KILLED ON HIS WAY TO SCHOOL IN THE BRONX</h2>
+            <p>Javits Frimpong, who moved from Ghana about a year ago to live with his father, was shot Thursday morning in the Bronx. His father says he believes bullying at school played a role. Police have made no arrests and have not confirmed a motive.</p>
+            <div class="meta"><span>Orbit News Network</span><span>Today</span><span>3 min read</span></div>
+          </div>
+        </a>
+      </section>
+
+      <!-- LATEST + RANKED -->
+      <div class="sec-head" id="mythoughts">
+        <h2>My Thoughts<span class="o">.</span></h2>
+        <p>Straight from Olu — his unfiltered, controversial takes. Not the newsroom's voice.</p>
+      </div>
+      <div class="cards" id="thoughtsList"></div>
+
+      <div class="sec-head" id="latest">
+        <h2>The Latest<span class="o">.</span></h2>
+        <p>Every story Orbit is running right now. Tap any story to read the full breakdown.</p>
+      </div>
+      <div class="feed-layout">
+        <div>
+          <div class="controls">
+            <div class="chips" id="chips" role="group" aria-label="Filter stories by section">
+              <button class="chip" data-filter="All" aria-pressed="true">All</button>
+              <button class="chip" data-filter="National" aria-pressed="false">National</button>
+              <button class="chip" data-filter="World" aria-pressed="false">World</button>
+              <button class="chip" data-filter="Sports" aria-pressed="false">Sports</button>
+              <button class="chip" data-filter="Culture" aria-pressed="false">Culture</button>
+              <button class="chip" data-filter="Space" aria-pressed="false">Space</button>
+              <button class="chip" data-filter="Money" aria-pressed="false">Money</button>
+            </div>
+            <label class="search">
+              <svg width="15" height="15" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.4" aria-hidden="true"><circle cx="11" cy="11" r="7"/><path d="M20 20l-3.8-3.8"/></svg>
+              <input type="search" id="searchInput" placeholder="Search stories…" aria-label="Search stories" />
+            </label>
+          </div>
+          <div class="cards" id="cards"></div>
+        </div>
+      </div>
+
+      <div class="sec-head" id="mostread">
+        <h2>Most Read<span class="o">.</span></h2>
+        <p>The stories everybody's clicking — ranked.</p>
+      </div>
+      <div id="rankList"></div>
+
+      <!-- ARCHIVE -->
+      <div class="sec-head" id="archive">
+        <h2>The Archive<span class="o">.</span></h2>
+        <p>Every story Orbit has published — newest first. Nothing gets deleted anymore.</p>
+      </div>
+      <div class="wire" id="archiveList"></div>
+
+      <footer>
+        <div>
+          <span class="f-brand">Orbit News Network</span><br />
+          Independent news, posted daily.<br />
+          Summaries and source links — never full article text.
+        </div>
+        <div>
+          <a href="https://www.facebook.com/OrbitNewsNetwork" target="_blank" rel="noopener">Facebook</a> ·
+          <a href="https://x.com/ONNxews" target="_blank" rel="noopener">X / @ONNxews</a> ·
+          <a href="https://www.instagram.com/onnxewss/" target="_blank" rel="noopener">Instagram</a> ·
+          <a href="https://cash.app/$Jomilojuosi" target="_blank" rel="noopener">💚 Donate</a> ·
+          <a href="/about">About</a> · <a href="/privacy">Privacy Policy</a> · <a href="/editorial-policy">Editorial Policy</a><br />
+          <span class="mono" style="font-size:11.5px;">FRIDAY, OCTOBER 30, 2026 EDITION</span>
+        </div>
+      </footer>
+    </main>
+    <p class="credits">Photos: via Wikimedia Commons (public domain / CC BY-SA) unless noted. Story details drawn from wire reporting and Orbit News Network's own coverage.</p>
+
+    <!-- READER -->
+    <div class="reader" id="reader" role="dialog" aria-modal="true" aria-labelledby="readerTitle">
+      <div class="reader-bar">
+        <div class="wrap">
+          <span class="brand">Orbit <span>News Network</span></span>
+          <div class="reader-nav">
+            <button class="share-btn" id="readerShareTop" aria-label="Share this story"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V4"/><path d="M6.5 9.5 12 4l5.5 5.5"/><path d="M5 13v6.5A1.5 1.5 0 0 0 6.5 21h11A1.5 1.5 0 0 0 19 19.5V13"/></svg>Share</button>
+            <button class="icon-btn" id="readerPrev" aria-label="Previous story">←</button>
+            <button class="icon-btn" id="readerNext" aria-label="Next story">→</button>
+            <button class="icon-btn" id="readerClose" aria-label="Close story">✕</button>
+          </div>
+        </div>
+      </div>
+      <article class="reader-inner">
+        <span class="kicker plain" id="readerKicker"></span>
+        <h2 id="readerTitle"></h2>
+        <p class="reader-dek" id="readerDek"></p>
+        <div class="reader-meta" id="readerMeta"></div>
+        <div class="reader-img" id="readerImgWrap"><img id="readerImg" alt="" /></div>
+        <p class="reader-cap" id="readerCap"></p>
+        <div class="reader-body" id="readerBody"></div>
+        <div class="reader-links" id="readerLinks"></div>
+        <div class="share-box" aria-label="Share this story">
+          <h3>Share this story</h3>
+          <p>Pass it on — post it, text it, drop it in the group chat.</p>
+          <div class="share-row">
+            <button class="share-btn" id="readerShareBottom"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V4"/><path d="M6.5 9.5 12 4l5.5 5.5"/><path d="M5 13v6.5A1.5 1.5 0 0 0 6.5 21h11A1.5 1.5 0 0 0 19 19.5V13"/></svg>Share</button>
+            <button class="share-opt" data-share-opt="x"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.8 4h2.7l-6 6.8L21.5 20h-5.5l-4.3-5.6L6.7 20H4l6.4-7.3L3.7 4H9.4l3.9 5.1L17.8 4zm-1 14.3h1.5L8.5 5.6H6.9l9.9 12.7z"/></svg>Post on X</button>
+            <button class="share-opt" data-share-opt="fb"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.5 21v-7h2.4l.4-3h-2.8V9.1c0-.9.3-1.5 1.6-1.5h1.3V4.9c-.3 0-1.1-.1-2-.1-2 0-3.4 1.2-3.4 3.5V11H8.5v3H11v7h2.5z"/></svg>Facebook</button>
+            <button class="share-opt" data-share-opt="wa"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.6a8.4 8.4 0 0 0-7.2 12.6L3.6 20.4l4.3-1.1A8.4 8.4 0 1 0 12 3.6z"/></svg>WhatsApp</button>
+            <button class="share-opt" data-share-opt="copy"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></svg>Copy link</button>
+          </div>
+        </div>
+        <div class="reader-next">
+          <button id="readerPrev2"><span>Previous</span><em id="prevTitle" style="font-style:normal;"></em></button>
+          <button id="readerNext2" class="nx"><span>Next</span><em id="nextTitle" style="font-style:normal;"></em></button>
+        </div>
+      </article>
+    </div>
+
+    <!-- SHARE MENU + TOAST -->
+    <div class="share-menu" id="shareMenu" role="menu" aria-label="Share options">
+      <div class="sm-head">Share this story</div>
+      <button data-share-opt="x" role="menuitem"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M17.8 4h2.7l-6 6.8L21.5 20h-5.5l-4.3-5.6L6.7 20H4l6.4-7.3L3.7 4H9.4l3.9 5.1L17.8 4zm-1 14.3h1.5L8.5 5.6H6.9l9.9 12.7z"/></svg>Post on X</button>
+      <button data-share-opt="fb" role="menuitem"><svg viewBox="0 0 24 24" fill="currentColor" aria-hidden="true"><path d="M13.5 21v-7h2.4l.4-3h-2.8V9.1c0-.9.3-1.5 1.6-1.5h1.3V4.9c-.3 0-1.1-.1-2-.1-2 0-3.4 1.2-3.4 3.5V11H8.5v3H11v7h2.5z"/></svg>Share on Facebook</button>
+      <button data-share-opt="wa" role="menuitem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 3.6a8.4 8.4 0 0 0-7.2 12.6L3.6 20.4l4.3-1.1A8.4 8.4 0 1 0 12 3.6z"/></svg>Send on WhatsApp</button>
+      <button data-share-opt="copy" role="menuitem"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><rect x="9" y="9" width="11" height="11" rx="2"/><path d="M5 15V6a2 2 0 0 1 2-2h9"/></svg>Copy link</button>
+    </div>
+    <div class="toast" id="toast" role="status" aria-live="polite"></div>
+
+    <script>
+      (function () {
+        "use strict";
+
+        var FB = "https://www.facebook.com/OrbitNewsNetwork";
+        var X = "https://x.com/ONNxews";
+        var DEFAULT_AUTHOR = "Peter Osibajo";
+
+        var ARTICLES = [
+          {
+            id: "javits-frimpong-bronx-2026",
+            cat: "National",
+            kicker: "National · Bronx",
+            title: "15-YEAR-OLD JAVITS FRIMPONG SHOT AND KILLED ON HIS WAY TO SCHOOL IN THE BRONX",
+            dek: "Javits Frimpong, who moved from Ghana about a year ago to live with his father, was shot Thursday morning in the Bronx. His father says he believes bullying at school played a role. Police have made no arrests and have not confirmed a motive.",
+            img: "real-photos/bronx-school-file.jpg",
+            alt: "A school building (file photo)",
+            cap: "A school building. File photo — not DreamYard Preparatory School.",
+            time: "Today",
+            date: "Oct 30, 2026",
+            read: "3 min read",
+            body: [
+              "BRONX — Javits Frimpong, 15, was shot and killed Thursday morning while walking to school in the Bronx, police said. He was struck once in the abdomen shortly before 9:30 a.m. near East 171st Street and Crotona Place in the Claremont section, about two blocks from his home, and later died at St. Barnabas Hospital.",
+              "Javits had moved from Ghana to the United States about a year ago to live with his father, Thomas Frimpong, 60. His mother remains in Ghana. He was a student at DreamYard Preparatory School, and family accounts reported in the press described him as a quiet boy who had hoped to become a doctor.",
+              "His father told reporters that the school's principal had called him just days before the shooting to say two boys had fought with Javits at school and were suspended for a week, and that the principal told him Javits was not to blame and had been defending himself. Javits had also told his father that a student bullied him repeatedly at lunch and that he had reported it several times. His father believes the bullying may be connected to his son's killing.",
+              "Police are searching for three suspects believed to be between 16 and 18 years old, described as wearing black clothing and blue surgical masks, who fled the scene after the shooting. No arrests have been made, and the motive remains under investigation. Police have not confirmed any link between the bullying and the killing, and have not said whether Javits was targeted.",
+              "The school and the city's Department of Education did not immediately respond to requests for comment, according to CBS News New York reporting.",
+              "Thomas Frimpong, who had woken his son for school that morning, called his boy \"my everything\" as he spoke to reporters from the hospital, and said he had to break the news to relatives still in Ghana.",
+              "The investigation is ongoing. Anyone with information is asked to contact the NYPD's Crime Stoppers hotline at 1-800-577-TIPS."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "patrick-stewart-dies-2026",
+            cat: "Culture",
+            kicker: "Culture · Obituary",
+            title: "MAKE IT SO, ONE LAST TIME: Sir Patrick Stewart Dies at 86",
+            dek: "From Shakespeare's stage to the bridge of the Enterprise as Captain Jean-Luc Picard — and as Professor X in X-Men — Stewart defined two of the biggest franchises ever. He died at his Los Angeles home after a brief journey with Alzheimer's disease and Lewy body dementia.",
+            img: "real-photos/patrick-stewart.jpg",
+            alt: "Patrick Stewart",
+            cap: "Patrick Stewart. Photo: Gage Skidmore, via Wikimedia Commons (CC BY-SA).",
+            time: "Today",
+            date: "Oct 30, 2026",
+            read: "3 min read",
+            body: [
+              "LOS ANGELES — Sir Patrick Stewart has died at the age of 86. A statement shared on his social media on Thursday said he died Wednesday, Oct. 28, at his home in Los Angeles, in the loving care of his beloved wife Sunny, following a brief and poignant journey with Alzheimer's disease and Lewy body dementia.",
+              "Stewart rose from poverty in Mirfield, Yorkshire, where he was born on July 13, 1940. He won a scholarship to the Bristol Old Vic Theatre School and spent much of the 1960s with the Royal Shakespeare Company, building a reputation as one of Britain's great classical stage actors before television made him a global star.",
+              "That stardom arrived as Captain Jean-Luc Picard in Star Trek: The Next Generation, which ran from 1987 to 1994. As the erudite, diplomatic captain of the Enterprise, Stewart gave science fiction one of its most enduring moral centers — a leader who quoted Shakespeare, argued for principle over force, and made a starship bridge feel like a debating chamber.",
+              "He returned to the role decades later in Star Trek: Picard, which ran from 2020 to 2023, closing the circle on a character he had played on and off for more than thirty years.",
+              "In parallel, Stewart became Professor Charles Xavier in the X-Men films, the telepathic mentor at the heart of the mutant saga — a second franchise-defining role, played with the same calm authority he brought to Picard.",
+              "He was knighted in 2010 by Queen Elizabeth II for his contributions to drama, an honor that recognized a career spanning the stage, the screen, and two of the biggest universes in popular culture.",
+              "Tributes poured in from across Hollywood after the announcement, including from Hugh Jackman, who starred alongside Stewart in the X-Men franchise and remembered him as both a mentor and a friend.",
+              "Stewart is survived by his wife, musician Sunny Ozell, and his two children, Daniel and Sophie, from his first marriage. He once said he could not imagine ever officially retiring — and he never did."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "binance-crypto-hack-2026",
+            cat: "World",
+            kicker: "World · Crypto",
+            title: "THE BIGGEST CRYPTO HEIST EVER: Binance Says $6.3 Billion Hit in Hack",
+            dek: "Binance says about $6.3 billion in assets was impacted in a security incident — dwarfing the $1.5 billion Bybit hack of 2025. About $3 billion has been frozen, withdrawals are suspended, and Binance says it will cover all losses.",
+            img: "real-photos/binance-bitcoin.jpg",
+            alt: "Bitcoin",
+            cap: "Bitcoin. Photo via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 30, 2026",
+            read: "3 min read",
+            body: [
+              "Binance, the world's largest cryptocurrency exchange by volume, says about $6.3 billion in assets was impacted in a security incident late Thursday, in what would be the largest cryptocurrency theft on record — dwarfing the $1.5 billion Bybit hack of 2025.",
+              "Attackers drained Binance's hot wallets across multiple blockchains, with most of the coins — including bitcoin, ether and stablecoins USDT and USDC — leaving in a burst that lasted only about 20 minutes, according to blockchain analysts tracking the theft.",
+              "Binance says it has worked with industry partners to freeze about $3 billion in stolen assets so far, and that withdrawals remain suspended while it finishes security checks. Deposits remain open, and the exchange has said withdrawals could resume roughly 45 to 48 hours after the incident.",
+              "To reassure users, Binance says it has set aside more than $6.34 billion in company resources to restore customer balances, with $5 billion already held in the exact token assets that were affected. Co-CEO Yi He has said the platform will cover all hacking losses.",
+              "Binance's preliminary investigation points to a compromised DevOps engineer's laptop as a possible way in, allowing an attacker to reach a service container and submit unauthorized withdrawal transactions. The exchange says it has found no evidence of a wallet private key leak.",
+              "Blockchain analysis firms including Chainalysis and TRM Labs have linked the attack with high confidence to North Korea's TraderTraitor hacking unit, the group the FBI blamed for the Bybit theft. Binance itself has not named an attacker, and that attribution remains the investigators' assessment.",
+              "The scale of the theft — and the speed with which it was carried out — is already spurring calls for stronger withdrawal safeguards and coordinated industry responses, as exchanges, stablecoin issuers and law enforcement work to track and recover the frozen funds."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "megan-hottieween-2026",
+            cat: "Culture",
+            kicker: "Culture · Music",
+            title: "THEE CIRCUS IS HERE: Megan Thee Stallion's Hottieween Takes Over Vegas Tonight",
+            dek: "Megan Thee Stallion's annual Hottieween party takes over Zouk Nightclub in Las Vegas tonight — a circus-themed blowout with Cirque du Soleil, special guest Uncle Waffles, and costumes mandatory.",
+            img: "real-photos/megan-thee-stallion.jpg",
+            alt: "Megan Thee Stallion",
+            cap: "Megan Thee Stallion. Photo via Wikimedia Commons (CC BY).",
+            time: "Today",
+            date: "Oct 30, 2026",
+            read: "3 min read",
+            body: [
+              "LAS VEGAS — Megan Thee Stallion's annual Hottieween party takes over Zouk Nightclub in Las Vegas tonight, a circus-themed blowout built for Halloween weekend.",
+              "This year's edition brings Cirque du Soleil into the mix, with special guest Uncle Waffles on the bill — and costumes mandatory for everyone walking through the door.",
+              "The creepy black-and-white trailer for the party dropped Wednesday, setting the tone for a night that leans fully into the circus theme rather than a standard club set.",
+              "A portion of proceeds from the night benefits Megan's Pete & Thomas Foundation, the organization she founded in honor of her parents, which supports education, housing and health initiatives.",
+              "Hottieween has become an annual fixture for Megan's fans, the Hotties, who treat the Halloween party as one of the biggest nights on her calendar — a costume party, a concert and a full production in one.",
+              "Tonight's Vegas edition is the latest stop in that tradition, on Halloween eve itself, with the circus theme giving the party its biggest stage yet."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "dolores-huerta-dies-2026",
+            cat: "National",
+            kicker: "National · Labor",
+            title: "SÍ, SE PUEDE: Labor Leader Dolores Huerta Dies at 96",
+            dek: "Dolores Huerta — the labor leader who co-founded the United Farm Workers with Cesar Chavez and gave the movement its famous slogan — has died at 96, her family announced.",
+            img: "real-photos/dolores-huerta.jpg",
+            alt: "Dolores Huerta",
+            cap: "Dolores Huerta. Photo: Angela Hollowell, via Wikimedia Commons (CC BY).",
+            time: "Today",
+            date: "Oct 29, 2026",
+            read: "3 min read",
+            body: [
+              "Dolores Huerta, the labor leader who co-founded the United Farm Workers with Cesar Chavez and gave the movement its famous slogan, has died at the age of 96, her family announced.",
+              "Huerta was the movement's great organizer. While Chavez became its public face, Huerta built the machinery behind it — negotiating contracts, lobbying legislators and leading boycotts that forced growers to the table.",
+              "Her slogan, Sí, se puede — yes, it can be done — became the rallying cry of the farmworker movement, and later of much wider struggles for workers' rights and civil rights in America.",
+              "From the Delano grape strike to the landmark 1975 California farmworker bargaining law, her organizing changed life in the fields. The strike and the nationwide grape boycott that followed brought the conditions of farmworkers — low pay, long hours, exposure to pesticides — into American living rooms for the first time.",
+              "The 1975 law gave California farmworkers the right to bargain collectively, a breakthrough that turned years of protest into lasting legal protection.",
+              "In 2012, Huerta was awarded the Presidential Medal of Freedom, the nation's highest civilian honor, for a lifetime of organizing on behalf of workers, immigrants and women.",
+              "She kept organizing for decades after the UFW's founding years, and the slogan she coined outlived every campaign it was written for. Sí, se puede is now part of the American language — and it started in the fields with Dolores Huerta."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "okeefe-higby-charged-2026",
+            cat: "National",
+            kicker: "National · Politics",
+            title: "CHARGED OVER A POLLING-PLACE STUNT: O'Keefe and Higby Face Felony Counts in Minnesota",
+            dek: "Minnesota prosecutors have charged conservative activist James O'Keefe and influencer Cam Higby with felony unlawful voting and identity theft over a hidden-camera polling-place stunt. Neither man actually voted, prosecutors say — but they say misrepresenting yourself while applying for a ballot is enough.",
+            img: "real-photos/minnesota-voters.jpg",
+            alt: "Voters in Minnesota",
+            cap: "Voters in Minnesota. Photo via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 29, 2026",
+            read: "3 min read",
+            body: [
+              "Minnesota prosecutors have charged conservative activist James O'Keefe and influencer Cam Higby with felony unlawful voting and identity theft, over a hidden-camera stunt at Minneapolis polling places during the August primary.",
+              "Prosecutors say the pair posed as registered voters at polling places in a stunt designed to test Minnesota's vouching system, under which a registered voter can vouch for another person's residency at the polls.",
+              "Neither man actually voted, prosecutors say. The charges rest on the allegation that misrepresenting yourself while applying for a ballot is itself a crime, even when no ballot is ultimately cast.",
+              "The charges are accusations, not convictions, and the cases will proceed through the courts, where the defendants will have the opportunity to respond to the allegations.",
+              "The stunt and the charges land in the middle of a long-running national debate over election procedures, in which hidden-camera investigations have repeatedly been used to test — and to challenge — how polling places verify voters.",
+              "Minnesota's vouching system has been a particular flashpoint in that debate, defended by its supporters as a way to make sure eligible voters are not turned away, and criticized by its opponents as a weak point in voter verification.",
+              "For now, the legal question is narrower than that debate: whether posing as a registered voter to apply for a ballot, without voting, amounts to unlawful voting and identity theft under Minnesota law. That is what prosecutors will now have to prove."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "dnipro-train-station-strike-2026",
+            cat: "World",
+            kicker: "World · Ukraine",
+            title: "13 KILLED AT A TRAIN STATION: Russian Drone Hits Passenger Train in Dnipro",
+            dek: "A Russian drone struck a passenger train at Dnipro's main railway station in central Ukraine on Thursday morning, killing 13 people and injuring 10 others, authorities said.",
+            img: "real-photos/ukraine-railway-station.jpg",
+            alt: "A Ukrainian railway station",
+            cap: "A Ukrainian railway station (related photo). Photo via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 29, 2026",
+            read: "3 min read",
+            body: [
+              "A Russian drone struck a passenger train at Dnipro's main railway station in central Ukraine on Thursday morning, killing 13 people and injuring 10 others, authorities said.",
+              "People were standing on the platform boarding a commuter train when the drone hit, according to authorities, turning an ordinary morning departure into a mass-casualty attack.",
+              "President Volodymyr Zelensky called the strike horrific and urged that sanctions on Moscow not be eased while the war continues, framing the attack as a deliberate strike on civilians going about their day.",
+              "Dnipro, in central Ukraine, is a major railway hub, and its station has been a lifeline throughout the war — moving civilians, soldiers and supplies across the country.",
+              "Strikes on transport infrastructure have been a recurring feature of the war, but an attack on passengers boarding a train at a city station stands out for its direct toll on civilians in transit.",
+              "The casualty figures are the authorities' initial count and may be updated as rescue and medical efforts continue. For the families of those killed on the platform, the morning's departure never arrived."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "demi-lovato-hospital-scare-2026",
+            cat: "Culture",
+            kicker: "Culture · Celebrity",
+            title: "DEMI LOVATO SPEAKS OUT AFTER BRIEF HOSPITAL SCARE",
+            dek: "The singer says she had a brief hospital visit after a possible allergic reaction — possibly from passionfruit or sushi, though the exact trigger is not confirmed. She reassured fans she is doing fine after being discharged.",
+            img: "real-photos/demi-lovato.png",
+            alt: "Demi Lovato",
+            cap: "Demi Lovato. Photo via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 29, 2026",
+            read: "3 min read",
+            body: [
+              "Demi Lovato says she had a brief hospital visit after a possible allergic reaction, and has reassured fans she is doing fine after being discharged.",
+              "Lovato shared a photo showing an IV and a hospital wristband, telling fans about the scare herself before speculation could fill the gap.",
+              "The possible trigger was passionfruit or sushi, according to Lovato's account — though the exact cause is not confirmed, and Lovato did not present it as a diagnosis.",
+              "Lovato later deleted the posts, after the initial message had already spread and fans had responded with concern.",
+              "What remains clear from Lovato's own account is the outcome: a brief visit, a discharge, and a reassurance that she is doing fine.",
+              "No further medical detail has been shared, and the episode, as Lovato described it, was short — a scare, not a longer hospital stay."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "cassidy-hutchinson-grand-jury-2026",
+            cat: "Politics",
+            kicker: "Politics · Justice",
+            title: "GRAND JURY SAYS NO: No Indictment for Cassidy Hutchinson Over Jan. 6 Testimony",
+            dek: "A federal grand jury declined to indict the former White House aide over her testimony to the congressional panel that investigated the Jan. 6, 2021 Capitol attack. Hutchinson has maintained her testimony was truthful.",
+            img: "real-photos/cassidy-hutchinson.jpg",
+            alt: "Cassidy Hutchinson testifying",
+            cap: "Cassidy Hutchinson testifying before the House Jan. 6 committee in June 2022. Photo: U.S. House Select Committee on the January 6 Attack, via Wikimedia Commons (public domain).",
+            time: "Today",
+            date: "Oct 28, 2026",
+            read: "2 min read",
+            body: [
+              "WASHINGTON — A federal grand jury has declined to indict former White House aide Cassidy Hutchinson over her testimony to the congressional panel that investigated the Jan. 6, 2021 attack on the U.S. Capitol.",
+              "The Justice Department had been investigating whether Hutchinson gave false testimony to Congress. Hutchinson has maintained that her testimony was truthful.",
+              "A prosecutor told a judge in court that the grand jury rejected an indictment, without naming the defendant in court, according to Reuters.",
+              "Hutchinson, a former aide to White House chief of staff Mark Meadows, became one of the most prominent witnesses in the Jan. 6 inquiry. Her televised testimony in June 2022 put her account of events inside the White House on the day of the attack at the center of the investigation.",
+              "Parts of that testimony were disputed by allies of former President Donald Trump, while Hutchinson stood by her account. The grand jury decision closes the charging question that had hung over her since the investigation opened.",
+              "The refusal means Hutchinson will not face charges from this grand jury presentation. Grand juries return indictments only when prosecutors persuade a majority that there is probable cause to charge; a refusal, often called a no bill, ends that particular effort.",
+              "For now, the case that had shadowed one of the Jan. 6 inquiry’s best-known witnesses has ended at the grand jury stage."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "flavio-bolsonaro-flees-us-2026",
+            cat: "World",
+            kicker: "World · Brazil",
+            title: "BOLSONARO FLEES TO THE U.S.: Brazil Cancels His Passports After He Defies Court Order",
+            dek: "Days after Brazil’s presidential runoff, Senator Flávio Bolsonaro left the country for the United States after defying a Supreme Court order to surrender his passports. Brazil’s Federal Police have now cancelled them.",
+            img: "real-photos/flavio-bolsonaro.jpg",
+            alt: "Flávio Bolsonaro",
+            cap: "Flávio Bolsonaro. Photo: Agência Senado, via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 28, 2026",
+            read: "2 min read",
+            body: [
+              "Senator Flávio Bolsonaro has left Brazil for the United States, days after Brazil’s presidential runoff, defying a Supreme Court order to surrender his passports within 24 hours.",
+              "Brazil’s Federal Police have now cancelled his passports, according to reports on his departure.",
+              "The U.S. State Department says it will issue visas to Bolsonaro and his family, clearing the way for their stay in the United States.",
+              "How he left the country remains unclear. Police say there is no official record of his departure, leaving the route and timing of his exit unaccounted for in official records.",
+              "The passport order had set a 24-hour deadline for Bolsonaro to hand over his travel documents. His departure instead of compliance set up a direct confrontation with the court order, and the cancellation of his passports followed.",
+              "The episode adds another chapter to the long-running standoff between the Bolsonaro family and Brazil’s Supreme Court, which has repeatedly moved against allies of the former president in cases tied to elections and democratic institutions.",
+              "For now, the central facts are the ones on the record: a court order defied, passports cancelled, visas promised, and a departure that Brazilian authorities say they cannot trace in their own records."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "cdc-drug-resistant-germs-2026",
+            cat: "National",
+            kicker: "National · Health",
+            title: "50,800 DEATHS A YEAR: CDC Warns Drug-Resistant Germs Are a Growing Crisis",
+            dek: "The CDC’s new 2026 report estimates drug-resistant germs cause 9.7 million infections and about 50,800 deaths in the United States each year. Four germs are now rated “urgent” threats.",
+            img: "real-photos/candida-auris.jpg",
+            alt: "Candida auris under a microscope",
+            cap: "Candida auris microscopy. Photo via Wikimedia Commons (CC BY 4.0).",
+            time: "Today",
+            date: "Oct 28, 2026",
+            read: "2 min read",
+            body: [
+              "The Centers for Disease Control and Prevention has issued a stark warning in its new 2026 report: drug-resistant germs are causing an estimated 9.7 million infections and about 50,800 deaths in the United States each year.",
+              "Four germs are now rated “urgent” threats by the CDC: Candida auris, carbapenem-resistant Acinetobacter, carbapenem-resistant Enterobacterales, and drug-resistant gonorrhea. The “urgent” label is reserved for germs that pose the most serious danger because infections are difficult or impossible to treat with standard drugs.",
+              "Candida auris, a fungus that spreads in health care settings and resists many antifungal treatments, stands out in the report. Cases have surged roughly tenfold since 2019, according to the CDC figures.",
+              "“Antimicrobial resistance threatens modern medicine,” CDC Director Dr. Erica Schwartz said, in a warning that frames the issue as larger than any single germ.",
+              "The stakes behind that warning are plain. Modern medicine depends on antibiotics and antifungals working: surgeries, cancer treatment, organ transplants, and routine hospital care all become far riskier when the drugs that fight infection stop working.",
+              "The report puts a national scale on a problem hospitals have been tracking patient by patient. Nearly 10 million infections a year means drug resistance is no longer a rare complication — it is a routine feature of American health care, and a growing one.",
+              "Health officials say the response runs through hospitals, laboratories, and prescribing practices: catching resistant infections early, isolating them before they spread, and keeping the drugs that still work effective for as long as possible."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "ramayana-la-premiere-2026",
+            cat: "Culture",
+            kicker: "Culture · Film",
+            title: "RAMA MEETS RAVANA: Ranbir Kapoor and Yash’s Hug Steals the Ramayana LA Premiere",
+            dek: "At the Los Angeles premiere of “Ramayana: Rise of a Legend,” Ranbir Kapoor, who plays Rama, and Yash, who plays Ravana, shared a warm hug on the red carpet. The film hits theatres November 5.",
+            img: "real-photos/ranbir-kapoor.jpg",
+            alt: "Ranbir Kapoor",
+            cap: "Ranbir Kapoor. Photo via Wikimedia Commons (CC BY 3.0).",
+            time: "Today",
+            date: "Oct 28, 2026",
+            read: "2 min read",
+            body: [
+              "LOS ANGELES — The hero and the villain shared the night’s warmest moment. At the Los Angeles premiere of “Ramayana: Rise of a Legend,” Ranbir Kapoor, who plays Rama, and Yash, who plays Ravana, greeted each other with a hug on the red carpet.",
+              "Sai Pallavi, who plays Sita, attended in a pink saree, as Hollywood influencers, media, and fans packed the David Geffen Theatre for the English version of the epic.",
+              "The premiere was a showcase for one of Indian cinema’s most ambitious undertakings: a big-screen retelling of the Ramayana, with Kapoor as its hero and Yash as its demon king, two of the industry’s biggest stars cast on opposite sides of the story.",
+              "That casting is part of what made the red carpet moment land. Rama and Ravana are not just characters in the epic — they are its moral poles, good and evil, duty and desire. Seeing the two actors who play them embrace, out of character, set the tone for a night built around the story rather than its divisions.",
+              "The Los Angeles premiere also underlined the film’s international ambitions. An English version, a Hollywood venue, and a guest list drawn from both industries signal a film aimed well beyond its home market.",
+              "The film hits theatres on November 5, when audiences will finally see whether the epic lives up to the scale of its premiere."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "are-you-really-a-bird-2026",
+            cat: "Culture",
+            opinion: true,
+            kicker: "My Thoughts",
+            title: "Are You Really a 'Bird' or You Just Love Hard?",
+            dek: "TikTok will call any girl who loves out loud a bird. But there's a difference between a bird and a girl who just loves hard — and most people calling names can't tell them apart.",
+            img: "real-photos/wedding.jpg",
+            alt: "A wedding couple",
+            cap: "A wedding couple. Photo via Wikimedia Commons.",
+            time: "Today",
+            read: "3 min read",
+            date: "Oct 27, 2026",
+            body: [
+              "TikTok has a new favorite insult for girls who feel too much: bird. She texts first? Bird. She cares too much? Bird. She actually likes you and isn't afraid to show it? Bird. But hold on — there's a difference between a bird and a girl who just loves hard, and most of the people throwing the word around don't want to admit it.",
+              "A bird loves attention, not people. She needs everybody to see her. The timeline, the party, the group chat — if there's no audience, there's no performance. A bird is loud everywhere because everywhere is the stage. And when it gets real — when somebody actually needs her to stay — she's gone. Birds fly. That's what they do.",
+              "A girl who loves hard is the opposite. She's not loud for everybody, she's loud for you. The long texts, the checking on you, the remembering everything you said two weeks ago — that's not bird behavior, that's a girl who actually picked you. She argues with you because she cares, not because she's building a case to leave. She stays after the argument. That's the difference nobody wants to talk about.",
+              "So why does she get called a bird? Because her love makes people uncomfortable. She texts first and it looks desperate. She asks where you were and it looks controlling. She loves out loud in a world that taught girls to play it cool. And the easiest way to dismiss a girl who feels too much is to give her a name that means she doesn't feel anything at all.",
+              "But let's be real too — not every girl who says “I just love hard” is telling the truth. Some birds hide behind that line. Here's how you tell: a girl who loves hard is consistent. Same energy in private as in public, same energy when it's good as when it's hard. A bird is only consistent when there's somebody watching.",
+              "So before you call her a bird, ask yourself one question: is she really messy, or are you just not used to being loved out loud? Because there's a difference — and calling a girl who loves hard a bird says more about you than it does about her."
+            ]
+          },
+          {
+            id: "signs-ho-halloween-2026",
+            cat: "Culture",
+            opinion: true,
+            kicker: "My Thoughts · Halloween",
+            title: "Signs Ur Ho Going This Halloween",
+            dek: "Halloween is breakup season. Before the costumes come out, the signs show up first — distance, resources, attire, and the arguing that comes right before the breakup. Here's how you know the breakup is coming before the party even starts.",
+            img: "real-photos/heidi-klum.jpg",
+            alt: "Heidi Klum",
+            cap: "Heidi Klum. Photo: SWinxy via Wikimedia Commons.",
+            time: "Today",
+            read: "3 min read",
+            date: "Oct 27, 2026",
+            body: [
+              "Every year it happens the same way. October hits, Halloween plans start forming, and suddenly somebody's getting dumped. It's not a coincidence — Halloween is breakup season. Before cuffing season locks everybody down for winter, there's one last night of freedom, and a lot of people want to walk into it single. TikTok creator @saltysargent broke down the three signs that she's already gone — and right before Halloween, they show up louder than ever.",
+              "First: distance. She's not around like she used to be. Texts get shorter, replies get slower, and suddenly she's busy every time you want to link. It's not a fight. It's worse than a fight — it's quiet. She's not arguing with you because she's already made up her mind. The breakup conversation is already written in her head; she's just waiting for the right week to say it. Halloween week is that week.",
+              "Second: resources. She stops needing you for anything. Not the ride, not the money, not the plan. She's stacking her own — her own bag, her own ride, her own moves — because somebody who's staying builds a life with you, and somebody who's leaving builds a life without you. Quietly, weeks before the breakup, so that when it finally comes, she's already gone.",
+              "Third: attire. The outfits change. She's dressing up way more than usual, putting real effort into looks nobody at home ever sees. A girl who's comfortable doesn't dress to impress strangers. A girl who's about to be single does — because she's already picturing herself at the party, in the costume, without you.",
+              "And then there's the arguing. Before the breakup, everything becomes a fight. Stuff that never bothered her suddenly does. She's short with you, she's picking at little things, she's turning nothing into something. That's not her losing her temper — that's her building a case. If she's arguing with you every day in the last week of October, she's not trying to fix it. She's trying to find the one fight big enough to walk out on.",
+              "That's why the breakup always lands right before Halloween. The costume is already bought. The group chat is already planning. The “girls night” is already on the calendar. She can't enjoy Halloween single if she's still with you on the 30th — so the breakup comes first, clean and early, usually with some line about “needing space” or “focusing on herself.” Space. Right before the biggest party night of the year. Sure.",
+              "So if the texts are drying up, every little thing is turning into an argument, she's suddenly got her own money and her own plans, and she's putting together a costume nobody at home will ever see — don't wait for the breakup text. It's already coming. Halloween doesn't cause the breakup. It just sets the deadline."
+            ]
+          },
+          {
+            id: "trump-reward-2026-10-27",
+            cat: "Politics",
+            kicker: "Politics \u00b7 Elections",
+            title: "$1 MILLION FOR A TIP: Trump Offers Cash for Voter Fraud Reports",
+            dek: "One week before the midterms, the president says anyone whose voter fraud report leads to an arrest and conviction gets $1 million. He has not said who pays for it.",
+            img: "real-photos/trump-reward.jpg",
+            alt: "President Donald Trump",
+            cap: "President Donald Trump. Photo via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 27, 2026",
+            read: "2 min read",
+            metric: "Politics \u00b7 Politics",
+            body: [
+              "WASHINGTON \u2014 President Donald Trump says he will pay $1 million to anyone whose report of voter fraud leads to an arrest and conviction, an offer he announced on Truth Social on Monday, one week before the Nov. 3 midterm elections.",
+              "The offer covers reports about fraud in past elections as well as the coming midterms, according to the announcement. Trump did not say how the payments would be funded, who would decide whether a claim qualifies, or what process a tipster would follow.",
+              "The announcement landed at a politically charged moment: with control of Congress on the line next Tuesday, both parties are already fighting over election rules, mail ballots, and how votes are counted. A million-dollar bounty for fraud tips is unlike anything a sitting president has offered before.",
+              "Critics were quick to raise questions. Election officials and voting-rights advocates have long noted that documented cases of voter fraud in American elections are rare, and that large-scale fraud claims have repeatedly failed to hold up in court. They also warned that a cash reward could flood officials with unverified claims in the final days before voting.",
+              "Supporters of the idea argue the opposite: that a big reward gives ordinary people a reason to come forward with what they see, and that the arrest-and-conviction requirement means only proven cases get paid.",
+              "What remains unanswered is the machinery. A reward program needs money, rules, and someone in charge of judging claims \u2014 none of which the announcement spelled out. Whether the offer becomes a real program or stays a campaign-season message may matter more than the headline number.",
+              "For now, the practical effect is the debate itself: one week out from the midterms, election integrity is back at the center of the conversation.",
+              "The timing also matters for election administrators. With early voting already underway in many states, local officials say their focus is on running the election, not fielding a wave of bounty-driven tips. Several have said in past cycles that unfounded fraud claims slow down counting and strain small election offices.",
+              "Trump has made election integrity a signature issue since 2020, repeatedly claiming \u2014 without evidence accepted by courts \u2014 that past elections were marred by fraud. The reward offer extends that message into a concrete promise, and it gives supporters a direct way to participate in it."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "israel-election-2026-10-27",
+            cat: "World",
+            kicker: "World \u00b7 Middle East",
+            title: "ISRAEL VOTES: Netanyahu's Survival on the Line in First Election Since Oct. 7",
+            dek: "Israelis head to the polls in their first election since the Oct. 7, 2023 Hamas attacks, with no bloc holding a clear path to the 61 seats needed to govern.",
+            img: "real-photos/netanyahu.jpg",
+            alt: "Israeli Prime Minister Benjamin Netanyahu",
+            cap: "Israeli Prime Minister Benjamin Netanyahu. Photo via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 27, 2026",
+            read: "2 min read",
+            metric: "World \u00b7 World",
+            body: [
+              "JERUSALEM \u2014 Israelis are voting Tuesday in their first national election since the Oct. 7, 2023 Hamas attacks, with Prime Minister Benjamin Netanyahu's political survival on the line.",
+              "Polls point to a tight race between Netanyahu's bloc and a rival alliance led by former military chief Gadi Eisenkot. Neither side has a clear path to the 61 seats needed to command a majority in the 120-seat Knesset, which means coalition talks after the vote could stretch for weeks.",
+              "The election is effectively a referendum on the last three years: the war in Gaza, the hostages, the economy, and the deep divisions the conflict exposed in Israeli society. It is also a personal test for Netanyahu, Israel's longest-serving prime minister, who has dominated the country's politics for most of the past three decades.",
+              "Eisenkot, a former chief of staff of the Israel Defense Forces, has pitched himself as a security-minded alternative \u2014 a general who can claim credibility on the war while promising a different style of leadership.",
+              "Turnout will be watched closely. In Israel's recent run of elections, high turnout has often favored one bloc over the other, and both camps spent the final days urging supporters to the polls.",
+              "Polls close at 10 p.m. Israel time. If neither bloc secures a majority, the president will tap a candidate to try to build a coalition \u2014 a process that has, in past cycles, taken weeks and sometimes failed entirely, forcing another election.",
+              "Whatever the result, this vote closes the chapter that began on Oct. 7 and opens whatever comes next.",
+              "The backdrop is a country still living with the consequences of Oct. 7. The attacks killed around 1,200 people in Israel and led to the war in Gaza, which has reshaped the region and dominated Israeli politics ever since. Hostage families, reservists, and displaced residents from the north and south are all voting with those experiences fresh.",
+              "Coalition math is where Israeli elections are usually won or lost. With a dozen parties expected to clear the threshold, the real contest often begins after the votes are counted, when the largest party tries to assemble 61 seats from a fractured Knesset."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "jayz-superbowl-2026-10-27",
+            cat: "Culture",
+            kicker: "Culture \u00b7 Music",
+            title: "JAY-Z IS HEADLINING THE SUPER BOWL: Hov Picks Himself for Halftime",
+            dek: "After years of picking the halftime acts through Roc Nation, Jay-Z will headline the Super Bowl LXI halftime show on Feb. 14, 2027, at SoFi Stadium.",
+            img: "real-photos/jayz-superbowl.jpg",
+            alt: "Jay-Z performing",
+            cap: "Jay-Z performing. Photo via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 27, 2026",
+            read: "2 min read",
+            metric: "Culture \u00b7 Culture",
+            body: [
+              "Jay-Z is headlining the Super Bowl. The NFL announced Monday night that Hov will take the stage for the Super Bowl LXI halftime show on Feb. 14, 2027, at SoFi Stadium in Inglewood, California.",
+              "The twist is the best part: for years, Jay-Z has been the man picking the halftime acts. Through his company Roc Nation, which partnered with the NFL in 2019, he helped shape the modern halftime era \u2014 the shows that turned the 12-minute break into the biggest concert stage in America. Now he picked himself.",
+              "This run continues to be a dream come true, Jay-Z said in the announcement.",
+              "The timing is no accident. The show lands 30 years after Reasonable Doubt, the 1996 debut that made Shawn Carter from Brooklyn's Marcy Projects into one of the greatest rappers alive \u2014 and eventually into a billionaire businessman with interests in music, sports, fashion, and spirits.",
+              "The halftime show has become a cultural event of its own, routinely drawing more than 100 million viewers in the U.S. alone. Under the Roc Nation era, the stage has hosted Rihanna, Usher, Kendrick Lamar, and the all-star West Coast bill of Dr. Dre, Snoop Dogg, Eminem, Mary J. Blige, and 50 Cent.",
+              "What Jay-Z does with his own set is the question everyone will spend the next 15 months debating. Three decades of hits gives him more material than almost anyone alive \u2014 from Hard Knock Life to Empire State of Mind \u2014 and a stage built for spectacle.",
+              "Feb. 14, 2027. Valentine's Day, SoFi Stadium, Hov. Mark it down.",
+              "The halftime show is also a business story. Roc Nation's partnership with the NFL, which began in 2019, gave Jay-Z's company a central role in the league's entertainment strategy \u2014 advising on the halftime show and the league's social justice initiatives. The announcement makes the architect the headliner.",
+              "Super Bowl LXI will be played at SoFi Stadium, the Inglewood home of the Rams and Chargers, which previously hosted Super Bowl LVI in 2022. The Valentine's Day date is itself unusual \u2014 the latest Super Bowl date on the calendar \u2014 giving the league's biggest night a different kind of spotlight."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "noah-wyle-sexiest-2026-10-27",
+            cat: "Culture",
+            kicker: "Culture \u00b7 Entertainment",
+            title: "FROM THE ER TO SEXIEST MAN ALIVE: Noah Wyle Takes People's 2026 Title",
+            dek: "The Pitt star and former ER doctor is People's Sexiest Man Alive for 2026. He thought the whole thing was a prank.",
+            img: "real-photos/noah-wyle.jpg",
+            alt: "Noah Wyle",
+            cap: "Noah Wyle. Photo via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 27, 2026",
+            read: "2 min read",
+            metric: "Culture \u00b7 Culture",
+            body: [
+              "Noah Wyle is People's Sexiest Man Alive for 2026. The magazine announced the honor Tuesday, and the 55-year-old actor's first reaction was disbelief.",
+              "In a million years I did not think this would be an honor bestowed on me, Wyle said. He thought the whole thing was a prank.",
+              "The title caps a remarkable second act. Wyle first became a household name as Dr. John Carter on ER, the NBC medical drama that defined Thursday nights in the 1990s and 2000s. Fifteen seasons, one of the biggest shows in TV history, and a character audiences watched grow from wide-eyed med student to attending physician.",
+              "Then came The Pitt. As Dr. Robby Robinavitch on the Max medical drama, Wyle returned to the ER \u2014 older, wearier, and carrying the weight of a career spent in trauma bays. The show became a critical hit and a streaming favorite, and it put Wyle back at the center of the culture.",
+              "He takes over the title from Jonathan Bailey, continuing a run of winners that reflects whatever Hollywood is feeling in a given year. This year, apparently, it is feeling a 55-year-old TV doctor.",
+              "The honor is, by design, a little silly \u2014 and Wyle seems to know it. But there is something fitting about it too: after three decades in the business, the guy who spent his career saving fictional lives is finally getting his flowers in real life.",
+              "The Pitt's success is part of a broader TV trend: prestige medical dramas built for streaming, with long seasons and ensemble casts. Wyle's Dr. Robby anchors the show the way Carter once anchored ER \u2014 the steady center of a chaotic ward.",
+              "People's Sexiest Man Alive has been running since 1985, and the title has gone to movie stars, musicians, and TV leads. Wyle's win is a reminder that the franchise still rewards longevity: the actor audiences grew up with is, three decades later, still the one they want to watch."
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "nicki-minaj-dumb-ass-2026",
+            cat: "Culture",
+            opinion: true,
+            kicker: "Culture · Celebrity",
+            title: "Nicki Minaj's a Dumb Ass",
+            dek: "She built a career off Black fans, then spent years cashing that love in for a seat at somebody else's table. The press secretary rumors just made it official.",
+            img: "real-photos/nicki-minaj.jpg",
+            alt: "Nicki Minaj",
+            cap: "Nicki Minaj at AmericaFest 2025. Photo: Gage Skidmore, CC BY-SA, via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 26, 2026",
+            read: "4 min read",
+            metric: "Culture · Politics",
+            body: [
+              "Let's just say it plain: Nicki Minaj spent years letting Black people carry her to the top, then turned around and sold that same love right back to the people who never loved her in the first place.",
+              "Because let's not rewrite history. Nicki did not get here by herself. She came up through hip-hop, built the Barbz into one of the most loyal fanbases music has ever seen, and became the biggest female rapper alive off the backs of Black fans — Black women especially — who streamed every album, learned every bar, defended her in every stan war, and made her wigs, her slang, her whole persona part of the culture. We made her. That's not debatable, that's the receipt.",
+              "And what did we get for it? A slow-motion pivot that's been running for years now. The cozying up to Trump. The rally stages. The “forever and ever” pledge on a Michigan stage on Sunday, campaigning for Republican Senate candidate Mike Rogers and gubernatorial candidate John James. The speech telling a crowd: “We don't want our children to be bombarded with sex changes, right? We want people to leave the children alone. Leave them out of it.” The years-long grudge against California Gov. Gavin Newsom — she calls him “Newscum” — because, in her telling, he ignored her after swatting incidents at her Beverly Hills home. Every time she needed a new audience, she found one further away from the people who built her.",
+              "Then came Monday, and the mask fully slipped. White House director of communications Stephen Cheung posted on X: “Ladies and gentlemen, I think we may have found the new White House Press Secretary!” — attaching a video of Minaj praising Trump's work ethic. White House adviser Alex Bruesewitz chimed in: “Hey Barbz, what do we think about this idea??” And Nicki? She didn't shut it down. She quote-tweeted it with American flag and nervous laughter emoji, playing with the idea like it was a cute little game. The job, by the way, has been vacant since Katie Zacharia quit after just five days. Nobody serious has confirmed anything — a White House spokesperson just referred reporters back to Cheung's post — but Nicki didn't need it to be real. The attention was the point.",
+              "Here's the trick, and honestly it's been running for years: she figured out she could take Black love, Black culture, Black defense — all of it — and trade it for proximity to power that never had Black people's interests at heart. The Barbz defended her through every beef, every lawsuit, every messy era, and the payoff for that loyalty was watching her stand on a rally stage telling a crowd she'll support Trump “forever and ever,” while Trump himself introduced her by telling the crowd he'd “looked at one hell of a beautiful a— before: Nicki Minaj” and “That's hard to miss. Stand up! That's hard to miss.” That's not respect. That's a prop. And she smiled through it.",
+              "So yeah — Nicki Minaj's a dumb ass. Not because she has opinions. Because she spent years making Black people believe she was for us, then auctioned that belief off the second a bigger stage called. Newsom's office, which has sparred with her all year, answered the press-secretary chatter with four words: “We can only pray.” On this one, hard to argue. The Barbz deserved better. And the briefing room? It deserves better than a meme candidacy too.",
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "eric-bauza-dies-2026",
+            cat: "Culture",
+            kicker: "Culture · Entertainment",
+            title: "RIP TO THE VOICE OF OUR CHILDHOOD: Eric Bauza, Voice of Bugs Bunny and Daffy Duck, Dies at 46",
+            dek: "The Emmy-winning voice of Bugs Bunny, Daffy Duck and so many Looney Tunes favorites has died at 46. Warner Bros. called him “a unique voice talent who brought joy and laughter to millions.”",
+            img: "real-photos/eric-bauza.jpg",
+            alt: "Eric Bauza",
+            cap: "Eric Bauza. Photo: Gage Skidmore via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 26, 2026",
+            read: "3 min read",
+            metric: "Culture · Looney Tunes",
+            body: [
+              "Eric Bauza, the Emmy-winning voice of Bugs Bunny, Daffy Duck and so many Looney Tunes favorites, has died at 46.",
+              "His family announced his sudden death Sunday. Warner Bros. called him “a unique voice talent who brought joy and laughter to millions.”",
+              "That's all, folks — thank you, Eric.",
+            ],
+            byline: "By Peter Osibajo"
+          },
+
+          {
+            id: "juju-watkins-return-2026",
+            cat: "Sports",
+            kicker: "Sports · College Basketball",
+            title: "JUJU IS BACK: Watkins Drops 18 in 23 Minutes in Return After 580 Days Out",
+            dek: "After 580 days out with a torn ACL, USC star JuJu Watkins returned Sunday and dropped 18 points in 23 minutes in an exhibition win over Cal.",
+            img: "real-photos/juju-watkins.jpg",
+            alt: "JuJu Watkins",
+            cap: "JuJu Watkins. Photo: All-Pro Reels via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 26, 2026",
+            read: "3 min read",
+            metric: "Sports · USC",
+            body: [
+              "LOS ANGELES — After 580 days out with a torn ACL, USC star JuJu Watkins returned Sunday and dropped 18 points in 23 minutes in an exhibition win over Cal.",
+              "She missed all of last season. Now the Trojans are ready to run it back — and Nike wasted no time, commenting on her highlight reel: “And she's just heating up.”",
+              "It was the kind of return that reminds everyone what the sport missed: efficient, explosive, and barely warmed up.",
+            ],
+            byline: "By Peter Osibajo"
+          },
+
+          {
+            id: "heidi-klum-halloween-2026",
+            cat: "Culture",
+            kicker: "Culture · Celebrity",
+            title: "HEIDIWEEN IS COMING — AND IT'S BLOODY: Heidi Klum Teases Her 2026 Halloween Costume",
+            dek: "The queen of Halloween teased her 2026 costume one week before her annual NYC party — a close-up of a grotesque prosthetic — and warned fans this year's look is “very bloody.”",
+            img: "real-photos/heidi-klum.jpg",
+            alt: "Heidi Klum",
+            cap: "Heidi Klum. Photo: SWinxy via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 26, 2026",
+            read: "3 min read",
+            metric: "Culture · Celebrity",
+            body: [
+              "NEW YORK — Heidi Klum, the queen of Halloween, just teased her 2026 costume one week before her annual New York City party — a close-up of a grotesque prosthetic, with one question for fans: “What's my costume?”",
+              "She's already warned fans this year's look is “very bloody” and “goes very well with red wine.” After Medusa last year, the bar is high — and Klum has made a career of clearing it.",
+              "Her annual party has become Halloween's main event, with each year's reveal dissected for days. One week to go.",
+            ],
+            byline: "By Peter Osibajo"
+          },
+
+
+          {
+            id: "lula-brazil-win-2026",
+            cat: "World",
+            kicker: "World · Latin America",
+            title: "LULA WINS BRAZIL: President Takes Historic Fourth Term With 51.76% in Runoff",
+            dek: "Luiz Inácio Lula da Silva beat Sen. Flávio Bolsonaro in Sunday's runoff, capping a comeback after trailing in the first round — while Bolsonaro refuses to concede and vows a legal fight.",
+            img: "real-photos/lula-brazil.jpg",
+            alt: "Brazil's President Luiz Inácio Lula da Silva",
+            cap: "Brazil's President Luiz Inácio Lula da Silva. Photo: Ricardo Stuckert/PR via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 26, 2026",
+            read: "3 min read",
+            metric: "World · Brazil",
+            body: [
+              "BRASÍLIA — Brazil's President Luiz Inácio Lula da Silva has won reelection, beating Sen. Flávio Bolsonaro in Sunday's runoff with 51.76% of the vote — a historic fourth term.",
+              "It caps a stunning comeback after Lula trailed in the first round, and bucks a rightward wave across Latin America that many expected to carry Bolsonaro into office.",
+              "Bolsonaro is refusing to accept the result and vowing a legal challenge, setting up a tense transition in Latin America's largest country.",
+            ],
+            byline: "By Peter Osibajo"
+          },
+          {
+            id: "christians-halloween-debate-2026",
+            cat: "Culture",
+            kicker: "Culture · Faith",
+            title: "Should Christians Celebrate Halloween? One Podcast Ignited a Holy War Over Candy, Tracts and Horror Movies",
+            dek: "Allie Beth Stuckey says believers should rethink Halloween and horror — and the backlash, from “stop being weird” to “horror is the most Christian genre,” has split Christian social media a week before Halloween.",
+            img: "real-photos/halloween-kids.jpg",
+            alt: "Two children carrying a large jack-o'-lantern",
+            cap: "Two children carrying a jack-o'-lantern. Public domain, via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 24, 2026",
+            read: "4 min read",
+            metric: "Culture · Debate",
+            body: [
+              "A week before Halloween, one of the loudest arguments on Christian social media isn't about doctrine — it's about candy, costumes and scary movies. BlazeTV host Allie Beth Stuckey lit the fuse on her “Relatable” podcast on October 19, arguing that believers probably shouldn't fully participate in Halloween or watch horror films — and the backlash has been swift, fierce and very online.",
+              "Stuckey framed Halloween as a “Christian liberty issue” and laid out four options for believers: total abstinence, full participation, partial participation, or what she called “redemptive participation.” Her preferred path: use the holiday as an evangelism opportunity. In a clip she posted to X on October 20, she described her mother's approach — attaching a Gospel tract to every piece of candy handed out, with John 3:16 printed on little slips of paper, and decorating the lawn with evangelistic signs, including one calling Jesus the “ultimate grave robber.”",
+              "The response was not gentle. Claremont Institute fellow Joshua Lisec wrote: “I can't think of worse anti-persuasion for Christianity.” Another user replied: “I am begging parents to stop being weird.” The popular Reformed Baptist account 5 Solas added: “It is possible to enjoy some things without being Ned Flanders,” invoking Homer Simpson's good-natured but annoying Christian neighbor.",
+              "Then came the second clip — one Stuckey posted on October 20 and later deleted after intense pushback, only for it to resurface when another user reposted it on October 23. In it, she argued Christians “shouldn't be a fan of horror in general”: not scary books, not true crime podcasts, not scary movies. She recalled that her mother didn't want her watching the 2002 film “Signs” in middle school because it was scary, and argued that deliberately consuming content meant to frighten runs against Scripture's repeated command: “Do not fear.”",
+              "That drew a second wave of pushback — including from inside conservative media. Daily Wire host Matt Walsh argued that “horror is the most Christian genre of film,” saying supernatural horror is “often subtly Christian and sometimes very explicitly Christian,” and that there is nothing “inherently sinful” in stories that are tense, suspenseful or scary. He singled out “Signs” — the very film Stuckey's mother blocked — as a movie that handles dark spiritual questions well, and added that “bland, bad, boring Christian entertainment” is “a far greater cultural problem for Christians than any horror movie ever could be.”",
+              "Stuckey answered Walsh directly, saying she was warning specifically against “movies that are meant to stoke paranoia, anxiety, a nagging sense of dread and fear,” not arguing Christians can only consume Christian entertainment or that they can't watch films that are “complicated and sometimes violent.” Others split the difference: Catholic podcaster Aaron Irber said Stuckey was “too overly general” — “there's horror and there's horror.” Author Eric Metaxas backed her fully, writing that “almost all of today's horror is demonic and should be UTTERLY avoided.” Conservative commentator Peachy Keenan said she can no longer watch “The Exorcist” because the bedroom in her old house reportedly “became possessed by a dark spirit” after her family watched the 1973 classic.",
+              "With Halloween falling next Saturday, the argument is nowhere near settled — and both sides are recruiting. The question at the center of it is simple enough for a comment section to explode over: is Halloween harmless fun for the kids, or a night Christians should sit out — or redeem?",
+            ],
+            byline: "By Peter Osibajo"
+          },
+
+          {
+            id: "france-protests-second-weekend-2026",
+            cat: "World",
+            kicker: "World · Europe",
+            title: "France Erupts Again: Hundreds of Thousands March in Second Weekend of Protests as Police Flood Paris Streets",
+            dek: "Around 410,000 people marched nationwide — 110,000 in Paris alone — as 70,000 police deployed to prevent a repeat of last weekend's riots.",
+            img: "real-photos/france-protests.jpg",
+            alt: "Yellow Vest protesters marching in Paris",
+            cap: "Yellow Vest protesters in Paris. Photo: Norbu Gyachung, CC BY-SA 4.0, via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 24, 2026",
+            read: "4 min read",
+            metric: "World · France",
+            body: [
+              "PARIS — Hundreds of thousands of demonstrators marched across France on Saturday in a second consecutive weekend of nationwide protests over the cost of living and school conditions, as the government flooded the streets with 70,000 police officers to prevent a repeat of last weekend's riots.",
+              "The Interior Ministry said 410,000 people took part nationwide, though unions claimed the true figure was twice as high. In Paris, around 110,000 people marched peacefully through the capital's southeastern fringes, waving flags and denouncing rising living costs and growing inequality. “Down with the state, the police and the fascists,” the crowd chanted.",
+              "The movement brings together an unlikely coalition: Yellow Vest groups, trade unions including the CGT with its roughly 600,000 members, and high school and university students. It began over rising living costs and worsening school and study conditions, and has since spread nationwide, fueled by broader anger over purchasing power.",
+              "The march in Paris was thrown into dispute before it even began. The Paris police prefecture approved a route from Bastille to Nation on Thursday, then changed it at the last minute on Friday to run from Porte d'Italie to Porte de Vincennes between 1pm and 7pm. Organizers rejected the new route as “impossible to secure” and said they would march to Bastille as planned.",
+              "The disruption was widespread. At least 24 Paris metro stations were closed on police orders, the Louvre and the Musée d'Orsay shut for the day, Art Basel Paris cancelled its weekend programme, and shops along the Champs-Élysées and in central Paris and Lyon were boarded up. The Yellow Vests listed more than 700 actions at roundabouts, petrol stations and near oil depots across the country.",
+              "For most of the day, the marches were largely peaceful — a sharp contrast to last Saturday, when student-led protests devolved into looting, arson and clashes that damaged thousands of businesses and led to more than 2,000 people being taken into custody.",
+              "But as night fell, the atmosphere deteriorated. In Paris, riot police fired tear gas and used water cannon to disperse a group of around 500 hooded youths who hurled stones at officers. In Marseille, France's second city, youths dragged metal sheets to block a street, set fire to rubbish bins, and hurled rocks and bottles at riot police. Clashes also flared in Lyon, Bordeaux and Grenoble, while police fired volleys of tear gas in Clermont-Ferrand, Lille, Nantes and Nice.",
+              "Police said they arrested 135 people nationwide by early afternoon, many following pre-emptive searches that uncovered fireworks, ball bearings and other items that could be used as weapons. Authorities also banned or restricted demonstrations in several city centres, including Montpellier, Rouen, Nice and Lyon.",
+              "On Friday, President Emmanuel Macron met student representatives and promised more teachers and an overhaul of the Parcoursup university admissions system — but students called for more protests. Interior Minister Laurent Nuñez, who deployed 10,000 more officers than last week after conceding authorities had underestimated the unrest on October 17, said: “We have to be ultra, ultra responsive.”",
+              "The violence, while real, was still less intense than a week ago. Whether the movement grows or fades from here may depend on what the government offers next — and whether the streets stay peaceful enough to keep public sympathy.",
+            ],
+            byline: "By Peter Osibajo"
+          },
+
+
+          {
+            id: "eagles-nest-fire-2026",
+            cat: "World",
+            kicker: "World · Europe",
+            title: "Fire Engulfs Hitler's 'Eagle's Nest' Mountain Retreat in Bavaria",
+            dek: "Around 200 firefighters battled flames at the historic Kehlsteinhaus on Friday. Police have detained a suspect.",
+            img: "real-photos/eagles-nest.jpg",
+            alt: "The Kehlsteinhaus, known as the Eagle's Nest, in Bavaria",
+            cap: "The Kehlsteinhaus in Berchtesgaden, Bavaria. Photo: Pascal Dihé, CC BY-SA 4.0, via Wikimedia Commons.",
+            time: "Today",
+            date: "Oct 24, 2026",
+            read: "3 min read",
+            metric: "World · Germany",
+            body: [
+              "BERCHTESGADEN, Germany — Fire broke out Friday at the Kehlsteinhaus, the mountain guest house known as Hitler's 'Eagle's Nest,' drawing around 200 firefighters and emergency personnel to the Bavarian Alps.",
+              "German police said they detained a suspect close to the scene and are investigating whether that person was connected to the fire. There was no immediate word on a possible motive.",
+              "The building, perched high above Berchtesgaden in southern Bavaria, was built in 1938 as a guest house for Nazi officials and their guests. It is separate from Hitler's nearby summer residence, the Berghof.",
+              "After the war, the Kehlsteinhaus was classified as a historical monument recalling the Nazi period. It is now owned by the state of Bavaria and operates as a restaurant and tourist destination, drawing visitors to its spectacular Alpine setting.",
+              "Firefighters and emergency staff worked at the site through Friday as flames consumed parts of the historic structure. The extent of the damage was not immediately clear.",
+              "Police said the investigation into the cause is ongoing.",
+            ],
+            byline: "By Peter Osibajo"
+          },
+
+        ];
+
+        ARTICLES.forEach(function (a) { if (!a.author) a.author = DEFAULT_AUTHOR; });
+
+
+        var RANKED = [
+          { id: "trump-reward-2026-10-27", why: "Trump offers $1 million for voter fraud tips that lead to arrest and conviction" },
+          { id: "israel-election-2026-10-27", why: "Israel votes in its first election since Oct. 7, 2023, with Netanyahu's survival on the line" },
+          { id: "jayz-superbowl-2026-10-27", why: "Jay-Z will headline the Super Bowl LXI halftime show, 30 years after Reasonable Doubt" },
+          { id: "nicki-minaj-dumb-ass-2026", why: "From a Michigan rally stage to White House press secretary rumors in 24 hours" },
+          { id: "lula-brazil-win-2026", why: "Lula wins a historic fourth term in Brazil's runoff with 51.76%" },
+          { id: "eric-bauza-dies-2026", why: "Eric Bauza, the voice of Bugs Bunny and Daffy Duck, dies at 46" },
+          { id: "france-protests-second-weekend-2026", why: "410,000 march nationwide as 70,000 police flood France's streets for a second weekend" },
+          { id: "eagles-nest-fire-2026", why: "Fire engulfs Hitler's 'Eagle's Nest' retreat in Bavaria, suspect detained" }
+        ];
+
+        var cardsEl = document.getElementById("cards");
+        var rankEl = document.getElementById("rankList");
+        var chipsEl = document.getElementById("chips");
+        var searchEl = document.getElementById("searchInput");
+        var activeFilter = "All";
+
+        function byId(id) {
+          for (var i = 0; i < ARTICLES.length; i++) if (ARTICLES[i].id === id) return ARTICLES[i];
+          return null;
+        }
+
+        function cardHTML(a) {
+          var thumb = a.img
+            ? '<div class="thumb"><img src="' + a.img + '" alt="' + a.alt + '" loading="lazy" /></div>'
+            : "";
+          return (
+            '<div class="card-wrap">' +
+            '<button class="card" data-open="' + a.id + '" aria-label="Read: ' + a.title.replace(/"/g, "&quot;") + '">' +
+            thumb +
+            '<span class="c-body">' +
+            '<span class="kicker plain">' + a.kicker + "</span>" +
+            "<h3>" + a.title + "</h3>" +
+            '<span class="card-byline">By <strong>' + (a.author || DEFAULT_AUTHOR) + "</strong></span>" +
+            "<p>" + a.dek + "</p>" +
+            '<span class="c-foot"><span>' + a.time + " · " + a.read + '</span><span class="read">Read →</span></span>' +
+            "</span></button>" +
+            '<button class="card-share" data-share="' + a.id + '" aria-label="Share: ' + a.title.replace(/"/g, "&quot;") + '"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2.2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M12 15V4"/><path d="M6.5 9.5 12 4l5.5 5.5"/><path d="M5 13v6.5A1.5 1.5 0 0 0 6.5 21h11A1.5 1.5 0 0 0 19 19.5V13"/></svg></button>' +
+            "</div>"
+          );
+        }
+
+        function render() {
+          var q = (searchEl.value || "").trim().toLowerCase();
+          var shown = ARTICLES.filter(function (a) {
+            var okCat = activeFilter === "All" || a.cat === activeFilter;
+            var okQ = !q || (a.title + " " + a.dek + " " + a.kicker).toLowerCase().indexOf(q) !== -1;
+            return okCat && okQ;
+          });
+          if (!shown.length) {
+            cardsEl.innerHTML = '<div class="empty">Nothing on the wire matches that — yet. Orbit posts 4–5 times a day, so check the feeds and it will not stay empty for long.</div>';
+            return;
+          }
+          cardsEl.innerHTML = shown.map(cardHTML).join("");
+        }
+
+
+        if (rankEl) {
+          rankEl.innerHTML = RANKED.map(function (r, i) {
+            var a = byId(r.id);
+            if (!a) return "";
+            return (
+              '<button class="rank" data-open="' + r.id + '">' +
+              '<span class="rank-num">' + (i + 1) + "</span>" +
+              '<span><span class="rank-title">' + a.title + '</span><span class="rank-why">' + r.why + "</span></span>" +
+              "</button>"
+            );
+          }).join("");
+        }
+
+        var thoughtsEl = document.getElementById("thoughtsList");
+        if (thoughtsEl) {
+          thoughtsEl.innerHTML = ARTICLES.filter(function (a) { return a.opinion; }).map(cardHTML).join("");
+        }
+
+        var archEl = document.getElementById("archiveList");
+        if (archEl) {
+          archEl.innerHTML = ARTICLES.map(function (a) {
+            return (
+              '<a class="wire-row" href="#story-' + a.id + '" data-open="' + a.id + '">' +
+              '<span class="w-main"><span class="w-title">' + a.title + '</span><span class="w-sub">' + a.kicker + " · " + (a.date || a.time) + "</span></span>" +
+              '<span class="w-arrow" aria-hidden="true">→</span></a>'
+            );
+          }).join("");
+        }
+
+        chipsEl.addEventListener("click", function (e) {
+          var chip = e.target.closest(".chip");
+          if (!chip) return;
+          activeFilter = chip.getAttribute("data-filter");
+          var chips = chipsEl.querySelectorAll(".chip");
+          for (var i = 0; i < chips.length; i++) chips[i].setAttribute("aria-pressed", chips[i] === chip ? "true" : "false");
+          render();
+        });
+        searchEl.addEventListener("input", render);
+
+        document.querySelectorAll("[data-jump]").forEach(function (link) {
+          link.addEventListener("click", function () {
+            activeFilter = link.getAttribute("data-jump");
+            var chips = chipsEl.querySelectorAll(".chip");
+            for (var i = 0; i < chips.length; i++) chips[i].setAttribute("aria-pressed", chips[i].getAttribute("data-filter") === activeFilter ? "true" : "false");
+            render();
+          });
+        });
+
+        /* ---------- reader ---------- */
+        var reader = document.getElementById("reader");
+        var currentIdx = -1;
+        var lastFocus = null;
+
+        function openArticle(id) {
+          var a = byId(id);
+          if (!a) return;
+          currentIdx = ARTICLES.indexOf(a);
+          lastFocus = document.activeElement;
+          document.getElementById("readerKicker").textContent = a.kicker;
+          document.getElementById("readerTitle").textContent = a.title;
+          document.getElementById("readerDek").textContent = a.dek;
+          document.getElementById("readerMeta").innerHTML =
+            '<span class="byline-author">By <strong>' + (a.author || DEFAULT_AUTHOR) + '</strong></span><span>Orbit News Network</span><span>' + a.time + "</span><span>" + a.read + "</span><span>" + a.metric + "</span>";
+          var wrap = document.getElementById("readerImgWrap");
+          var cap = document.getElementById("readerCap");
+          if (a.img) {
+            wrap.style.display = "";
+            var img = document.getElementById("readerImg");
+            img.src = a.img;
+            img.alt = a.alt;
+            cap.textContent = a.cap;
+            cap.style.display = "";
+          } else {
+            wrap.style.display = "none";
+            cap.style.display = "none";
+          }
+          document.getElementById("readerBody").innerHTML = a.body.map(function (p) { return "<p>" + p + "</p>"; }).join("");
+          document.getElementById("readerLinks").innerHTML = (a.links || []).map(function (l) {
+            return '<a class="btn red" href="' + l.href + '" target="_blank" rel="noopener">' + l.label + " →</a>";
+          }).join("");
+          document.getElementById("readerLinks").querySelectorAll("a").forEach(function (lnk) {
+            var h = lnk.getAttribute("href") || "";
+            if (h.indexOf("#story-") === 0) {
+              lnk.removeAttribute("target");
+              lnk.addEventListener("click", function (ev) {
+                ev.preventDefault();
+                openArticle(h.replace("#story-", ""));
+              });
+            }
+          });
+          updateNav();
+          if (history.replaceState) history.replaceState(null, "", "#story-" + a.id);
+          reader.classList.add("open");
+          document.body.classList.add("locked");
+          reader.scrollTop = 0;
+          document.getElementById("readerClose").focus();
+        }
+
+        function updateNav() {
+          var prev = ARTICLES[(currentIdx - 1 + ARTICLES.length) % ARTICLES.length];
+          var next = ARTICLES[(currentIdx + 1) % ARTICLES.length];
+          document.getElementById("prevTitle").textContent = prev.title;
+          document.getElementById("nextTitle").textContent = next.title;
+        }
+
+        function step(dir) {
+          var n = (currentIdx + dir + ARTICLES.length) % ARTICLES.length;
+          openArticle(ARTICLES[n].id);
+        }
+
+        function closeReader() {
+          reader.classList.remove("open");
+          document.body.classList.remove("locked");
+          if (lastFocus && lastFocus.focus) lastFocus.focus();
+          if (history.replaceState) history.replaceState(null, "", location.pathname + location.search);
+        }
+
+        document.getElementById("readerClose").addEventListener("click", closeReader);
+        document.getElementById("readerPrev").addEventListener("click", function () { step(-1); });
+        document.getElementById("readerNext").addEventListener("click", function () { step(1); });
+        document.getElementById("readerPrev2").addEventListener("click", function () { step(-1); });
+        document.getElementById("readerNext2").addEventListener("click", function () { step(1); });
+        document.addEventListener("keydown", function (e) {
+          if (!reader.classList.contains("open")) return;
+          if (e.key === "Escape") closeReader();
+          if (e.key === "ArrowLeft") step(-1);
+          if (e.key === "ArrowRight") step(1);
+        });
+
+        document.addEventListener("click", function (e) {
+          var trigger = e.target.closest("[data-open]");
+          if (!trigger) return;
+          e.preventDefault();
+          openArticle(trigger.getAttribute("data-open"));
+        });
+
+        if (location.hash && location.hash.indexOf("#story-") === 0) {
+          var startId = location.hash.replace("#story-", "");
+          if (byId(startId)) openArticle(startId);
+        }
+
+        /* ---------- share ---------- */
+        var SITE = "https://onnxews.com";
+        var shareMenu = document.getElementById("shareMenu");
+        var toastEl = document.getElementById("toast");
+        var toastTimer = null;
+        var menuArticle = null;
+
+        function articleUrl(a) { return SITE + "/story/" + a.id + ".html"; }
+
+        function showToast(msg) {
+          toastEl.textContent = msg;
+          toastEl.classList.add("show");
+          if (toastTimer) clearTimeout(toastTimer);
+          toastTimer = setTimeout(function () { toastEl.classList.remove("show"); }, 2400);
+        }
+
+        function legacyCopy(text) {
+          var ta = document.createElement("textarea");
+          ta.value = text;
+          ta.style.position = "fixed";
+          ta.style.opacity = "0";
+          document.body.appendChild(ta);
+          ta.select();
+          try { document.execCommand("copy"); } catch (err) {}
+          document.body.removeChild(ta);
+        }
+
+        function copyLink(url) {
+          function done() { showToast("Link copied — paste it anywhere to share."); }
+          if (navigator.clipboard && navigator.clipboard.writeText) {
+            navigator.clipboard.writeText(url).then(done, function () { legacyCopy(url); done(); });
+          } else {
+            legacyCopy(url);
+            done();
+          }
+        }
+
+        function shareOpt(opt, a) {
+          var url = articleUrl(a);
+          var text = encodeURIComponent(a.title);
+          var u = encodeURIComponent(url);
+          if (opt === "x") window.open("https://twitter.com/intent/tweet?text=" + text + "&url=" + u, "_blank", "noopener");
+          else if (opt === "fb") window.open("https://www.facebook.com/sharer/sharer.php?u=" + u + "&quote=" + text, "_blank", "noopener");
+          else if (opt === "wa") window.open("https://wa.me/?text=" + encodeURIComponent(a.title + " " + url), "_blank", "noopener");
+          else if (opt === "copy") copyLink(url);
+        }
+
+        function openShareMenu(a, anchor) {
+          menuArticle = a;
+          shareMenu.classList.add("open");
+          var r = anchor.getBoundingClientRect();
+          var mw = shareMenu.offsetWidth;
+          var mh = shareMenu.offsetHeight;
+          var left = Math.min(Math.max(8, r.right - mw), window.innerWidth - mw - 8);
+          var top = r.bottom + 8;
+          if (top + mh > window.innerHeight - 8) top = Math.max(8, r.top - mh - 8);
+          shareMenu.style.left = left + "px";
+          shareMenu.style.top = top + "px";
+        }
+
+        function closeShareMenu() {
+          shareMenu.classList.remove("open");
+          menuArticle = null;
+        }
+
+        function doShare(a, anchor) {
+          if (navigator.share) {
+            navigator.share({ title: a.title, text: a.title, url: articleUrl(a) }).catch(function (err) {
+              if (err && err.name !== "AbortError") openShareMenu(a, anchor);
+            });
+          } else {
+            openShareMenu(a, anchor);
+          }
+        }
+
+        document.getElementById("readerShareTop").addEventListener("click", function () {
+          if (currentIdx >= 0) doShare(ARTICLES[currentIdx], this);
+        });
+        document.getElementById("readerShareBottom").addEventListener("click", function () {
+          if (currentIdx >= 0) doShare(ARTICLES[currentIdx], this);
+        });
+
+        document.addEventListener("click", function (e) {
+          var shareBtn = e.target.closest("[data-share]");
+          if (shareBtn) {
+            e.preventDefault();
+            var a = byId(shareBtn.getAttribute("data-share"));
+            if (a) doShare(a, shareBtn);
+            return;
+          }
+          var optBtn = e.target.closest("[data-share-opt]");
+          if (optBtn) {
+            var art = optBtn.closest("#shareMenu") ? menuArticle : (currentIdx >= 0 ? ARTICLES[currentIdx] : null);
+            closeShareMenu();
+            if (art) shareOpt(optBtn.getAttribute("data-share-opt"), art);
+            return;
+          }
+          if (shareMenu.classList.contains("open") && !e.target.closest("#shareMenu") && !e.target.closest(".share-btn")) closeShareMenu();
+        });
+        document.addEventListener("keydown", function (e) {
+          if (e.key === "Escape") closeShareMenu();
+        });
+        window.addEventListener("resize", closeShareMenu);
+        reader.addEventListener("scroll", closeShareMenu);
+
+
+
+        var breakingEl = document.getElementById("breakingText");
+        var leadLink = document.querySelector(".lead");
+        if (breakingEl && leadLink) {
+          var leadArt = byId(leadLink.getAttribute("data-open"));
+          if (leadArt) breakingEl.textContent = leadArt.title;
+        }
+
+        render();
+      })();
+    </script>
+  <noscript><div><h2>Latest from Orbit News Network</h2><ul><li><a href="/story/javits-frimpong-bronx-2026">15-YEAR-OLD JAVITS FRIMPONG SHOT AND KILLED ON HIS WAY TO SCHOOL IN THE BRONX</a></li><li><a href="/story/patrick-stewart-dies-2026">MAKE IT SO, ONE LAST TIME: Sir Patrick Stewart Dies at 86</a></li><li><a href="/story/binance-crypto-hack-2026">THE BIGGEST CRYPTO HEIST EVER: Binance Says $6.3 Billion Hit in Hack</a></li><li><a href="/story/megan-hottieween-2026">THEE CIRCUS IS HERE: Megan Thee Stallion&#x27;s Hottieween Takes Over Vegas Tonight</a></li><li><a href="/story/dolores-huerta-dies-2026">SÍ, SE PUEDE: Labor Leader Dolores Huerta Dies at 96</a></li><li><a href="/story/okeefe-higby-charged-2026">CHARGED OVER A POLLING-PLACE STUNT: O&#x27;Keefe and Higby Face Felony Counts in Minnesota</a></li><li><a href="/story/dnipro-train-station-strike-2026">13 KILLED AT A TRAIN STATION: Russian Drone Hits Passenger Train in Dnipro</a></li><li><a href="/story/demi-lovato-hospital-scare-2026">DEMI LOVATO SPEAKS OUT AFTER BRIEF HOSPITAL SCARE</a></li><li><a href="/story/cassidy-hutchinson-grand-jury-2026">GRAND JURY SAYS NO: No Indictment for Cassidy Hutchinson Over Jan. 6 Testimony</a></li><li><a href="/story/flavio-bolsonaro-flees-us-2026">BOLSONARO FLEES TO THE U.S.: Brazil Cancels His Passports After He Defies Court Order</a></li><li><a href="/story/cdc-drug-resistant-germs-2026">50,800 DEATHS A YEAR: CDC Warns Drug-Resistant Germs Are a Growing Crisis</a></li><li><a href="/story/ramayana-la-premiere-2026">RAMA MEETS RAVANA: Ranbir Kapoor and Yash’s Hug Steals the Ramayana LA Premiere</a></li><li><a href="/story/are-you-really-a-bird-2026">Are You Really a &#x27;Bird&#x27; or You Just Love Hard?</a></li><li><a href="/story/signs-ho-halloween-2026">Signs Ur Ho Going This Halloween</a></li><li><a href="/story/trump-reward-2026-10-27">$1 MILLION FOR A TIP: Trump Offers Cash for Voter Fraud Reports</a></li><li><a href="/story/israel-election-2026-10-27">ISRAEL VOTES: Netanyahu&#x27;s Survival on the Line in First Election Since Oct. 7</a></li><li><a href="/story/jayz-superbowl-2026-10-27">JAY-Z IS HEADLINING THE SUPER BOWL: Hov Picks Himself for Halftime</a></li><li><a href="/story/noah-wyle-sexiest-2026-10-27">FROM THE ER TO SEXIEST MAN ALIVE: Noah Wyle Takes People&#x27;s 2026 Title</a></li><li><a href="/story/nicki-minaj-dumb-ass-2026">Nicki Minaj&#x27;s a Dumb Ass</a></li><li><a href="/story/eric-bauza-dies-2026">RIP TO THE VOICE OF OUR CHILDHOOD: Eric Bauza, Voice of Bugs Bunny and Daffy Duck, Dies at 46</a></li><li><a href="/story/juju-watkins-return-2026">JUJU IS BACK: Watkins Drops 18 in 23 Minutes in Return After 580 Days Out</a></li><li><a href="/story/heidi-klum-halloween-2026">HEIDIWEEN IS COMING — AND IT&#x27;S BLOODY: Heidi Klum Teases Her 2026 Halloween Costume</a></li><li><a href="/story/lula-brazil-win-2026">LULA WINS BRAZIL: President Takes Historic Fourth Term With 51.76% in Runoff</a></li><li><a href="/story/christians-halloween-debate-2026">Should Christians Celebrate Halloween? One Podcast Ignited a Holy War Over Candy, Tracts and Horror Movies</a></li><li><a href="/story/france-protests-second-weekend-2026">France Erupts Again: Hundreds of Thousands March in Second Weekend of Protests as Police Flood Paris Streets</a></li><li><a href="/story/eagles-nest-fire-2026">Fire Engulfs Hitler&#x27;s &#x27;Eagle&#x27;s Nest&#x27; Mountain Retreat in Bavaria</a></li></ul></div></noscript>
 </body>
 </html>

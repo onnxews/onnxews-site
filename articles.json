@@ -1,5 +1,285 @@
 [
   {
+    "id": "oleshky-evacuation-ceasefire-2026",
+    "title": "TRAPPED FOR YEARS, THEY FINALLY GOT OUT: Hundreds Evacuate Besieged Oleshky Under Fragile Ceasefire",
+    "dek": "After months cut off from food, medicine and power, residents of the Russian-occupied town of Oleshky began leaving Friday under a temporary truce — but the road out is long, and the ceasefire is set to expire Sunday.",
+    "cat": "World",
+    "date": "Oct 30, 2026",
+    "url": "/story/oleshky-evacuation-ceasefire-2026"
+  },
+  {
+    "id": "brewers-world-series-title-2026",
+    "title": "BREWERS DO IT AT LAST: First World Series Title in 57 Years",
+    "dek": "Milwaukee beat Tampa Bay 4-1 in Game 5 to cap a dominant 11-2 playoff run and finally bring a championship home to Wisconsin.",
+    "cat": "Sports",
+    "date": "Oct 30, 2026",
+    "url": "/story/brewers-world-series-title-2026"
+  },
+  {
+    "id": "wall-street-october-selloff-2026",
+    "title": "WALL STREET'S OCTOBER ENDS IN A BLOODBATH AS AI SPENDING PANIC TORCHES TECH",
+    "dek": "The Nasdaq just suffered its worst day since June and its worst month since March 2025, as investors finally balked at the eye-watering price tag of the AI boom.",
+    "cat": "Business",
+    "date": "Oct 30, 2026",
+    "url": "/story/wall-street-october-selloff-2026"
+  },
+  {
+    "id": "trump-approval-new-low-2026",
+    "title": "TRUMP HITS ROCK BOTTOM DAYS BEFORE THE MIDTERMS",
+    "dek": "A new Emerson College poll puts President Donald Trump's approval at just 37% — his lowest ever in that poll — with Democrats opening a double-digit lead on the generic ballot four days before Election Day.",
+    "cat": "Politics",
+    "date": "Oct 30, 2026",
+    "url": "/story/trump-approval-new-low-2026"
+  },
+  {
+    "id": "morley-tennessee-prison-escape-2026",
+    "title": "ESCAPED KILLER STILL ON THE RUN — AND PRISON WAITED HOURS TO SOUND THE ALARM",
+    "dek": "A convicted murderer cut his way out of a Tennessee prison, stole a truck, and was already across state lines before outside police were told — and investigators are now probing a possible link to a Wisconsin bank robbery.",
+    "cat": "U.S. News",
+    "date": "Oct 30, 2026",
+    "url": "/story/morley-tennessee-prison-escape-2026"
+  },
+  {
+    "id": "celebrity-traitors-winners-2026",
+    "title": "FAITHFULS WIN THE CASTLE: Romesh and Sebastian Take Celebrity Traitors",
+    "dek": "After weeks of deception at Ardross Castle, two Faithfuls outlasted the Traitors and split £83,000 for charity in a dramatic final.",
+    "cat": "Entertainment",
+    "date": "Oct 30, 2026",
+    "url": "/story/celebrity-traitors-winners-2026"
+  },
+  {
+    "id": "intel-chip-rout-warning-2026",
+    "title": "INTEL'S WARNING SPOOKS THE ENTIRE CHIP WORLD",
+    "dek": "Intel's bleak forecast wiped tens of billions off its own value and dragged chip stocks down around the globe, as weak PC demand and rising memory costs squeeze the industry.",
+    "cat": "Technology",
+    "date": "Oct 30, 2026",
+    "url": "/story/intel-chip-rout-warning-2026"
+  },
+  {
+    "id": "g20-ministers-skip-photo-2026",
+    "title": "NO SMILES FOR THE CAMERA: G20 Ministers Skip Group Photo Over Russia",
+    "dek": "G20 foreign ministers skipped their traditional family photo in Atlanta on Friday after European ministers refused to pose alongside Russia's Sergei Lavrov.",
+    "cat": "World",
+    "date": "Oct 30, 2026",
+    "url": "/story/g20-ministers-skip-photo-2026"
+  },
+  {
+    "id": "king-tides-record-flooding-2026",
+    "title": "RECORD KING TIDES SWAMP BOTH COASTS: Streets Turned Into Canals",
+    "dek": "From Los Angeles Harbor to Miami, the October king tides smashed century-old records, flooded beach neighborhoods, shut roads, and pushed one city to declare a local emergency.",
+    "cat": "U.S. News",
+    "date": "Oct 30, 2026",
+    "url": "/story/king-tides-record-flooding-2026"
+  },
+  {
+    "id": "mariah-carey-glitter-25-2026",
+    "title": "JUSTICE FOR GLITTER: Mariah Carey Opens the Vault for 25th Anniversary",
+    "dek": "Mariah Carey marked 25 years of Glitter with a 27-track deluxe edition packed with vault recordings, remixes, and live tracks.",
+    "cat": "Entertainment",
+    "date": "Oct 30, 2026",
+    "url": "/story/mariah-carey-glitter-25-2026"
+  },
+  {
+    "id": "cook-political-report-dem-shift-2026",
+    "title": "FORECASTER SHIFTS 14 RACES TOWARD DEMS: And a Blue Wave Is Now on the Table",
+    "dek": "The Cook Political Report moved 14 House and Senate races in Democrats' favor on October 30, raising the prospect of the party's biggest House majority in more than a decade.",
+    "cat": "Politics",
+    "date": "Oct 30, 2026",
+    "url": "/story/cook-political-report-dem-shift-2026"
+  },
+  {
+    "id": "amazon-ai-spending-2026",
+    "title": "AMAZON'S $220 BILLION AI BET SPOOKS WALL STREET AS CASH BLEEDS OUT",
+    "dek": "Amazon told investors its AI spending spree is only getting bigger — projecting about $220 billion in capital spending next year — and the market punished the stock for it.",
+    "cat": "Business",
+    "date": "Oct 30, 2026",
+    "url": "/story/amazon-ai-spending-2026"
+  },
+  {
+    "id": "hegseth-fires-pentagon-planner-2026",
+    "title": "HEGSETH FIRES PENTAGON'S TOP WAR PLANNER AS IRAN STRIKES LOOM",
+    "dek": "The Pentagon's chief planning officer was abruptly ousted over alleged classified leaks — just as U.S. forces in the Middle East stand ready to launch major new operations against Iran.",
+    "cat": "U.S. News",
+    "date": "Oct 30, 2026",
+    "url": "/story/hegseth-fires-pentagon-planner-2026"
+  },
+  {
+    "id": "diplomat-season-5-renewed-2026",
+    "title": "NETFLIX SAYS YES AGAIN: The Diplomat Renewed for Season 5",
+    "dek": "Just two weeks after Season 4 dropped, Netflix confirmed Keri Russell's political thriller will return for a fifth season.",
+    "cat": "Entertainment",
+    "date": "Oct 30, 2026",
+    "url": "/story/diplomat-season-5-renewed-2026"
+  },
+  {
+    "id": "india-navic-satellite-launch-2026",
+    "title": "INDIA'S NAVIGATION SATELLITE BLASTS OFF: And Restores Its GPS Rival to Full Strength",
+    "dek": "India's GSLV-F18 rocket lifted off late on October 30 carrying the NVS-03 navigation satellite, which ISRO confirmed reached its intended orbit.",
+    "cat": "Technology",
+    "date": "Oct 30, 2026",
+    "url": "/story/india-navic-satellite-launch-2026"
+  },
+  {
+    "id": "haiti-election-dates-2027-2026",
+    "title": "A DECADE WITHOUT A VOTE: Haiti Finally Sets Election Dates for 2027",
+    "dek": "Haiti will hold its first elections in more than a decade in July and October 2027, authorities announced — but gangs control large parts of the country, and whether voting can actually happen remains an open question.",
+    "cat": "World",
+    "date": "Oct 30, 2026",
+    "url": "/story/haiti-election-dates-2027-2026"
+  },
+  {
+    "id": "packers-watson-return-win-2026",
+    "title": "AMBULANCE TO HERO: Watson Leaves in an Ambulance, Comes Back to Seal Packers Win",
+    "dek": "Christian Watson was taken to a hospital for a chest injury in the first half — then returned to Lambeau Field and helped Green Bay beat Carolina 27-19 on Thursday Night Football.",
+    "cat": "Sports",
+    "date": "Oct 30, 2026",
+    "url": "/story/packers-watson-return-win-2026"
+  },
+  {
+    "id": "medicaid-work-rule-blocked-2026",
+    "title": "JUDGE BLOCKS TRUMP'S MEDICAID CRACKDOWN ON THE SICK: “Great Hardship” Warning",
+    "dek": "A Boston federal judge just stopped the administration from narrowing who counts as “medically frail” under Medicaid's new work rules, ruling the extra hurdle could strip coverage from seriously ill people.",
+    "cat": "U.S. News",
+    "date": "Oct 30, 2026",
+    "url": "/story/medicaid-work-rule-blocked-2026"
+  },
+  {
+    "id": "exxon-chevron-refining-earnings-2026",
+    "title": "WAR-DRIVEN FUEL BOOM HANDS EXXON AND CHEVRON A REFINING WINDFALL",
+    "dek": "America's oil giants just beat profit expectations — and for the first time in at least six years, Exxon is making more money refining fuel than pumping oil.",
+    "cat": "Business",
+    "date": "Oct 30, 2026",
+    "url": "/story/exxon-chevron-refining-earnings-2026"
+  },
+  {
+    "id": "daylight-saving-clocks-fall-back-2026",
+    "title": "CLOCKS FALL BACK SUNDAY: Trump's Push to Kill the Time Change Just Ran Out of Time",
+    "dek": "Despite months of pressure from President Trump — including posting a senator's phone number — the Senate let the permanent daylight saving bill die, so America returns to standard time at 2 a.m. Sunday.",
+    "cat": "Politics",
+    "date": "Oct 30, 2026",
+    "url": "/story/daylight-saving-clocks-fall-back-2026"
+  },
+  {
+    "id": "kelly-mark-halloween-costumes-2026",
+    "title": "60 COSTUMES, ONE MORNING: Kelly and Mark Go Full Halloween Marathon",
+    "dek": "Live with Kelly and Mark turned its annual Halloween special into a rapid-fire costume sprint, with more than 60 looks packed into one episode.",
+    "cat": "Entertainment",
+    "date": "Oct 30, 2026",
+    "url": "/story/kelly-mark-halloween-costumes-2026"
+  },
+  {
+    "id": "samsung-ai-glasses-december-2026",
+    "title": "SAMSUNG'S AI GLASSES ARE REPORTEDLY COMING IN DECEMBER: But Only in Two Countries First",
+    "dek": "A new report tips Samsung's first AI smart glasses for a mid-December launch in South Korea and the US, with the rest of the world left waiting.",
+    "cat": "Technology",
+    "date": "Oct 30, 2026",
+    "url": "/story/samsung-ai-glasses-december-2026"
+  },
+  {
+    "id": "asean-envoy-myanmar-meeting-2026",
+    "title": "MYANMAR'S WAR, BACK AT THE TABLE: ASEAN Envoy Meets Junta Minister in Naypyitaw",
+    "dek": "Southeast Asia's envoy on Myanmar met the country's foreign minister Thursday to discuss the civil war and humanitarian access, as Myanmar pushes to restore its standing in the bloc.",
+    "cat": "World",
+    "date": "Oct 30, 2026",
+    "url": "/story/asean-envoy-myanmar-meeting-2026"
+  },
+  {
+    "id": "boozer-triple-double-grizzlies-2026",
+    "title": "ROOKIE TAKES OVER: Cameron Boozer's First Triple-Double Keeps Grizzlies Perfect",
+    "dek": "The rookie posted 18 points, 12 rebounds and 12 assists as Memphis crushed Portland 124-103 to stay unbeaten at 5-0.",
+    "cat": "Sports",
+    "date": "Oct 30, 2026",
+    "url": "/story/boozer-triple-double-grizzlies-2026"
+  },
+  {
+    "id": "doj-alaska-certification-lawsuit-2026",
+    "title": "DOJ WANTS TO BLOCK ALASKA CERTIFICATION IF THE GOP LOSES CLOSE: And Alaska Calls It Meritless",
+    "dek": "The Justice Department filed an amended lawsuit October 30 seeking to block certification of Alaska's Senate race if Republican Dan Sullivan loses narrowly, alleging a spoiler candidate with the same name was recruited to confuse voters.",
+    "cat": "Politics",
+    "date": "Oct 30, 2026",
+    "url": "/story/doj-alaska-certification-lawsuit-2026"
+  },
+  {
+    "id": "adt-thrive-take-private-2026",
+    "title": "ADT SOLD FOR $15.3 BILLION IN BLOCKBUSTER TAKE-PRIVATE DEAL",
+    "dek": "The 150-year-old home security giant is going private after Thrive Holdings agreed to buy it for $10 a share in cash — a 45.6% premium that sent the stock soaring 33%.",
+    "cat": "Business",
+    "date": "Oct 30, 2026",
+    "url": "/story/adt-thrive-take-private-2026"
+  },
+  {
+    "id": "appeals-court-blocks-ice-voter-surge-2026",
+    "title": "APPEALS COURT TO TRUMP'S ICE SURGE: “Why Do You Need This?” — Voter Crackdown Stays Blocked",
+    "dek": "A federal appeals court refused to let Homeland Security restart its pre-election voter-fraud crackdown in nine states, questioning why the surge was rushed just days before the midterms.",
+    "cat": "U.S. News",
+    "date": "Oct 30, 2026",
+    "url": "/story/appeals-court-blocks-ice-voter-surge-2026"
+  },
+  {
+    "id": "apple-homepod-mini-2-sale-2026",
+    "title": "APPLE'S HOMEPOD MINI 2 HITS SHELVES: But the Big Siri Upgrade Is Still Coming",
+    "dek": "Apple's new smart speaker went on sale October 30 in India and more than 23 other markets, promising a smarter Siri that will only arrive in a future software update.",
+    "cat": "Technology",
+    "date": "Oct 30, 2026",
+    "url": "/story/apple-homepod-mini-2-sale-2026"
+  },
+  {
+    "id": "martha-stewart-today-ganache-2026",
+    "title": "“REAL SNOOP WOULD NEVER DO THIS!”: Martha Stewart Scolds Craig Melvin Live on Today",
+    "dek": "A Halloween cooking segment turned messy when chocolate ganache landed on Martha Stewart's white pants — and she did not let Craig Melvin off the hook.",
+    "cat": "Entertainment",
+    "date": "Oct 30, 2026",
+    "url": "/story/martha-stewart-today-ganache-2026"
+  },
+  {
+    "id": "china-switzerland-trade-deal-2026",
+    "title": "WHILE THE WORLD BUILDS WALLS, CHINA AND SWITZERLAND SIGN A DEAL: Xi and Parmelin Hail Upgraded Trade Pact",
+    "dek": "China and Switzerland hailed an upgraded trade agreement in Beijing on Friday, bucking the global shift toward protectionism and giving Switzerland unusually free access to Chinese markets.",
+    "cat": "World",
+    "date": "Oct 30, 2026",
+    "url": "/story/china-switzerland-trade-deal-2026"
+  },
+  {
+    "id": "bears-jeffery-simmons-trade-2026",
+    "title": "BLOCKBUSTER OUT OF NOWHERE: Bears Land Jeffery Simmons for Two First-Rounders",
+    "dek": "One late-night phone call from Chicago flipped the trade deadline — Tennessee dealt its star defensive tackle to the Bears in a stunner even Simmons didn't see coming.",
+    "cat": "Sports",
+    "date": "Oct 30, 2026",
+    "url": "/story/bears-jeffery-simmons-trade-2026"
+  },
+  {
+    "id": "judge-rejects-california-ballot-bid-2026",
+    "title": "JUDGE TORCHES DOJ BALLOT BID: And a California County Refuses to Play Along",
+    "dek": "A federal judge rejected the Trump administration's bid to halt counting of California mail ballots it suspects came from noncitizens, and Riverside County said October 29 it could not set aside 1,355 disputed ballots as demanded.",
+    "cat": "Politics",
+    "date": "Oct 30, 2026",
+    "url": "/story/judge-rejects-california-ballot-bid-2026"
+  },
+  {
+    "id": "economy-gdp-inflation-2026",
+    "title": "ECONOMY BEATS EXPECTATIONS WITH 3.4% GROWTH: But Inflation Is Still Burning Hot",
+    "dek": "The last big economic snapshot before the midterms is a mixed bag: growth accelerated to its fastest pace in over a year, yet inflation climbed to 3.6% and stayed far above the Fed's target.",
+    "cat": "Business",
+    "date": "Oct 30, 2026",
+    "url": "/story/economy-gdp-inflation-2026"
+  },
+  {
+    "id": "amazon-alexa-tablets-fire-2026",
+    "title": "AMAZON KILLED THE FIRE TABLET: And Its Replacement Is a Full-Blown AI Tablet",
+    "dek": "Amazon's October hardware rollout, recapped October 29, replaced its long-running Fire tablets with a premium Alexa tablet lineup that finally runs the Google Play Store properly.",
+    "cat": "Technology",
+    "date": "Oct 30, 2026",
+    "url": "/story/amazon-alexa-tablets-fire-2026"
+  },
+  {
+    "id": "wade-statue-new-face-2026",
+    "title": "THE INTERNET WON: Heat Give Dwyane Wade's Statue a New Face",
+    "dek": "Two years after the original statue became a meme, Miami quietly replaced the head behind a plywood box — and Wade himself signed off on the fix.",
+    "cat": "Sports",
+    "date": "Oct 30, 2026",
+    "url": "/story/wade-statue-new-face-2026"
+  },
+  {
     "id": "javits-frimpong-bronx-2026",
     "title": "15-YEAR-OLD JAVITS FRIMPONG SHOT AND KILLED ON HIS WAY TO SCHOOL IN THE BRONX",
     "dek": "Javits Frimpong, who moved from Ghana about a year ago to live with his father, was shot Thursday morning in the Bronx. His father says he believes bullying at school played a role. Police have made no arrests and have not confirmed a motive.",

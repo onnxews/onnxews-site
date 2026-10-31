@@ -2,6 +2,391 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://onnxews.com/story/oleshky-evacuation-ceasefire-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>TRAPPED FOR YEARS, THEY FINALLY GOT OUT: Hundreds Evacuate Besieged Oleshky Under Fragile Ceasefire</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/brewers-world-series-title-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>BREWERS DO IT AT LAST: First World Series Title in 57 Years</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/wall-street-october-selloff-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>WALL STREET'S OCTOBER ENDS IN A BLOODBATH AS AI SPENDING PANIC TORCHES TECH</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/trump-approval-new-low-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>TRUMP HITS ROCK BOTTOM DAYS BEFORE THE MIDTERMS</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/morley-tennessee-prison-escape-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>ESCAPED KILLER STILL ON THE RUN — AND PRISON WAITED HOURS TO SOUND THE ALARM</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/celebrity-traitors-winners-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>FAITHFULS WIN THE CASTLE: Romesh and Sebastian Take Celebrity Traitors</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/intel-chip-rout-warning-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>INTEL'S WARNING SPOOKS THE ENTIRE CHIP WORLD</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/g20-ministers-skip-photo-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>NO SMILES FOR THE CAMERA: G20 Ministers Skip Group Photo Over Russia</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/king-tides-record-flooding-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>RECORD KING TIDES SWAMP BOTH COASTS: Streets Turned Into Canals</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/mariah-carey-glitter-25-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>JUSTICE FOR GLITTER: Mariah Carey Opens the Vault for 25th Anniversary</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/cook-political-report-dem-shift-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>FORECASTER SHIFTS 14 RACES TOWARD DEMS: And a Blue Wave Is Now on the Table</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/amazon-ai-spending-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>AMAZON'S $220 BILLION AI BET SPOOKS WALL STREET AS CASH BLEEDS OUT</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/hegseth-fires-pentagon-planner-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>HEGSETH FIRES PENTAGON'S TOP WAR PLANNER AS IRAN STRIKES LOOM</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/diplomat-season-5-renewed-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>NETFLIX SAYS YES AGAIN: The Diplomat Renewed for Season 5</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/india-navic-satellite-launch-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>INDIA'S NAVIGATION SATELLITE BLASTS OFF: And Restores Its GPS Rival to Full Strength</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/haiti-election-dates-2027-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>A DECADE WITHOUT A VOTE: Haiti Finally Sets Election Dates for 2027</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/packers-watson-return-win-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>AMBULANCE TO HERO: Watson Leaves in an Ambulance, Comes Back to Seal Packers Win</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/medicaid-work-rule-blocked-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>JUDGE BLOCKS TRUMP'S MEDICAID CRACKDOWN ON THE SICK: “Great Hardship” Warning</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/exxon-chevron-refining-earnings-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>WAR-DRIVEN FUEL BOOM HANDS EXXON AND CHEVRON A REFINING WINDFALL</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/daylight-saving-clocks-fall-back-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>CLOCKS FALL BACK SUNDAY: Trump's Push to Kill the Time Change Just Ran Out of Time</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/kelly-mark-halloween-costumes-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>60 COSTUMES, ONE MORNING: Kelly and Mark Go Full Halloween Marathon</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/samsung-ai-glasses-december-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>SAMSUNG'S AI GLASSES ARE REPORTEDLY COMING IN DECEMBER: But Only in Two Countries First</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/asean-envoy-myanmar-meeting-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>MYANMAR'S WAR, BACK AT THE TABLE: ASEAN Envoy Meets Junta Minister in Naypyitaw</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/boozer-triple-double-grizzlies-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>ROOKIE TAKES OVER: Cameron Boozer's First Triple-Double Keeps Grizzlies Perfect</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/doj-alaska-certification-lawsuit-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>DOJ WANTS TO BLOCK ALASKA CERTIFICATION IF THE GOP LOSES CLOSE: And Alaska Calls It Meritless</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/adt-thrive-take-private-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>ADT SOLD FOR $15.3 BILLION IN BLOCKBUSTER TAKE-PRIVATE DEAL</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/appeals-court-blocks-ice-voter-surge-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>APPEALS COURT TO TRUMP'S ICE SURGE: “Why Do You Need This?” — Voter Crackdown Stays Blocked</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/apple-homepod-mini-2-sale-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>APPLE'S HOMEPOD MINI 2 HITS SHELVES: But the Big Siri Upgrade Is Still Coming</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/martha-stewart-today-ganache-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>“REAL SNOOP WOULD NEVER DO THIS!”: Martha Stewart Scolds Craig Melvin Live on Today</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/china-switzerland-trade-deal-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>WHILE THE WORLD BUILDS WALLS, CHINA AND SWITZERLAND SIGN A DEAL: Xi and Parmelin Hail Upgraded Trade Pact</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/bears-jeffery-simmons-trade-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>BLOCKBUSTER OUT OF NOWHERE: Bears Land Jeffery Simmons for Two First-Rounders</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/judge-rejects-california-ballot-bid-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>JUDGE TORCHES DOJ BALLOT BID: And a California County Refuses to Play Along</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/economy-gdp-inflation-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>ECONOMY BEATS EXPECTATIONS WITH 3.4% GROWTH: But Inflation Is Still Burning Hot</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/amazon-alexa-tablets-fire-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>AMAZON KILLED THE FIRE TABLET: And Its Replacement Is a Full-Blown AI Tablet</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/wade-statue-new-face-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-30</news:publication_date>
+      <news:title>THE INTERNET WON: Heat Give Dwyane Wade's Statue a New Face</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://onnxews.com/story/javits-frimpong-bronx-2026</loc>
     <news:news>
       <news:publication>

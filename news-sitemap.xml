@@ -2,6 +2,17 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://onnxews.com/story/burger-king-blackface-drive-thru-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-10-31</news:publication_date>
+      <news:title>Burger King Drive-Thru Worker in Blackface Tells Customers She &#x27;Just Wanted to Be Black&#x27;</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://onnxews.com/story/midterm-final-weekend-early-vote-2026</loc>
     <news:news>
       <news:publication>
@@ -31,7 +42,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>JUDGE BLOCKS MEDICAID RULE THAT FORCED SICK PATIENTS TO PROVE THEY CAN'T WORK</news:title>
+      <news:title>JUDGE BLOCKS MEDICAID RULE THAT FORCED SICK PATIENTS TO PROVE THEY CAN&#x27;T WORK</news:title>
     </news:news>
   </url>
   <url>
@@ -108,7 +119,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>HEGSETH FIRES PENTAGON'S TOP WAR PLANNER OVER ALLEGED LEAKS</news:title>
+      <news:title>HEGSETH FIRES PENTAGON&#x27;S TOP WAR PLANNER OVER ALLEGED LEAKS</news:title>
     </news:news>
   </url>
   <url>
@@ -218,7 +229,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>ANTHROPIC'S IPO FILING REVEALS 1,368% REVENUE SURGE — AND A HALF-TRILLION SPENDING BILL</news:title>
+      <news:title>ANTHROPIC&#x27;S IPO FILING REVEALS 1,368% REVENUE SURGE — AND A HALF-TRILLION SPENDING BILL</news:title>
     </news:news>
   </url>
   <url>
@@ -240,7 +251,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>FCC CLEARS AMAZON'S $11.5 BILLION GLOBALSTAR DEAL IN SATELLITE RACE WITH STARLINK</news:title>
+      <news:title>FCC CLEARS AMAZON&#x27;S $11.5 BILLION GLOBALSTAR DEAL IN SATELLITE RACE WITH STARLINK</news:title>
     </news:news>
   </url>
   <url>
@@ -251,7 +262,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>MALICIOUS 'CLAUDE CODE' COPY SLIPPED INTO CURSOR'S MARKETPLACE FOR 11 HOURS</news:title>
+      <news:title>MALICIOUS &#x27;CLAUDE CODE&#x27; COPY SLIPPED INTO CURSOR&#x27;S MARKETPLACE FOR 11 HOURS</news:title>
     </news:news>
   </url>
   <url>
@@ -273,7 +284,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>ONE SWITCH TO OPT OUT: AI GIANTS BACK A SHARED 'DO NOT TRAIN' SIGNAL FOR PUBLISHERS</news:title>
+      <news:title>ONE SWITCH TO OPT OUT: AI GIANTS BACK A SHARED &#x27;DO NOT TRAIN&#x27; SIGNAL FOR PUBLISHERS</news:title>
     </news:news>
   </url>
   <url>
@@ -295,7 +306,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>SNL'S HALLOWEEN NIGHT: INDE NAVARRETTE HOSTS, GRACIE ABRAMS PERFORMS</news:title>
+      <news:title>SNL&#x27;S HALLOWEEN NIGHT: INDE NAVARRETTE HOSTS, GRACIE ABRAMS PERFORMS</news:title>
     </news:news>
   </url>
   <url>
@@ -306,7 +317,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>GHOSTBUSTERS TANGO AND A FIRST-EVER TRIPLE DANCE-OFF: STRICTLY'S HALLOWEEN SPECIAL</news:title>
+      <news:title>GHOSTBUSTERS TANGO AND A FIRST-EVER TRIPLE DANCE-OFF: STRICTLY&#x27;S HALLOWEEN SPECIAL</news:title>
     </news:news>
   </url>
   <url>
@@ -350,7 +361,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-31</news:publication_date>
-      <news:title>FINED AGAIN: CALEB WILLIAMS HIT WITH $23,882 OVER NON-PARTNER CLEATS — AND HE'S NOT STOPPING</news:title>
+      <news:title>FINED AGAIN: CALEB WILLIAMS HIT WITH $23,882 OVER NON-PARTNER CLEATS — AND HE&#x27;S NOT STOPPING</news:title>
     </news:news>
   </url>
   <url>
@@ -416,7 +427,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>WALL STREET'S OCTOBER ENDS IN A BLOODBATH AS AI SPENDING PANIC TORCHES TECH</news:title>
+      <news:title>WALL STREET&#x27;S OCTOBER ENDS IN A BLOODBATH AS AI SPENDING PANIC TORCHES TECH</news:title>
     </news:news>
   </url>
   <url>
@@ -460,7 +471,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>INTEL'S WARNING SPOOKS THE ENTIRE CHIP WORLD</news:title>
+      <news:title>INTEL&#x27;S WARNING SPOOKS THE ENTIRE CHIP WORLD</news:title>
     </news:news>
   </url>
   <url>
@@ -515,7 +526,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>AMAZON'S $220 BILLION AI BET SPOOKS WALL STREET AS CASH BLEEDS OUT</news:title>
+      <news:title>AMAZON&#x27;S $220 BILLION AI BET SPOOKS WALL STREET AS CASH BLEEDS OUT</news:title>
     </news:news>
   </url>
   <url>
@@ -526,7 +537,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>HEGSETH FIRES PENTAGON'S TOP WAR PLANNER AS IRAN STRIKES LOOM</news:title>
+      <news:title>HEGSETH FIRES PENTAGON&#x27;S TOP WAR PLANNER AS IRAN STRIKES LOOM</news:title>
     </news:news>
   </url>
   <url>
@@ -548,7 +559,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>INDIA'S NAVIGATION SATELLITE BLASTS OFF: And Restores Its GPS Rival to Full Strength</news:title>
+      <news:title>INDIA&#x27;S NAVIGATION SATELLITE BLASTS OFF: And Restores Its GPS Rival to Full Strength</news:title>
     </news:news>
   </url>
   <url>
@@ -581,7 +592,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>JUDGE BLOCKS TRUMP'S MEDICAID CRACKDOWN ON THE SICK: “Great Hardship” Warning</news:title>
+      <news:title>JUDGE BLOCKS TRUMP&#x27;S MEDICAID CRACKDOWN ON THE SICK: “Great Hardship” Warning</news:title>
     </news:news>
   </url>
   <url>
@@ -603,7 +614,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>CLOCKS FALL BACK SUNDAY: Trump's Push to Kill the Time Change Just Ran Out of Time</news:title>
+      <news:title>CLOCKS FALL BACK SUNDAY: Trump&#x27;s Push to Kill the Time Change Just Ran Out of Time</news:title>
     </news:news>
   </url>
   <url>
@@ -625,7 +636,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>SAMSUNG'S AI GLASSES ARE REPORTEDLY COMING IN DECEMBER: But Only in Two Countries First</news:title>
+      <news:title>SAMSUNG&#x27;S AI GLASSES ARE REPORTEDLY COMING IN DECEMBER: But Only in Two Countries First</news:title>
     </news:news>
   </url>
   <url>
@@ -636,7 +647,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>MYANMAR'S WAR, BACK AT THE TABLE: ASEAN Envoy Meets Junta Minister in Naypyitaw</news:title>
+      <news:title>MYANMAR&#x27;S WAR, BACK AT THE TABLE: ASEAN Envoy Meets Junta Minister in Naypyitaw</news:title>
     </news:news>
   </url>
   <url>
@@ -647,7 +658,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>ROOKIE TAKES OVER: Cameron Boozer's First Triple-Double Keeps Grizzlies Perfect</news:title>
+      <news:title>ROOKIE TAKES OVER: Cameron Boozer&#x27;s First Triple-Double Keeps Grizzlies Perfect</news:title>
     </news:news>
   </url>
   <url>
@@ -680,7 +691,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>APPEALS COURT TO TRUMP'S ICE SURGE: “Why Do You Need This?” — Voter Crackdown Stays Blocked</news:title>
+      <news:title>APPEALS COURT TO TRUMP&#x27;S ICE SURGE: “Why Do You Need This?” — Voter Crackdown Stays Blocked</news:title>
     </news:news>
   </url>
   <url>
@@ -691,7 +702,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>APPLE'S HOMEPOD MINI 2 HITS SHELVES: But the Big Siri Upgrade Is Still Coming</news:title>
+      <news:title>APPLE&#x27;S HOMEPOD MINI 2 HITS SHELVES: But the Big Siri Upgrade Is Still Coming</news:title>
     </news:news>
   </url>
   <url>
@@ -768,7 +779,7 @@
         <news:language>en</news:language>
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
-      <news:title>THE INTERNET WON: Heat Give Dwyane Wade's Statue a New Face</news:title>
+      <news:title>THE INTERNET WON: Heat Give Dwyane Wade&#x27;s Statue a New Face</news:title>
     </news:news>
   </url>
   <url>
@@ -813,50 +824,6 @@
       </news:publication>
       <news:publication_date>2026-10-30</news:publication_date>
       <news:title>THEE CIRCUS IS HERE: Megan Thee Stallion&#x27;s Hottieween Takes Over Vegas Tonight</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/dolores-huerta-dies-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29</news:publication_date>
-      <news:title>SÍ, SE PUEDE: Labor Leader Dolores Huerta Dies at 96</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/okeefe-higby-charged-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29</news:publication_date>
-      <news:title>CHARGED OVER A POLLING-PLACE STUNT: O&#x27;Keefe and Higby Face Felony Counts in Minnesota</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/dnipro-train-station-strike-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29</news:publication_date>
-      <news:title>13 KILLED AT A TRAIN STATION: Russian Drone Hits Passenger Train in Dnipro</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/demi-lovato-hospital-scare-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-10-29</news:publication_date>
-      <news:title>DEMI LOVATO SPEAKS OUT AFTER BRIEF HOSPITAL SCARE</news:title>
     </news:news>
   </url>
 </urlset>

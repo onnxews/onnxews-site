@@ -2,6 +2,391 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://onnxews.com/story/democrats-sweep-congress-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Democrats Sweep Congress, Seizing Both Chambers in Historic Midterm Rebuke</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/seven-senate-flips-firsts-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Seven Senate Flips and a String of Firsts: How Democrats Took the Senate</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/trump-reacts-midterm-defeat-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Trump Reacts to Midterm Rout: &#x27;I Wasn&#x27;t on the Ballot&#x27;</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/democrats-governors-trifectas-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Democrats Take a Governor&#x27;s Majority and New Trifectas in Statehouse Sweep</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/la-mayor-race-uncalled-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Los Angeles Mayor&#x27;s Race Too Close to Call as Bass and Raman Trade a Narrow Lead</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/spokane-county-shooting-deputies-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Three Dead, Two Deputies Critically Wounded in Spokane County Shooting</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/judge-blocks-afghan-deportations-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Judge Temporarily Blocks Afghan Deportations Via Pakistan Through Saturday</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/november-weather-rockies-southeast-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Heavy Rockies Snow and a Severe Threat Across the Southeast Mark Wednesday&#x27;s Weather</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/fda-oysters-salmonella-alert-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>FDA Warns Over Virginia Oysters Linked to Salmonella Outbreak</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/blood-pressure-pills-recall-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Thousands of Blood-Pressure Pills Recalled Over Reduced Effectiveness</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/ukraine-brussels-abu-dhabi-talks-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Ukraine Allies Meet in Brussels as Abu Dhabi Peace Talks Are Set for Next Week</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/south-africa-municipal-elections-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>South Africans Vote in Municipal Elections as ANC Faces Fresh Losses</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/europe-bomb-threats-flights-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Bomb Threats Disrupt at Least Seven European Flights in a Day; No Explosives Found</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/ethiopia-expels-sudanese-diplomats-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Ethiopia Expels Six Sudanese Diplomats as Horn of Africa Tensions Rise</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/syria-foils-hezbollah-refinery-plot-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Syria Says It Foiled Hezbollah Plot to Attack Homs Oil Refinery</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/markets-swing-midterm-sweep-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Markets Swing as Midterm Sweep Jolts AI Bets, Then Futures Rebound</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/oil-whipsaws-iran-uncertainty-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Oil Whipsaws on Iran-War Uncertainty, With Brent Near a Four-Week Low</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/bitcoin-seven-week-low-rebound-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Bitcoin Dips Below $76,000 to a Seven-Week Low, Then Rebounds Toward $78,000</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/treasury-borrowing-618-billion-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>U.S. Treasury to Borrow $618 Billion This Quarter, $800 Billion Next</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/oracle-20-billion-raise-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Oracle&#x27;s $20 Billion Stock-and-Bond Raise Set to Close Wednesday to Fund AI Buildout</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/amd-record-quarter-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>AMD Posts Record Quarter as Data-Center Sales Nearly Double</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/arista-ai-networking-record-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Arista&#x27;s AI Networking Growth Hits Fastest Pace Since Its IPO</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/google-ai-off-schools-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Google Turns Its AI Off by Default for School Accounts, and Search Goes With It</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/canva-layoffs-1271-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Canva Cuts 22 Percent of Its Workforce as Growth Slows for the First Time in a Decade</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/elder-scrolls-vi-sentinel-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Bethesda Finally Names Elder Scrolls VI: &#x27;Sentinel&#x27;, but It Is Still Years Away</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/wicker-uk-box-office-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>&#x27;Wicker&#x27; Tops the U.K. Box Office in a Photo Finish</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/resident-evil-400-million-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>&#x27;Resident Evil&#x27; Passes $400 Million Worldwide</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/angry-birds-movie-3-trailer-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>&#x27;The Angry Birds Movie 3&#x27; Drops Its New Trailer, Ahead of a December 23 Release</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/remarried-empress-early-premiere-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Disney+ Pulls &#x27;The Remarried Empress&#x27; Forward to November 3</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/reznor-ross-cliff-booth-score-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Trent Reznor and Atticus Ross to Score Fincher&#x27;s Cliff Booth Film</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/psg-six-nil-villarreal-record-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>PSG Set Champions League Record in 6-0 Rout of Villarreal</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/man-united-comeback-roma-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Manchester United Come From 2-0 Down to Beat Roma 3-2</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/jets-four-goal-comeback-canadiens-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Jets Pull Off Latest Four-Goal Comeback in NHL History, Beating Canadiens 5-4 in OT</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/ravens-third-string-qb-fagnano-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Ravens Down to Third-String QB as Jackson and Huntley Injuries Force Fagnano Start</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/cfp-rankings-miami-number-one-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-04</news:publication_date>
+      <news:title>Miami Tops First College Football Playoff Rankings of 2026</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://onnxews.com/story/midterm-results-early-senate-wins-2026</loc>
     <news:news>
       <news:publication>
@@ -395,391 +780,6 @@
       </news:publication>
       <news:publication_date>2026-11-03</news:publication_date>
       <news:title>Curry&#x27;s 34 Lifts Warriors Past Suns 116-113</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/florida-jet-crash-nine-dead-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Nine Dead After Bahamas-Bound Jet Plunges Into Florida Neighborhood</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/halloween-weekend-shootings-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Halloween Weekend Turns Deadly Across America as Shootings Hit Dallas, Birmingham, and College Towns</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/indicted-ice-officer-houston-surrender-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Indicted ICE Officer to Surrender After Houston SUV Strike Leaves Man Seriously Injured</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/ghost-students-federal-aid-fraud-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>&#x27;Ghost Students&#x27; Stole Millions in Federal Aid, Justice Department Charges in Nationwide Crackdown</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/defend-the-spend-schools-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Schools Must Now Justify Every Federal Dollar in 255 Characters, or Wait to Get Paid</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/stevens-endorses-rogers-michigan-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Democrat Stuns Her Own Party, Endorses Republican in Michigan Senate Race Two Days Before Election</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/senator-chris-murphy-stroke-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Senator Chris Murphy Hospitalized After Stroke at Son&#x27;s Hockey Game, Office Expects Full Recovery</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/alaska-election-lawsuit-dismissed-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Judge Throws Out DOJ&#x27;s Alaska Election Lawsuit, Then the Department Appeals Within the Hour</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/trump-closing-midterm-pitch-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Trump to Deliver Final Midterm Pitch at Reflecting Pool, and Warns of Vetoes If Democrats Win Congress</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/trump-canada-trade-concept-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Trump Says U.S. and Canada Have the &#x27;Concept&#x27; of a New Trade Deal After Talks With Carney</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/bulgaria-yotova-first-woman-president-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Bulgaria Elects First Woman President as Yotova Wins Runoff With 57.6%</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/france-protests-third-weekend-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>320,000 Take to France&#x27;s Streets for Third Weekend of Youth-Led Protests</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/western-sahara-un-mission-ends-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>UN Ends 35-Year Western Sahara Peacekeeping Mission After Security Council Deadlock</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/commonwealth-antigua-king-charles-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Commonwealth Leaders Descend on Antigua as King Charles Faces Slavery Reckoning</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/spain-urda-train-crash-victims-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Spain Names 66 of 69 Dead in Urda Train Crash, Including Four Americans</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/south-korea-exports-trillion-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>South Korea Nears $1 Trillion in Annual Exports as Chip Sales Nearly Triple</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/binance-heist-north-korea-fbi-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>FBI Blames North Korea for $6.3 Billion Binance Heist, the Biggest Crypto Theft Ever</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/opec-december-output-hold-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>OPEC+ Keeps December Oil Targets on Hold for a Third Straight Month</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/apple-ternus-first-earnings-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Apple&#x27;s New Chief Faces First Earnings Test as Memory Costs Bite</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/global-manufacturing-october-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Global Manufacturing Holds Firm in October as Energy Costs Bite</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/motorola-signature-27-specs-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Motorola&#x27;s Signature 27 Leaks in Full Ahead of November 5 Launch: 12,000-Nit Display, 200MP Camera</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/google-ai-answer-orbit-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Google Gets Its First AI Answer Back From a Chip in Orbit</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/microsoft-365-family-storage-cut-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Microsoft 365 Family Users Are Losing Their Individual 1TB, and Sharing Just 2TB Instead</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/claude-game-recreation-block-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Claude Will No Longer Rebuild Your Favorite Video Game for You</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/xai-memphis-lawsuit-proceeds-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Judge Refuses to Throw Out NAACP Pollution Lawsuit Over xAI&#x27;s Memphis-Area Data Center</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/halloween-box-office-documentary-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>A Documentary Just Beat a Superhero Movie at the Halloween Box Office, by $200,000</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/marrakech-debut-opening-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Jesse Eisenberg&#x27;s &#x27;The Debut&#x27; to Open the Marrakech Film Festival</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/anime-market-record-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Japan&#x27;s Anime Market Hits a Record $28.2 Billion, and Most of the Money Now Comes From Abroad</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/taylor-swift-toy-story-friendship-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Taylor Swift Reveals the 20-Year Inside Joke She Still Shares With Her Best Friend</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/jyp-nexroc-bid-denied-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>JYP Says It Never Got Nexroc&#x27;s Takeover Bid: The Email Was Blocked as Spam</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/antonelli-youngest-f1-champion-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>At 20, Kimi Antonelli Becomes Formula 1&#x27;s Youngest-Ever World Champion</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/canelo-mbilli-riyadh-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Canelo Is Champion Again After Outpointing Mbilli in Riyadh</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/bayern-injuries-klassiker-draw-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Bayern&#x27;s Klassiker Draw Comes at a Heavy Price: Saibari and Gnabry Out Indefinitely</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/minnesota-lafc-playoff-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Minnesota Stuns LAFC 3-1 to Keep Its Playoff Dream Alive</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/messi-inter-miami-new-england-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-02</news:publication_date>
-      <news:title>Messi&#x27;s Late Winner Lifts Inter Miami Past New England and Into Second in the East</news:title>
     </news:news>
   </url>
 </urlset>

@@ -6,17 +6,17 @@
   "undecided": 15
  },
  "house": {
-  "dem": 223,
-  "rep": 131,
-  "undecided": 81,
+  "dem": 222,
+  "rep": 138,
+  "undecided": 75,
   "needed": 218
  },
- "lastUpdated": "2026-11-04T07:00:00-05:00",
- "lastUpdatedLabel": "7:00 AM ET, Nov 4, 2026",
+ "lastUpdated": "2026-11-04T11:50:00-05:00",
+ "lastUpdatedLabel": "11:50 AM ET, Nov 4, 2026",
  "senate": {
-  "dem": 53,
-  "rep": 42,
-  "undecided": 5,
+  "dem": 54,
+  "rep": 44,
+  "undecided": 2,
   "needed": 51,
   "note": "Includes 65 seats not up for election this year. Democrats need 51 seats for a majority; 50 seats plus the vice president's tie-breaking vote also delivers control."
  },
@@ -171,7 +171,7 @@
    "governor": "D",
    "houseCalled": null,
    "name": "Michigan",
-   "senate": "uncalled"
+   "senate": "D"
   },
   "MN": {
    "governor": "uncalled",
@@ -348,6 +348,14 @@
  },
  "status": "live",
  "updates": [
+  {
+   "text": "Midday update: AP's House won-count now stands at 222D\u2013138R with 75 districts still uncalled (Democrats lead in 41, Republicans in 34). Control was already called for Democrats; these are called seats, not certified finals.",
+   "time": "Late morning"
+  },
+  {
+   "text": "Senate: AP tracker now shows 54D\u201344R, with only Alaska and Mississippi still uncalled. Michigan's Senate race is called for Democrat Abdul El-Sayed.",
+   "time": "Late morning"
+  },
   {
    "text": "Wednesday morning: AP calls both chambers for Democrats \u2014 Senate 53D\u201342R and House 223D\u2013131R in called seats. Counting continues; these are called seats, not certified final tallies.",
    "time": "Wed morning"

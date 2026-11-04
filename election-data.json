@@ -6,13 +6,13 @@
   "undecided": 15
  },
  "house": {
-  "dem": 222,
+  "dem": 232,
   "rep": 138,
-  "undecided": 75,
+  "undecided": 65,
   "needed": 218
  },
- "lastUpdated": "2026-11-04T11:50:00-05:00",
- "lastUpdatedLabel": "11:50 AM ET, Nov 4, 2026",
+ "lastUpdated": "2026-11-04T15:50:00-05:00",
+ "lastUpdatedLabel": "3:50 PM ET, Nov 4, 2026",
  "senate": {
   "dem": 54,
   "rep": 44,
@@ -348,6 +348,10 @@
  },
  "status": "live",
  "updates": [
+  {
+   "text": "Afternoon update: AP's House won-count now stands at 232D\u2013138R with 65 districts still uncalled (Democrats lead in 30, Republicans in 35). Control was already called for Democrats; these are called seats, not certified finals.",
+   "time": "Afternoon"
+  },
   {
    "text": "Midday update: AP's House won-count now stands at 222D\u2013138R with 75 districts still uncalled (Democrats lead in 41, Republicans in 34). Control was already called for Democrats; these are called seats, not certified finals.",
    "time": "Late morning"

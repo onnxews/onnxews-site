@@ -1,0 +1,62 @@
+/* 2026 election dashboard — standalone styles for /elections. Uses the
+   site's own palette (crimson / light grey) plus party colors. No sitewide
+   stylesheet is changed by this file. */
+:root{
+  --onn-red:#e01a12; --onn-ink:#101114; --onn-bg:#ececea;
+  --dem:#1663b8; --rep:#c81e1e; --und:#cfd2d6; --notup:#f2f2f2;
+  --card:#ffffff; --line:#e2e2e2; --muted:#5c5f66;
+}
+[data-theme="dark"]{ --card:#17191e; --line:#2a2d33; --muted:#a9adb4; --und:#3a3e45; --notup:#22252b; }
+.el-wrap{max-width:1080px;margin:0 auto;padding:22px 16px 48px;}
+.el-head h1{font-family:"Archivo",sans-serif;font-weight:900;font-size:clamp(30px,5vw,52px);line-height:1.02;letter-spacing:-.01em;margin:8px 0 10px;}
+.el-live{display:inline-flex;align-items:center;gap:8px;font-family:"Archivo",sans-serif;font-weight:800;font-size:13px;letter-spacing:.12em;color:var(--onn-red);}
+.el-live i{width:10px;height:10px;border-radius:50%;background:var(--onn-red);animation:el-pulse 1.6s infinite;}
+@keyframes el-pulse{0%{box-shadow:0 0 0 0 rgba(224,26,18,.5)}70%{box-shadow:0 0 0 9px rgba(224,26,18,0)}100%{box-shadow:0 0 0 0 rgba(224,26,18,0)}}
+.el-meta{font-family:"Newsreader",serif;font-size:17px;color:var(--muted);margin:6px 0 0;}
+.el-meta button{font-family:"Archivo",sans-serif;font-weight:700;font-size:13px;margin-left:10px;padding:6px 12px;border-radius:999px;border:1px solid var(--line);background:var(--card);cursor:pointer;}
+.el-banner{display:none;margin:16px 0;padding:12px 14px;border-radius:12px;background:#fff4e5;border:1px solid #f0c36b;font-family:"Archivo",sans-serif;font-size:14px;font-weight:600;}
+.el-banner.show{display:block;}
+.el-tabs{display:flex;gap:8px;margin:22px 0 16px;flex-wrap:wrap;}
+.el-tabs button{font-family:"Archivo",sans-serif;font-weight:800;font-size:15px;padding:10px 18px;border-radius:999px;border:1px solid var(--line);background:var(--card);cursor:pointer;}
+.el-tabs button.on{background:var(--onn-ink);color:#fff;border-color:var(--onn-ink);}
+.el-tracker{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:20px;}
+.el-score{display:flex;gap:24px;flex-wrap:wrap;align-items:flex-end;}
+.el-score .num{font-family:"Archivo",sans-serif;font-weight:900;font-size:clamp(38px,7vw,60px);line-height:1;}
+.el-score .lab{font-family:"Archivo",sans-serif;font-weight:700;font-size:13px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted);}
+.el-score .d{color:var(--dem);} .el-score .r{color:var(--rep);}
+.el-bar{position:relative;height:26px;border-radius:999px;overflow:visible;display:flex;margin:18px 0 8px;background:var(--und);}
+.el-bar .seg{height:100%;}
+.el-bar .seg.d{background:var(--dem);} .el-bar .seg.r{background:var(--rep);}
+.el-bar .marker{position:absolute;top:-6px;bottom:-6px;width:3px;background:var(--onn-ink);}
+.el-bar .marker span{position:absolute;top:-20px;left:50%;transform:translateX(-50%);font-family:"Archivo",sans-serif;font-size:11px;font-weight:800;white-space:nowrap;}
+.el-needed{font-family:"Archivo",sans-serif;font-weight:700;font-size:15px;}
+.el-note{font-family:"Newsreader",serif;font-size:16px;color:var(--muted);line-height:1.5;margin:10px 0 0;}
+.el-map-card{background:var(--card);border:1px solid var(--line);border-radius:18px;padding:20px;margin-top:18px;}
+.el-map-card h2,.el-updates h2{font-family:"Archivo",sans-serif;font-weight:900;font-size:22px;margin:0 0 12px;}
+.el-legend{display:flex;gap:16px;flex-wrap:wrap;font-family:"Archivo",sans-serif;font-size:13px;font-weight:600;margin-bottom:14px;}
+.el-legend i{display:inline-block;width:14px;height:14px;border-radius:4px;vertical-align:-2px;margin-right:6px;}
+.el-legend .sw-d i{background:var(--dem);} .el-legend .sw-r i{background:var(--rep);}
+.el-legend .sw-u i{background:var(--und);} .el-legend .sw-n i{background:var(--notup);border:1px dashed #aaa;}
+.el-grid{display:grid;grid-template-columns:repeat(11,1fr);gap:5px;max-width:760px;}
+.el-tile{aspect-ratio:1;border:none;border-radius:8px;font-family:"Archivo",sans-serif;font-weight:800;font-size:13px;cursor:pointer;display:flex;align-items:center;justify-content:center;color:#fff;}
+.el-tile.d{background:var(--dem);} .el-tile.r{background:var(--rep);}
+.el-tile.u{background:var(--und);color:#333;}
+.el-tile.n{background:var(--notup);color:var(--muted);border:1px dashed #aaa;}
+.el-tile.p{background:repeating-linear-gradient(45deg,var(--dem) 0 8px,#fff 8px 16px);color:#111;border:1px solid var(--dem);}
+.el-tile.sel{outline:3px solid var(--onn-ink);outline-offset:2px;}
+.el-detail{margin-top:16px;padding:14px 16px;border-radius:12px;background:var(--onn-bg);font-family:"Newsreader",serif;font-size:17px;line-height:1.55;}
+[data-theme="dark"] .el-detail{background:#22252b;}
+.el-detail b{font-family:"Archivo",sans-serif;}
+.el-updates{margin-top:18px;background:var(--card);border:1px solid var(--line);border-radius:18px;padding:20px;}
+.el-updates ul{list-style:none;margin:0;padding:0;}
+.el-updates li{display:flex;gap:12px;padding:12px 0;border-bottom:1px solid var(--line);font-family:"Newsreader",serif;font-size:17px;line-height:1.5;}
+.el-updates li:last-child{border-bottom:none;}
+.el-updates time{font-family:"Archivo",sans-serif;font-weight:800;font-size:13px;color:var(--onn-red);white-space:nowrap;padding-top:3px;}
+.el-house-list{margin:14px 0 0;font-family:"Newsreader",serif;font-size:16px;line-height:1.6;color:var(--muted);}
+.el-foot-note{font-family:"Newsreader",serif;font-size:15px;color:var(--muted);line-height:1.55;margin-top:18px;}
+@media (max-width:640px){
+  .el-wrap{padding:16px 12px 36px;}
+  .el-grid{gap:4px;}
+  .el-tile{font-size:11px;border-radius:6px;}
+  .el-score{gap:16px;}
+}

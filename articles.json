@@ -1,5 +1,285 @@
 [
   {
+    "id": "newsom-commutes-california-death-row-2026",
+    "title": "Newsom Commutes All 548 California Death Sentences in Largest Mass Clemency in U.S. History",
+    "dek": "California's governor is moving every person on the state's death row to life in prison without parole, though most cases still need the state Supreme Court's approval.",
+    "cat": "U.S. News",
+    "date": "Nov 6, 2026",
+    "url": "/story/newsom-commutes-california-death-row-2026"
+  },
+  {
+    "id": "keisha-lance-bottoms-georgia-governor-2026",
+    "title": "Keisha Lance Bottoms Wins Georgia, Becoming the First Black Woman Elected Governor in U.S. History",
+    "dek": "The former Atlanta mayor defeated Republican billionaire Rick Jackson, ending more than two decades of Republican control of Georgia's governor's office.",
+    "cat": "U.S. News",
+    "date": "Nov 6, 2026",
+    "url": "/story/keisha-lance-bottoms-georgia-governor-2026"
+  },
+  {
+    "id": "trump-iran-war-decision-2026",
+    "title": "Trump Says Iran War Decision Coming Soon as Tehran Sends Nuclear Proposal Through Qatar",
+    "dek": "After meeting his national security team for the first time since the midterms, the president said he will soon decide whether to resume major strikes, keep up economic pressure, or cut a deal.",
+    "cat": "U.S. News",
+    "date": "Nov 6, 2026",
+    "url": "/story/trump-iran-war-decision-2026"
+  },
+  {
+    "id": "east-coast-storm-flooding-2026",
+    "title": "Cross-Country Storm Shifts to the East Coast After Catastrophic Flooding in Georgia and Tennessee",
+    "dek": "The same system that swamped towns on the Georgia-Tennessee border is now bringing the Northeast its first significant rain in weeks, with flash flooding possible from Virginia to New England.",
+    "cat": "U.S. News",
+    "date": "Nov 6, 2026",
+    "url": "/story/east-coast-storm-flooding-2026"
+  },
+  {
+    "id": "paraguay-president-pena-resigns-2026",
+    "title": "Paraguay's President Resigns as Bank Collapse Freezes the Savings of Three Million People",
+    "dek": "Santiago Pe\u00f1a stepped down hours after the central bank seized Ueno Bank, and lawmakers voted 78-0 to impeach him minutes later.",
+    "cat": "World",
+    "date": "Nov 6, 2026",
+    "url": "/story/paraguay-president-pena-resigns-2026"
+  },
+  {
+    "id": "pope-leo-latin-america-tour-2026",
+    "title": "Pope Leo XIV Begins 12-Day Latin America Tour Three Weeks After Lung Cancer Surgery",
+    "dek": "The 71-year-old pontiff's longest and farthest trip takes him to Uruguay, Argentina and Peru, returning to the continent where he spent two decades as a missionary priest.",
+    "cat": "World",
+    "date": "Nov 6, 2026",
+    "url": "/story/pope-leo-latin-america-tour-2026"
+  },
+  {
+    "id": "russell-brand-guilty-rape-verdict-2026",
+    "title": "Russell Brand Found Guilty of Rape and Sexual Assault by London Jury",
+    "dek": "The 51-year-old comedian was convicted on four of seven charges after a trial at Southwark Crown Court and was remanded in custody ahead of sentencing on Monday.",
+    "cat": "World",
+    "date": "Nov 6, 2026",
+    "url": "/story/russell-brand-guilty-rape-verdict-2026"
+  },
+  {
+    "id": "tanzania-lissu-treason-acquittal-2026",
+    "title": "Tanzania Clears Opposition Leader Lissu of Treason but Jails Him for Four Years",
+    "dek": "A three-judge panel acquitted Tundu Lissu of the charge that carried a possible death sentence, then convicted him of incitement over his 'No Reforms, No Election' campaign slogan.",
+    "cat": "World",
+    "date": "Nov 6, 2026",
+    "url": "/story/tanzania-lissu-treason-acquittal-2026"
+  },
+  {
+    "id": "turkiye-mecca-defense-pact-2026",
+    "title": "T\u00fcrkiye Ratifies Defence Pact With Saudi Arabia and Pakistan Treating an Attack on One as an Attack on All",
+    "dek": "Parliament approved the Mecca Joint Defence Agreement by 279 votes to 119, completing the legislative step for a pact signed in August.",
+    "cat": "World",
+    "date": "Nov 6, 2026",
+    "url": "/story/turkiye-mecca-defense-pact-2026"
+  },
+  {
+    "id": "democrats-plan-first-100-hours-blitz-2026",
+    "title": "Democrats Plan First-100-Hours Blitz as Jeffries Eyes the Speaker's Gavel",
+    "dek": "The incoming House majority plans to move fast on health care, tariffs and the Iran war once it takes power in January.",
+    "cat": "Politics",
+    "date": "Nov 6, 2026",
+    "url": "/story/democrats-plan-first-100-hours-blitz-2026"
+  },
+  {
+    "id": "schumer-faces-leadership-pressure-after-midterm-sweep-2026",
+    "title": "Schumer Faces Leadership Pressure as New Democrats Demand 'New Blood'",
+    "dek": "Days after Democrats swept Congress, several incoming senators are refusing to back Chuck Schumer for another term as leader.",
+    "cat": "Politics",
+    "date": "Nov 6, 2026",
+    "url": "/story/schumer-faces-leadership-pressure-after-midterm-sweep-2026"
+  },
+  {
+    "id": "alaska-mississippi-senate-races-still-uncalled-2026",
+    "title": "Two Senate Races Still Uncalled as Alaska and Mississippi Counts Drag On",
+    "dek": "Democrats already hold the Senate, but razor-thin leads in Alaska and Mississippi will take days or weeks to settle.",
+    "cat": "Politics",
+    "date": "Nov 6, 2026",
+    "url": "/story/alaska-mississippi-senate-races-still-uncalled-2026"
+  },
+  {
+    "id": "trump-keeps-foreign-policy-power-after-midterm-losses-2026",
+    "title": "Midterms Diminished Trump at Home, but His Foreign Policy Power Stays Intact",
+    "dek": "A Democratic Congress can block Trump's domestic agenda, but analysts say it has little power to stop him as commander-in-chief.",
+    "cat": "Politics",
+    "date": "Nov 6, 2026",
+    "url": "/story/trump-keeps-foreign-policy-power-after-midterm-losses-2026"
+  },
+  {
+    "id": "trump-to-nominate-ousted-texas-justice-sullivan-2026",
+    "title": "Trump Moves to Name Ousted Texas Justice Sullivan to Federal Bench",
+    "dek": "Days after voters removed him from the Texas Supreme Court, James Sullivan is in line for a lifetime federal judgeship.",
+    "cat": "Politics",
+    "date": "Nov 6, 2026",
+    "url": "/story/trump-to-nominate-ousted-texas-justice-sullivan-2026"
+  },
+  {
+    "id": "us-adds-165000-jobs-october-unemployment-41-2026",
+    "title": "U.S. Adds 165,000 Jobs in October as Unemployment Slips to 4.1%",
+    "dek": "Hiring blew past forecasts and earlier months were revised sharply upward, giving the Fed room to focus on inflation.",
+    "cat": "Business",
+    "date": "Nov 6, 2026",
+    "url": "/story/us-adds-165000-jobs-october-unemployment-41-2026"
+  },
+  {
+    "id": "nasdaq-plunges-55-percent-ai-selloff-2026",
+    "title": "Nasdaq Plunges 5.5% Into Correction as AI Selloff Wipes Out $2 Trillion",
+    "dek": "Chip stocks suffered their second-biggest drop on record as investors reassessed the AI data-center boom after the midterms.",
+    "cat": "Business",
+    "date": "Nov 6, 2026",
+    "url": "/story/nasdaq-plunges-55-percent-ai-selloff-2026"
+  },
+  {
+    "id": "airbnb-beats-q3-earnings-12-billion-buyback-2026",
+    "title": "Airbnb Beats Earnings and Unveils $12 Billion Buyback as Travel Demand Surges",
+    "dek": "The travel platform's summer quarter grew 19 percent, its fastest in more than three years, and it raised its full-year outlook.",
+    "cat": "Business",
+    "date": "Nov 6, 2026",
+    "url": "/story/airbnb-beats-q3-earnings-12-billion-buyback-2026"
+  },
+  {
+    "id": "bitcoin-steadies-near-76000-after-selloff-2026",
+    "title": "Bitcoin Steadies Near $76,000 After Selloff Wipes Out $1.27 Billion in Bets",
+    "dek": "The cryptocurrency bounced off its lows after a brutal day for risk assets, but traders are braced for more volatility.",
+    "cat": "Business",
+    "date": "Nov 6, 2026",
+    "url": "/story/bitcoin-steadies-near-76000-after-selloff-2026"
+  },
+  {
+    "id": "oil-rebounds-brent-tops-100-2026",
+    "title": "Oil Rebounds as Brent Climbs Back Above $100 After Election Week Plunge",
+    "dek": "Fresh tanker attacks and supply fears lifted crude for a second day, but both benchmarks remain headed for steep weekly losses.",
+    "cat": "Business",
+    "date": "Nov 6, 2026",
+    "url": "/story/oil-rebounds-brent-tops-100-2026"
+  },
+  {
+    "id": "openai-gpt-6-cyber-critical-rating-2026",
+    "title": "OpenAI Launches GPT-6 Cyber With 'Critical' Security Rating After Finding 948 Linux Flaws",
+    "dek": "The new model, released to a small group of vetted security researchers, found 81 previously unknown Firefox vulnerabilities and built working exploits for hundreds of Linux kernel flaws.",
+    "cat": "Technology",
+    "date": "Nov 6, 2026",
+    "url": "/story/openai-gpt-6-cyber-critical-rating-2026"
+  },
+  {
+    "id": "meta-acquires-conductor-ai-coding-2026",
+    "title": "Meta Acquires AI Coding Startup Conductor as the Race for Multi-Agent Tools Heats Up",
+    "dek": "Conductor lets developers run several AI coding agents at once in parallel workspaces. Its team will join Meta's Superintelligence Labs, and its cloud service shuts down November 20.",
+    "cat": "Technology",
+    "date": "Nov 6, 2026",
+    "url": "/story/meta-acquires-conductor-ai-coding-2026"
+  },
+  {
+    "id": "arm-forecast-disappoints-ai-hopes-2026",
+    "title": "Arm's Forecast Barely Beats Estimates, Disappointing Investors Betting on an AI Payoff",
+    "dek": "The chip designer forecast about $1.54 billion in quarterly revenue, only slightly ahead of Wall Street's estimate, even as its own AI data-center chip is expected to bring in up to $2 billion.",
+    "cat": "Technology",
+    "date": "Nov 6, 2026",
+    "url": "/story/arm-forecast-disappoints-ai-hopes-2026"
+  },
+  {
+    "id": "axon-skydio-1-2-billion-investment-2026",
+    "title": "Axon Bets $1.2 Billion on Skydio Drones as AI Revenue Tops $100 Million",
+    "dek": "The Taser and body-camera maker reported $909 million in quarterly revenue and unveiled its largest investment ever, taking a 37 percent stake in the drone company Skydio.",
+    "cat": "Technology",
+    "date": "Nov 6, 2026",
+    "url": "/story/axon-skydio-1-2-billion-investment-2026"
+  },
+  {
+    "id": "apple-creator-studio-ai-features-2026",
+    "title": "Apple Rolls Out Creator Studio AI Features Powered by Apple Intelligence and OpenAI",
+    "dek": "Final Cut Pro gains built-in MotionVFX, Logic Pro gets a new AI assistant, and Keynote, Pages and Numbers add AI helpers that understand document context.",
+    "cat": "Technology",
+    "date": "Nov 6, 2026",
+    "url": "/story/apple-creator-studio-ai-features-2026"
+  },
+  {
+    "id": "weeknd-1-3-billion-tour-record-2026",
+    "title": "The Weeknd Wraps $1.3 Billion Tour, the Highest-Grossing Ever by a Male Artist",
+    "dek": "The After Hours Til Dawn stadium tour spanned 176 shows across five continents and passed Elton John's record, landing behind only Taylor Swift and Coldplay on the all-time list.",
+    "cat": "Entertainment",
+    "date": "Nov 6, 2026",
+    "url": "/story/weeknd-1-3-billion-tour-record-2026"
+  },
+  {
+    "id": "uk-intervenes-sky-itv-deal-2026",
+    "title": "U.K. Government Intervenes in Sky's $2.15 Billion ITV Deal, Ordering Regulators to Review It",
+    "dek": "Culture Secretary Lisa Nandy issued a public interest intervention notice, directing the competition watchdog and Ofcom to report by January 27 on media plurality and free expression.",
+    "cat": "Entertainment",
+    "date": "Nov 6, 2026",
+    "url": "/story/uk-intervenes-sky-itv-deal-2026"
+  },
+  {
+    "id": "jailer-2-823-crore-ott-date-2026",
+    "title": "'Jailer 2' Tops Rs 823 Crore Worldwide, Now the Highest-Grossing Tamil Film Ever",
+    "dek": "Rajinikanth's blockbuster completed three weeks in cinemas with a record haul, and Prime Video has confirmed it will start streaming on November 12.",
+    "cat": "Entertainment",
+    "date": "Nov 6, 2026",
+    "url": "/story/jailer-2-823-crore-ott-date-2026"
+  },
+  {
+    "id": "scrubs-jd-elliot-divorce-explained-2026",
+    "title": "'Scrubs' Finally Explains Why J.D. and Elliot's Marriage Fell Apart \u2014 in a Daydream",
+    "dek": "Season 2, Episode 7, \"My Story,\" revisits the show's defining romance, revealing that J.D. lost his sense of purpose after leaving Sacred Heart \u2014 then pulls the rug out.",
+    "cat": "Entertainment",
+    "date": "Nov 6, 2026",
+    "url": "/story/scrubs-jd-elliot-divorce-explained-2026"
+  },
+  {
+    "id": "cma-awards-2026-first-performers-2026",
+    "title": "Ella Langley, Tim McGraw and Miranda Lambert Lead First Performers Announced for 60th CMA Awards",
+    "dek": "The Country Music Association revealed eight performers for the November 18 show, which will also feature a tribute to Dolly Parton and a first CMA appearance in a decade from Taylor Swift.",
+    "cat": "Entertainment",
+    "date": "Nov 6, 2026",
+    "url": "/story/cma-awards-2026-first-performers-2026"
+  },
+  {
+    "id": "jaguars-rout-ravens-33-10-2026",
+    "title": "Jaguars Rout Injury-Hit Ravens 33-10 as Fagnano's First Start Falls Flat",
+    "dek": "Trevor Lawrence threw for 242 yards and Cam Little kicked four field goals as Jacksonville improved to 6-2, while Baltimore lost its fourth straight behind third-string quarterback Joe Fagnano.",
+    "cat": "Sports",
+    "date": "Nov 6, 2026",
+    "url": "/story/jaguars-rout-ravens-33-10-2026"
+  },
+  {
+    "id": "curry-warriors-sixth-straight-win-heat-2026",
+    "title": "Curry Scores 22 After Halftime as Warriors Beat Heat 120-100 for Sixth Straight Win",
+    "dek": "Stephen Curry shook off a cold first half to score 29 points, and Golden State has not lost since its 0-3 start to the season.",
+    "cat": "Sports",
+    "date": "Nov 6, 2026",
+    "url": "/story/curry-warriors-sixth-straight-win-heat-2026"
+  },
+  {
+    "id": "nhl-roundup-devils-canadiens-overtime-2026",
+    "title": "Bratt and Caufield Deliver Overtime Winners as Devils and Canadiens Survive Late Collapses",
+    "dek": "Jesper Bratt scored 1:26 into overtime after New Jersey blew a 4-1 lead, and Cole Caufield needed just 30 seconds to beat Utah, in an 11-game NHL night.",
+    "cat": "Sports",
+    "date": "Nov 6, 2026",
+    "url": "/story/nhl-roundup-devils-canadiens-overtime-2026"
+  },
+  {
+    "id": "milan-stunned-ferencvaros-europa-league-2026",
+    "title": "Milan Stunned 2-0 at Home by Ferencvaros as Europa League Hopes Fade",
+    "dek": "Lenny Joseph scored twice at San Siro to keep Ferencvaros perfect, while Marseille, Juventus, Benfica and Bournemouth all won on matchday four.",
+    "cat": "Sports",
+    "date": "Nov 6, 2026",
+    "url": "/story/milan-stunned-ferencvaros-europa-league-2026"
+  },
+  {
+    "id": "fau-routs-utsa-60-29-2026",
+    "title": "Florida Atlantic Routs UTSA 60-29, Snapping the Roadrunners' Five-Game Win Streak",
+    "dek": "The Owls piled up 563 yards, including 339 on the ground, as Caden Veltkamp threw four touchdown passes in a Thursday night stunner in Boca Raton.",
+    "cat": "Sports",
+    "date": "Nov 6, 2026",
+    "url": "/story/fau-routs-utsa-60-29-2026"
+  },
+  {
+    "id": "albertsons-900-million-opioid-verdict-2026",
+    "title": "Albertsons Ordered to Pay $900 Million for Fueling Washington's Opioid Epidemic",
+    "dek": "A Seattle judge ruled after a nine-week trial that the grocery chain's pharmacies filled millions of prescriptions flagged for possible diversion.",
+    "cat": "U.S. News",
+    "date": "Nov 6, 2026",
+    "url": "/story/albertsons-900-million-opioid-verdict-2026"
+  },
+  {
     "id": "democrats-vow-rein-in-trump-2026",
     "title": "Democrats Vow to Rein In Trump and Focus on Prices as He Shows Off White House Ballroom",
     "dek": "A day after sweeping Congress, Democrats promised affordability and accountability. The president spent his first post-election appearance touring his under-construction ballroom.",

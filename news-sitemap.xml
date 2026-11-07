@@ -2,6 +2,28 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://onnxews.com/story/belgium-king-rejects-de-wever-resignation-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06</news:publication_date>
+      <news:title>Belgian King Rejects De Wever&#x27;s Resignation and Sends Him Back to the Budget Table</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/chris-murphy-discharged-rehab-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-06</news:publication_date>
+      <news:title>Sen. Chris Murphy Leaves Hospital After Stroke, Heads to Rehab and Will Miss Weeks of Senate Votes</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://onnxews.com/story/democrats-sweep-midterms-2026-what-it-means</loc>
     <news:news>
       <news:publication>

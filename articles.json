@@ -1,5 +1,285 @@
 [
   {
+    "id": "us-disables-cargo-ship-huda-gulf-oman-2026",
+    "title": "U.S. Forces Disable Cargo Ship in Gulf of Oman as Iran Blockade Tightens",
+    "dek": "U.S. Central Command says an aircraft fired precision munitions at the stern of the St. Kitts-flagged bulk carrier Huda after its crew repeatedly ignored warnings to turn away from the naval blockade of Iran.",
+    "cat": "U.S. News",
+    "date": "Nov 8, 2026",
+    "url": "/story/us-disables-cargo-ship-huda-gulf-oman-2026"
+  },
+  {
+    "id": "nasa-opens-astronaut-applications-moon-mars-2026",
+    "title": "NASA Opens Astronaut Applications for a New Moon-Bound Class",
+    "dek": "NASA is accepting applications for its next class of astronauts, the first open call in two years, as the agency prepares to return crews to the lunar surface and build a permanent Moon base.",
+    "cat": "U.S. News",
+    "date": "Nov 8, 2026",
+    "url": "/story/nasa-opens-astronaut-applications-moon-mars-2026"
+  },
+  {
+    "id": "georgia-tennessee-flood-recovery-2026",
+    "title": "Georgia-Tennessee Border Towns Face Long Recovery After Record Flood",
+    "dek": "McCaysville, Georgia, and Copperhill, Tennessee, are cleaning up after a once-in-a-millennium flood that set a river record, knocked out a town's water system and forced more than 140 rescues.",
+    "cat": "U.S. News",
+    "date": "Nov 8, 2026",
+    "url": "/story/georgia-tennessee-flood-recovery-2026"
+  },
+  {
+    "id": "supreme-court-bivens-lawsuits-federal-agents-2026",
+    "title": "Supreme Court Case Could End Lawsuits Against Federal Agents Like ICE",
+    "dek": "The justices hear arguments Monday in a case that could wipe out what remains of the 1971 Bivens decision, the ruling that lets people sue federal officers for violating their constitutional rights.",
+    "cat": "U.S. News",
+    "date": "Nov 8, 2026",
+    "url": "/story/supreme-court-bivens-lawsuits-federal-agents-2026"
+  },
+  {
+    "id": "judge-names-special-master-trump-golf-course-2026",
+    "title": "Judge Names Ex-U.S. Attorney to Probe Ethics in Trump Golf Course Case",
+    "dek": "U.S. District Judge Ana Reyes says she intends to appoint former D.C. U.S. Attorney Jessie Liu as a special master to investigate whether Trump administration lawyers misled the court over the East Potomac golf course renovation.",
+    "cat": "U.S. News",
+    "date": "Nov 8, 2026",
+    "url": "/story/judge-names-special-master-trump-golf-course-2026"
+  },
+  {
+    "id": "krakow-market-square-shooting-2026",
+    "title": "Six Killed in Krakow Market Square Shooting as Poland Begins Mourning",
+    "dek": "Six people were killed and 17 wounded when a gunman opened fire in Krakow's Main Market Square on Saturday, and three more bodies were later found at his home, as Poland begins two days of national mourning.",
+    "cat": "World",
+    "date": "Nov 8, 2026",
+    "url": "/story/krakow-market-square-shooting-2026"
+  },
+  {
+    "id": "south-africa-anc-election-losses-2026",
+    "title": "South Africa's ANC Suffers Historic Local Election Losses, Slipping to About 31%",
+    "dek": "The ANC fell to about 31 percent in South Africa's municipal elections, its worst result ever, losing its majority in six of eight major metros as the Democratic Alliance surged in the cities.",
+    "cat": "World",
+    "date": "Nov 8, 2026",
+    "url": "/story/south-africa-anc-election-losses-2026"
+  },
+  {
+    "id": "paraguay-pena-faces-prosecutors-2026",
+    "title": "Paraguay's Ex-President Pena Faces Prosecutors After Impeachment and House Arrest",
+    "dek": "A day after the Senate removed him from office, former President Santiago Pena appeared before prosecutors in Asuncion as the new president, Pedro Alliana, inherits a banking crisis that froze the savings of three million people.",
+    "cat": "World",
+    "date": "Nov 8, 2026",
+    "url": "/story/paraguay-pena-faces-prosecutors-2026"
+  },
+  {
+    "id": "france-fourth-weekend-protests-turnout-falls-2026",
+    "title": "France's Fourth Weekend of Protests Draws 146,000 as Turnout Falls",
+    "dek": "About 146,000 people demonstrated across France on the fourth Saturday of protests over the cost of living, as turnout fell sharply and the Yellow Vests defied a ban with a separate rally in Paris.",
+    "cat": "World",
+    "date": "Nov 8, 2026",
+    "url": "/story/france-fourth-weekend-protests-turnout-falls-2026"
+  },
+  {
+    "id": "cyclone-murasu-aftermath-andhra-pradesh-2026",
+    "title": "Cyclone Murasu Toll Rises to Eight as Andhra Pradesh Counts 1,918 Crore in Losses",
+    "dek": "Cyclone Murasu killed eight people and caused an estimated 1,918 crore rupees in losses in Andhra Pradesh, as a new assessment shows the storm's toll was far higher than first reported.",
+    "cat": "World",
+    "date": "Nov 8, 2026",
+    "url": "/story/cyclone-murasu-aftermath-andhra-pradesh-2026"
+  },
+  {
+    "id": "maga-reckoning-after-midterm-losses-2026",
+    "title": "'Trump Has Cost Us': MAGA Asks If It Is Over After Midterm Rout",
+    "dek": "Days after voters handed Democrats both chambers of Congress, the movement that carried Donald Trump back to the White House is turning its anger on itself \u2014 and asking whether its moment has passed.",
+    "cat": "Politics",
+    "date": "Nov 8, 2026",
+    "url": "/story/maga-reckoning-after-midterm-losses-2026"
+  },
+  {
+    "id": "trump-offers-dana-white-press-secretary-job-2026",
+    "title": "Trump Offers Dana White the Press Secretary Job. White Says He Will Meet Him Monday",
+    "dek": "The president announced on Truth Social that he had offered the White House podium to the UFC chief \u2014 then a source told CNN the offer had been declined, and an aide said Trump was joking.",
+    "cat": "Politics",
+    "date": "Nov 8, 2026",
+    "url": "/story/trump-offers-dana-white-press-secretary-job-2026"
+  },
+  {
+    "id": "trump-orders-justice-department-probe-democrats-2026",
+    "title": "Trump Orders Justice Department to Investigate Democrats Over Alleged Threats",
+    "dek": "Four days after losing Congress, the president accused Democrats of threatening officials and Republican donors with impeachment and imprisonment \u2014 and said he was ordering the Justice Department to look into it immediately.",
+    "cat": "Politics",
+    "date": "Nov 8, 2026",
+    "url": "/story/trump-orders-justice-department-probe-democrats-2026"
+  },
+  {
+    "id": "how-democrats-reshaped-senate-map-2026",
+    "title": "How Democrats Reshaped the Senate, County by County",
+    "dek": "CNN's county-level analysis of the midterm results shows a nearly uniform shift toward Democrats \u2014 more than 780 of 800 counties examined moved their way, including deep in states Trump carried by double digits.",
+    "cat": "Politics",
+    "date": "Nov 8, 2026",
+    "url": "/story/how-democrats-reshaped-senate-map-2026"
+  },
+  {
+    "id": "democrats-2028-field-takes-shape-after-midterms-2026",
+    "title": "The 2028 Race Has Already Started: Democrats' New Stars Shake Up the Field",
+    "dek": "Barely days after a resounding midterm victory, Democrats are pivoting to a presidential primary that could be the most wide open in a generation \u2014 and the prediction markets have already picked a new favourite.",
+    "cat": "Politics",
+    "date": "Nov 8, 2026",
+    "url": "/story/democrats-2028-field-takes-shape-after-midterms-2026"
+  },
+  {
+    "id": "consumer-sentiment-rises-november-prices-still-bite-2026",
+    "title": "Consumer Sentiment Ticks Up, but 57% Say Prices Are Eating Their Living Standards",
+    "dek": "The University of Michigan's preliminary November reading beat forecasts, rising to 51.0 from 48.0 \u2014 but 57 percent of consumers say high prices have eroded their living standards, the most since May.",
+    "cat": "Business",
+    "date": "Nov 8, 2026",
+    "url": "/story/consumer-sentiment-rises-november-prices-still-bite-2026"
+  },
+  {
+    "id": "inflation-nowcast-points-to-hotter-november-2026",
+    "title": "The Fed's Own Nowcast Says Inflation Is Heating Up Again",
+    "dek": "The Cleveland Fed's real-time tracker puts November inflation at an annualised 4.25 percent, with the Fed's preferred gauge above 4 percent \u2014 and fuel prices and tariffs are doing the damage.",
+    "cat": "Business",
+    "date": "Nov 8, 2026",
+    "url": "/story/inflation-nowcast-points-to-hotter-november-2026"
+  },
+  {
+    "id": "macquarie-profit-jumps-50-percent-ceo-handover-2026",
+    "title": "Macquarie's Profit Jumps 50% as Outgoing CEO Bows Out on a High",
+    "dek": "Australia's biggest investment bank posted a 50 percent jump in half-year profit to A$2.48 billion, powered by commodities trading \u2014 but a A$100 million regulatory capital overlay and a sliding share price took the shine off the farewell result.",
+    "cat": "Business",
+    "date": "Nov 8, 2026",
+    "url": "/story/macquarie-profit-jumps-50-percent-ceo-handover-2026"
+  },
+  {
+    "id": "parker-hannifin-record-quarter-raises-outlook-2026",
+    "title": "Parker-Hannifin Posts Record Quarter and Raises Its Outlook",
+    "dek": "The industrial bellwether posted record fiscal first-quarter sales of $6.0 billion, with adjusted earnings up 23 percent and a record $13.7 billion backlog \u2014 and it lifted its full-year outlook across the board.",
+    "cat": "Business",
+    "date": "Nov 8, 2026",
+    "url": "/story/parker-hannifin-record-quarter-raises-outlook-2026"
+  },
+  {
+    "id": "becton-dickinson-beats-earnings-raises-dividend-2026",
+    "title": "Becton Dickinson Beats Earnings, Raises Dividend and Authorises Buyback",
+    "dek": "The medical technology giant beat earnings forecasts with $5.27 billion in quarterly revenue, then raised its dividend and authorised a buyback of up to 10 million shares \u2014 though softer 2027 guidance kept the shares in check.",
+    "cat": "Business",
+    "date": "Nov 8, 2026",
+    "url": "/story/becton-dickinson-beats-earnings-raises-dividend-2026"
+  },
+  {
+    "id": "openai-11-billion-funding-1-25-trillion-valuation-2026",
+    "title": "OpenAI Reportedly Raises $11 Billion at a $1.25 Trillion Valuation, Far Short of Its Original Target",
+    "dek": "The ChatGPT maker has reportedly closed the first part of a new funding round at a $1.25 trillion valuation, but the haul is less than half of the $30 billion it first sought.",
+    "cat": "Technology",
+    "date": "Nov 8, 2026",
+    "url": "/story/openai-11-billion-funding-1-25-trillion-valuation-2026"
+  },
+  {
+    "id": "github-copilot-code-review-api-management-2026",
+    "title": "GitHub Lets Admins Run Copilot Code Review by API, From the Whole Company Down to One Repo",
+    "dek": "A November 6 changelog update puts Copilot code review settings behind REST and GraphQL APIs, adds clearer attribution for AI comments, and shows the credits each review burns.",
+    "cat": "Technology",
+    "date": "Nov 8, 2026",
+    "url": "/story/github-copilot-code-review-api-management-2026"
+  },
+  {
+    "id": "japan-emergency-cybersecurity-package-10-billion-yen-2026",
+    "title": "Japan Approves a 10 Billion Yen Emergency Cyber Package After a Wave of Data Breaches",
+    "dek": "Prime Minister Sanae Takaichi's government will spend about $63 million from reserves on AI-assisted vulnerability checks, police cyber teams and a public-private rescue unit.",
+    "cat": "Technology",
+    "date": "Nov 8, 2026",
+    "url": "/story/japan-emergency-cybersecurity-package-10-billion-yen-2026"
+  },
+  {
+    "id": "crusoe-sells-wyoming-data-center-google-2026",
+    "title": "Crusoe Hands Its Troubled Wyoming Data Center Project to Google as Tech Giant Plans $17 Billion Buildout",
+    "dek": "Google is taking over the unfinished southeastern Wyoming campus after reportedly raising concerns about cost and construction delays, and plans to invest $17 billion developing it.",
+    "cat": "Technology",
+    "date": "Nov 8, 2026",
+    "url": "/story/crusoe-sells-wyoming-data-center-google-2026"
+  },
+  {
+    "id": "google-gemini-sketch-to-app-canvas-2026",
+    "title": "Google's Gemini Can Now Turn a Hand-Drawn Sketch Into a Working App",
+    "dek": "Photograph a paper mock-up, ask Gemini to code it, and Canvas will build a clickable prototype you can refine in plain English, Google says in a new walkthrough.",
+    "cat": "Technology",
+    "date": "Nov 8, 2026",
+    "url": "/story/google-gemini-sketch-to-app-canvas-2026"
+  },
+  {
+    "id": "godzilla-minus-zero-record-opening-weekend-2026",
+    "title": "Godzilla Minus Zero Roars to a Record $32 Million Opening, the Biggest Ever for a Live-Action Foreign Film",
+    "dek": "Takashi Yamazaki's sequel is tracking for a $32 million North American debut, nearly triple its predecessor's start, with premium screens driving almost three quarters of the gross.",
+    "cat": "Entertainment",
+    "date": "Nov 8, 2026",
+    "url": "/story/godzilla-minus-zero-record-opening-weekend-2026"
+  },
+  {
+    "id": "cat-in-the-hat-box-office-second-place-2026",
+    "title": "The Cat in the Hat Lands in Second Place With a $6 Million Friday and an $18 Million Weekend in Sight",
+    "dek": "Warner Bros.' animated Dr. Seuss adaptation earned an A CinemaScore but opened well behind Godzilla Minus Zero, and below some of the loftiest pre-release forecasts.",
+    "cat": "Entertainment",
+    "date": "Nov 8, 2026",
+    "url": "/story/cat-in-the-hat-box-office-second-place-2026"
+  },
+  {
+    "id": "druski-snl-host-debut-strokes-2026",
+    "title": "Druski Makes History as the First Internet Personality to Host Saturday Night Live",
+    "dek": "The 32-year-old comedian and viral star takes over Studio 8H for Season 52, with The Strokes returning as musical guests for the first time since 2020.",
+    "cat": "Entertainment",
+    "date": "Nov 8, 2026",
+    "url": "/story/druski-snl-host-debut-strokes-2026"
+  },
+  {
+    "id": "treasure-daesang-korea-grand-music-awards-2026",
+    "title": "TREASURE Takes the Daesang and Four Awards at the 2026 Korea Grand Music Awards",
+    "dek": "The YG Entertainment group won the Grand Song Daesang plus Best Artist, Best Hip-Hop and Trend of the Year at the ceremony in Seoul's Gocheok Sky Dome.",
+    "cat": "Entertainment",
+    "date": "Nov 8, 2026",
+    "url": "/story/treasure-daesang-korea-grand-music-awards-2026"
+  },
+  {
+    "id": "aria-awards-2026-performers-dmas-spiderbait-2026",
+    "title": "DMA'S and Spiderbait Lead the 2026 ARIA Awards Performers as Genesis Owusu and Tame Impala Top Nominations",
+    "dek": "Australia's biggest music night takes over Sydney's Hordern Pavilion on November 18, with newly inducted Hall of Famers Spiderbait among the performers.",
+    "cat": "Entertainment",
+    "date": "Nov 8, 2026",
+    "url": "/story/aria-awards-2026-performers-dmas-spiderbait-2026"
+  },
+  {
+    "id": "notre-dame-upsets-miami-31-24-college-football-2026",
+    "title": "No. 11 Notre Dame Knocks Off No. 1 Miami 31-24 and Shakes Up the Playoff Race",
+    "dek": "CJ Carr threw for 319 yards and three touchdowns as the Fighting Irish built a 24-3 lead and held off a late Hurricanes rally in South Bend.",
+    "cat": "Sports",
+    "date": "Nov 8, 2026",
+    "url": "/story/notre-dame-upsets-miami-31-24-college-football-2026"
+  },
+  {
+    "id": "oregon-stuns-ohio-state-41-28-college-football-2026",
+    "title": "Oregon Storms Back From 14 Down to Stun Ohio State 41-28 and Damage the Buckeyes' Playoff Hopes",
+    "dek": "The Ducks scored 38 straight points after falling behind early, handing Ohio State its third loss of the season and leaving its postseason chances slimmer than ever.",
+    "cat": "Sports",
+    "date": "Nov 8, 2026",
+    "url": "/story/oregon-stuns-ohio-state-41-28-college-football-2026"
+  },
+  {
+    "id": "curry-41-warriors-seventh-straight-win-magic-2026",
+    "title": "Stephen Curry Drops 41 as the Warriors Beat the Magic in Overtime for Their Seventh Straight Win",
+    "dek": "Curry scored 41 points on 13-of-19 shooting as Golden State edged Orlando 126-119 in overtime, while the Spurs won their eighth straight and Oklahoma City held Washington to 75.",
+    "cat": "Sports",
+    "date": "Nov 8, 2026",
+    "url": "/story/curry-41-warriors-seventh-straight-win-magic-2026"
+  },
+  {
+    "id": "norris-sao-paulo-pole-rain-qualifying-2026",
+    "title": "Lando Norris Masters the Rain to Take Sao Paulo Pole After a Marathon Qualifying Session",
+    "dek": "Norris lapped Interlagos in 1:27.470 in treacherous wet conditions, with George Russell's grid penalty promoting newly crowned champion Kimi Antonelli to the front row.",
+    "cat": "Sports",
+    "date": "Nov 8, 2026",
+    "url": "/story/norris-sao-paulo-pole-rain-qualifying-2026"
+  },
+  {
+    "id": "kucherov-overtime-winner-lightning-trade-request-2026",
+    "title": "A Week After Asking for a Trade, Nikita Kucherov Wins It in Overtime for the Lightning",
+    "dek": "Kucherov scored a power-play goal 3:23 into overtime to lift Tampa Bay past Minnesota 4-3, capping a wild Saturday night around the NHL.",
+    "cat": "Sports",
+    "date": "Nov 8, 2026",
+    "url": "/story/kucherov-overtime-winner-lightning-trade-request-2026"
+  },
+  {
     "id": "us-measles-cases-top-5000-since-1991-2026",
     "title": "U.S. Measles Cases Top 5,000 for the First Time Since 1991 as Three Die in a Single Week",
     "dek": "The CDC counted 5,182 cases this year, more than double last year's total, as health officials warn the country is at risk of losing its measles-free status.",

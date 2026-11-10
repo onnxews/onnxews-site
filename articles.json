@@ -1,5 +1,285 @@
 [
   {
+    "id": "california-rejects-prop-40-billionaire-tax",
+    "title": "California Voters Reject Proposition 40, the One-Time Billionaire Tax",
+    "dek": "The Associated Press called the race on Monday after voters turned down the first modern wealth tax ever put to a statewide ballot, 52.8 percent to 47.2 percent.",
+    "cat": "U.S. News",
+    "date": "Nov 10, 2026",
+    "url": "/story/california-rejects-prop-40-billionaire-tax"
+  },
+  {
+    "id": "supreme-court-clears-big-bend-border-wall",
+    "title": "Supreme Court Lets Trump Administration Resume Border Wall Construction in Big Bend",
+    "dek": "In an unsigned emergency order, the justices lifted a judge's injunction blocking barrier work across a remote stretch of West Texas that includes Big Bend National Park.",
+    "cat": "U.S. News",
+    "date": "Nov 10, 2026",
+    "url": "/story/supreme-court-clears-big-bend-border-wall"
+  },
+  {
+    "id": "supreme-court-weighs-limits-suing-federal-officers",
+    "title": "Supreme Court Sounds Ready to Further Limit Lawsuits Against Federal Officers",
+    "dek": "The justices heard arguments in a prison medical care case that could narrow, or even end, the right to sue federal agents for constitutional violations.",
+    "cat": "U.S. News",
+    "date": "Nov 10, 2026",
+    "url": "/story/supreme-court-weighs-limits-suing-federal-officers"
+  },
+  {
+    "id": "measles-elimination-status-review-opens",
+    "title": "As Measles Review Opens, Ex-FDA Chief Warns the U.S. Outbreak Is Bigger Than the Official Count",
+    "dek": "A Pan American Health Organization commission meets in Washington this week to decide whether the United States keeps the measles elimination status it has held since 2000.",
+    "cat": "U.S. News",
+    "date": "Nov 10, 2026",
+    "url": "/story/measles-elimination-status-review-opens"
+  },
+  {
+    "id": "veterans-day-2026-nation-prepares-honor",
+    "title": "Veterans Day 2026: A Nation Prepares to Honor Those Who Served",
+    "dek": "From the national ceremony at Arlington to parades in New York, Birmingham, Houston and San Diego, communities across the country will mark the holiday on Wednesday.",
+    "cat": "U.S. News",
+    "date": "Nov 10, 2026",
+    "url": "/story/veterans-day-2026-nation-prepares-honor"
+  },
+  {
+    "id": "cop31-day-two-energy-transport-antalya",
+    "title": "COP31 Turns to Energy and Transport as Delegates Wrestle With a Warming World",
+    "dek": "On day two in Antalya, negotiators focused on clean power and low-emission mobility, while Bangladesh pressed for climate grants and new research offered a sliver of hope on fossil fuel emissions.",
+    "cat": "World",
+    "date": "Nov 10, 2026",
+    "url": "/story/cop31-day-two-energy-transport-antalya"
+  },
+  {
+    "id": "israel-knesset-sworn-in-eisenkot-coalition",
+    "title": "Israel's New Parliament Is Sworn In as Eisenkot Races to Build a Government",
+    "dek": "Gadi Eisenkot, tasked by the president with forming the next government, struck a pact with opposition leaders over key parliamentary posts, while Benjamin Netanyahu urged them to join a unity government under his leadership.",
+    "cat": "World",
+    "date": "Nov 10, 2026",
+    "url": "/story/israel-knesset-sworn-in-eisenkot-coalition"
+  },
+  {
+    "id": "russia-ukraine-peace-talks-open-abu-dhabi",
+    "title": "Russia and Ukraine Open First U.S.-Brokered Peace Talks in Nine Months in Abu Dhabi",
+    "dek": "Trilateral negotiations began on Tuesday with American envoys saying the gaps have narrowed, but Moscow and Kyiv remain far apart on territory and security guarantees.",
+    "cat": "World",
+    "date": "Nov 10, 2026",
+    "url": "/story/russia-ukraine-peace-talks-open-abu-dhabi"
+  },
+  {
+    "id": "krakow-gunman-breivik-links-probe-deepens",
+    "title": "Krakow Gunman Visited Websites About Mass Killer Breivik, Polish Minister Says",
+    "dek": "As Poland mourns the six people killed in the Main Market Square shooting, investigators say the gunman showed signs of far-right influence, and the government has ordered an urgent review of gun licensing.",
+    "cat": "World",
+    "date": "Nov 10, 2026",
+    "url": "/story/krakow-gunman-breivik-links-probe-deepens"
+  },
+  {
+    "id": "colombia-drone-attack-eln-blamed-ombudsman-alert",
+    "title": "Colombia Blames ELN for Deadly Drone Attack as Ombudsman Warns of Worsening Violence",
+    "dek": "Three soldiers were killed and dozens wounded when explosive-laden drones struck a military base in Bol\u00edvar, and a second drone attack was repelled in Cauca the next day.",
+    "cat": "World",
+    "date": "Nov 10, 2026",
+    "url": "/story/colombia-drone-attack-eln-blamed-ombudsman-alert"
+  },
+  {
+    "id": "house-gop-leadership-vote-scalise-jordan-2026",
+    "title": "Scalise vs. Jordan: House Republicans Pick a New Leader After Midterm Rout",
+    "dek": "Steve Scalise and Jim Jordan face off in a secret ballot to lead House Republicans into the minority, one week after Democrats flipped more than 40 seats.",
+    "cat": "Politics",
+    "date": "Nov 10, 2026",
+    "url": "/story/house-gop-leadership-vote-scalise-jordan-2026"
+  },
+  {
+    "id": "senate-gop-thune-leadership-delay-2026",
+    "title": "Seven Senate Republicans Move to Delay Thune Leadership Vote After Midterm Losses",
+    "dek": "Ron Johnson leads seven Republicans demanding the Senate GOP slow down its leadership vote and reckon with the midterm losses first.",
+    "cat": "Politics",
+    "date": "Nov 10, 2026",
+    "url": "/story/senate-gop-thune-leadership-delay-2026"
+  },
+  {
+    "id": "massie-hegseth-impeachment-vote-2026",
+    "title": "Massie Forces Hegseth Impeachment Vote as House Clock Runs to Wednesday",
+    "dek": "Thomas Massie refiled eight impeachment articles against Pete Hegseth on Monday, starting a two-day clock toward a House vote by Wednesday.",
+    "cat": "Politics",
+    "date": "Nov 10, 2026",
+    "url": "/story/massie-hegseth-impeachment-vote-2026"
+  },
+  {
+    "id": "epstein-files-transparency-act-petition-2026",
+    "title": "Second Epstein Files Petition Sits Two Signatures Short as Lame Duck Opens",
+    "dek": "Massie's second Epstein records petition has 216 of the 218 signatures needed to force a House vote, with the lame-duck calendar working against it.",
+    "cat": "Politics",
+    "date": "Nov 10, 2026",
+    "url": "/story/epstein-files-transparency-act-petition-2026"
+  },
+  {
+    "id": "mississippi-alaska-senate-races-uncalled-2026",
+    "title": "Mississippi and Alaska Senate Races Still Uncalled as Tuesday Deadline Hits",
+    "dek": "Tuesday is the mail-ballot deadline in Mississippi, where Scott Colom leads Cindy Hyde-Smith by about 2,500 votes, while Alaska's count waits for its November 18 ranked-choice tabulation.",
+    "cat": "Politics",
+    "date": "Nov 10, 2026",
+    "url": "/story/mississippi-alaska-senate-races-uncalled-2026"
+  },
+  {
+    "id": "october-cpi-inflation-report-2026",
+    "title": "October Inflation Rose 0.4%, Hotter Than Expected, With No Annual Rate to Compare",
+    "dek": "Consumer prices rose 0.4 percent in October, beating forecasts, in a report with no annual inflation rate because last year's shutdown wiped out the comparison data.",
+    "cat": "Business",
+    "date": "Nov 10, 2026",
+    "url": "/story/october-cpi-inflation-report-2026"
+  },
+  {
+    "id": "wall-street-relief-rally-november-2026",
+    "title": "Dow Surges 1,104 Points in Best Day Since April as Oil Slide Fuels Relief Rally",
+    "dek": "The Dow jumped 1,104 points and the S&P 500 had its best day since April as Brent crude fell below $90 on hopes the Iran war is winding down.",
+    "cat": "Business",
+    "date": "Nov 10, 2026",
+    "url": "/story/wall-street-relief-rally-november-2026"
+  },
+  {
+    "id": "china-trade-surplus-trillion-2026",
+    "title": "China's Trade Surplus Tops $1 Trillion as AI Boom Powers Exports",
+    "dek": "Exports jumped 35.2 percent in October as the AI buildout powered Chinese factories, pushing the year-to-date surplus to $1.04 trillion.",
+    "cat": "Business",
+    "date": "Nov 10, 2026",
+    "url": "/story/china-trade-surplus-trillion-2026"
+  },
+  {
+    "id": "bitcoin-fifth-weekly-loss-2026",
+    "title": "Bitcoin Posts Fifth Straight Weekly Loss as ETF Investors Pull $1.28 Billion",
+    "dek": "Bitcoin closed its fifth straight losing week at $74,754, down 13.6 percent over the run, as spot ETFs bled $1.28 billion.",
+    "cat": "Business",
+    "date": "Nov 10, 2026",
+    "url": "/story/bitcoin-fifth-weekly-loss-2026"
+  },
+  {
+    "id": "nvidia-shareholder-lawsuit-huang-probe-2026",
+    "title": "Nvidia Sued by Shareholders as Huang Probe Widens Ahead of Earnings",
+    "dek": "Shareholders sued Nvidia on Monday as new reports tied the Jensen Huang probe to a halted chip-smuggling investigation and H200 sales to China.",
+    "cat": "Business",
+    "date": "Nov 10, 2026",
+    "url": "/story/nvidia-shareholder-lawsuit-huang-probe-2026"
+  },
+  {
+    "id": "ibm-microsoft-imagine-enterprise-ai-agents",
+    "title": "IBM and Microsoft Launch Imagine Enterprise, an AI Agent Platform Built for Regulated Industries",
+    "dek": "The two tech giants are combining IBM's consulting muscle and Microsoft's cloud and security stack to help big companies put AI agents to work on industry-specific jobs.",
+    "cat": "Technology",
+    "date": "Nov 10, 2026",
+    "url": "/story/ibm-microsoft-imagine-enterprise-ai-agents"
+  },
+  {
+    "id": "anthropic-claude-fable-5-2-mythos",
+    "title": "Anthropic Unveils Claude Fable 5.2 and Mythos 5.2, Its Most Powerful Models Yet for Coding and Science",
+    "dek": "The new models are faster and cheaper than their predecessors, and in testing one of them built a working operating system from scratch with the help of more than 1,000 AI agents.",
+    "cat": "Technology",
+    "date": "Nov 10, 2026",
+    "url": "/story/anthropic-claude-fable-5-2-mythos"
+  },
+  {
+    "id": "nvidia-groot-2-robot-model-corl",
+    "title": "Nvidia Unveils GR00T 2, a Robot Brain That Learns New Skills by Watching Humans",
+    "dek": "Introduced at the Conference on Robot Learning in Austin, the new model lets robots pick up delicate manipulation tasks from human video, with far fewer demonstrations than before.",
+    "cat": "Technology",
+    "date": "Nov 10, 2026",
+    "url": "/story/nvidia-groot-2-robot-model-corl"
+  },
+  {
+    "id": "fireworks-ai-breach-widens",
+    "title": "Fireworks AI Breach Was Worse Than First Reported, With Customer Data and Model Weights Exposed",
+    "dek": "The AI inference company says attackers reached billing records and, for some customers, datasets and unfinished models, in a second intrusion linked to a scheme that resells stolen AI access.",
+    "cat": "Technology",
+    "date": "Nov 10, 2026",
+    "url": "/story/fireworks-ai-breach-widens"
+  },
+  {
+    "id": "google-tpu-8tx-8i-max",
+    "title": "Google Adds Two New TPU Systems Aimed at Confidential AI and the Memory Wall",
+    "dek": "The TPU 8tx protects sensitive data while AI runs, and the TPU 8i Max doubles memory bandwidth for the giant context windows that agents demand.",
+    "cat": "Technology",
+    "date": "Nov 10, 2026",
+    "url": "/story/google-tpu-8tx-8i-max"
+  },
+  {
+    "id": "james-gunn-peter-safran-out-dc-studios",
+    "title": "James Gunn and Peter Safran Are Out at DC Studios as Skydance Hands the Keys to Marvel Veteran Jeremy Latcham",
+    "dek": "Barely a month after Skydance took over Warner Bros. Discovery, the studio's DC chiefs are stepping down, and the man who helped build the Marvel Cinematic Universe will run DC's film, TV and animation slate from December 1.",
+    "cat": "Entertainment",
+    "date": "Nov 10, 2026",
+    "url": "/story/james-gunn-peter-safran-out-dc-studios"
+  },
+  {
+    "id": "snoop-dogg-biopic-aaron-paul-giovanni-ribisi",
+    "title": "Aaron Paul and Giovanni Ribisi Join Snoop Dogg Biopic as Jimmy Iovine and David Kenner",
+    "dek": "Universal's film about the rapper's rise through the music industry adds two big names, with Craig Brewer directing and a theatrical release set for August 2027.",
+    "cat": "Entertainment",
+    "date": "Nov 10, 2026",
+    "url": "/story/snoop-dogg-biopic-aaron-paul-giovanni-ribisi"
+  },
+  {
+    "id": "ramayana-664-crore-five-days",
+    "title": "Ramayana Nears 664 Crore Rupees Worldwide in Five Days After a Record-Breaking Monday",
+    "dek": "Nitesh Tiwari's epic posted the biggest first Monday in Indian cinema history, passing Dhurandhar 2's record, as it races toward the 1,000-crore mark.",
+    "cat": "Entertainment",
+    "date": "Nov 10, 2026",
+    "url": "/story/ramayana-664-crore-five-days"
+  },
+  {
+    "id": "home-entertainment-november-10-2026",
+    "title": "Other Mommy and Heart of the Beast Lead a Packed Home Entertainment Slate for November 10",
+    "dek": "Two of the autumn's biggest theatrical hits arrive on digital today, alongside a new horror thriller, a Criterion drama and 4K upgrades for Con Air, National Treasure and Pan's Labyrinth.",
+    "cat": "Entertainment",
+    "date": "Nov 10, 2026",
+    "url": "/story/home-entertainment-november-10-2026"
+  },
+  {
+    "id": "jessica-chastain-heartland-netflix",
+    "title": "Jessica Chastain Finally Works With Country Strong Director Shana Feste on Netflix Thriller Heartland",
+    "dek": "Sixteen years after auditioning for Feste's country music drama, Chastain stars as a former country megastar investigating her missing niece in a film that arrives on Netflix on November 13.",
+    "cat": "Entertainment",
+    "date": "Nov 10, 2026",
+    "url": "/story/jessica-chastain-heartland-netflix"
+  },
+  {
+    "id": "bills-beat-vikings-monday-night-football",
+    "title": "Bills Wear Down Vikings 23-6 on Monday Night Football to Take the AFC's Best Record",
+    "dek": "Buffalo's defence smothered Minnesota and James Cook ground out 107 yards as the Bills improved to 7-1, while the Vikings lost their second straight after a 6-0 start.",
+    "cat": "Sports",
+    "date": "Nov 10, 2026",
+    "url": "/story/bills-beat-vikings-monday-night-football"
+  },
+  {
+    "id": "cooper-flagg-43-mavericks-pacers",
+    "title": "Cooper Flagg Drops 43 as Mavericks Rally Past Pacers 125-122",
+    "dek": "The rookie star poured in 43 points with 10 rebounds and six assists, and Kyrie Irving added 35, as Dallas erased a halftime deficit in a high-scoring thriller.",
+    "cat": "Sports",
+    "date": "Nov 10, 2026",
+    "url": "/story/cooper-flagg-43-mavericks-pacers"
+  },
+  {
+    "id": "victor-wembanyama-40-spurs-suns",
+    "title": "Wembanyama Drops 40 as Spurs Rout Suns 122-96 to Extend Win Streak to Nine",
+    "dek": "Victor Wembanyama scored 40 points with 11 rebounds as San Antonio improved to 9-2, the best start in the league, with a blowout win in Phoenix.",
+    "cat": "Sports",
+    "date": "Nov 10, 2026",
+    "url": "/story/victor-wembanyama-40-spurs-suns"
+  },
+  {
+    "id": "warriors-eighth-straight-win-pelicans",
+    "title": "Warriors Win Eighth Straight, Blowing Out Pelicans 138-87 After an 0-3 Start",
+    "dek": "Stephen Curry and Brandin Podziemski scored 25 points each as Golden State completed a stunning turnaround, going from three straight losses to the hottest team in the NBA.",
+    "cat": "Sports",
+    "date": "Nov 10, 2026",
+    "url": "/story/warriors-eighth-straight-win-pelicans"
+  },
+  {
+    "id": "luka-doncic-lakers-hawks-sixth-straight",
+    "title": "Doncic Returns With 32 Points as Lakers Beat Hawks 124-114 for Sixth Straight Win",
+    "dek": "Luka Doncic nearly posted a triple-double in his return from back tightness, and even reminded Atlanta fans of the 2018 draft trade that sent him away.",
+    "cat": "Sports",
+    "date": "Nov 10, 2026",
+    "url": "/story/luka-doncic-lakers-hawks-sixth-straight"
+  },
+  {
     "id": "nvidia-probes-ceo-huang-spy-claims-2026",
     "title": "Nvidia Opens Independent Probe Into CEO Jensen Huang Over Reports He Was Targeted by Chinese Intelligence",
     "dek": "Nvidia's board said it has no reason to believe national security or company secrets were compromised, but an independent committee will review whether its chief executive was the target of a foreign intelligence effort.",

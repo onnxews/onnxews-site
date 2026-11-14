@@ -1,5 +1,285 @@
 [
   {
+    "id": "faa-lifts-nationwide-ground-stop-2026",
+    "title": "FAA Lifts Nationwide Ground Stop After Communications Outage Strands Thousands",
+    "dek": "The Federal Aviation Administration ended a nationwide halt to departures on Friday night after an air traffic control communications failure grounded flights across the country for more than four hours.",
+    "cat": "U.S. News",
+    "date": "Nov 14, 2026",
+    "url": "/story/faa-lifts-nationwide-ground-stop-2026"
+  },
+  {
+    "id": "supreme-court-takes-up-trump-asylum-ban-2026",
+    "title": "Supreme Court Agrees to Decide Whether Trump Can Bar Asylum at the Southern Border",
+    "dek": "The justices will review the border asylum ban President Trump imposed on his first day back in office, in a case that could define how far presidential power reaches over the asylum system.",
+    "cat": "U.S. News",
+    "date": "Nov 14, 2026",
+    "url": "/story/supreme-court-takes-up-trump-asylum-ban-2026"
+  },
+  {
+    "id": "ice-takes-8-year-old-boy-custody-san-diego-2026",
+    "title": "An 8-Year-Old Went to an ICE Check-In With His Uncle. He Left in Federal Custody.",
+    "dek": "The Haitian third-grader was separated from the uncle who had raised him since his father's deportation, and his school district says it still does not know where he is being held.",
+    "cat": "U.S. News",
+    "date": "Nov 14, 2026",
+    "url": "/story/ice-takes-8-year-old-boy-custody-san-diego-2026"
+  },
+  {
+    "id": "winter-heating-costs-rise-7-percent-2026",
+    "title": "Winter Heating Bills Will Rise 7% Nationwide, With Heating Oil Costs Up 70%",
+    "dek": "A new forecast says the average household will pay $1,002 to heat its home this winter, and families in the Northeast who rely on heating oil face bills of nearly $3,000.",
+    "cat": "U.S. News",
+    "date": "Nov 14, 2026",
+    "url": "/story/winter-heating-costs-rise-7-percent-2026"
+  },
+  {
+    "id": "atmospheric-rivers-pound-pacific-northwest-2026",
+    "title": "Back-to-Back Atmospheric Rivers Bring Heavy Rain and Monster Surf to the Pacific Northwest",
+    "dek": "Two more rivers in the sky will soak Oregon and Washington this weekend after two earlier storms dumped inches of rain, with 20-foot swells and king tides raising the flood risk.",
+    "cat": "U.S. News",
+    "date": "Nov 14, 2026",
+    "url": "/story/atmospheric-rivers-pound-pacific-northwest-2026"
+  },
+  {
+    "id": "ukraine-fires-1200-drones-russia-2026",
+    "title": "Ukraine Fires Nearly 1,200 Drones at Russia in One of Its Biggest Attacks of the War",
+    "dek": "Kyiv's overnight barrage came as U.S.-led talks widened to include European security, and as Russia's own drones killed civilians in Odesa, Zaporizhzhia and Kyiv.",
+    "cat": "World",
+    "date": "Nov 14, 2026",
+    "url": "/story/ukraine-fires-1200-drones-russia-2026"
+  },
+  {
+    "id": "turkey-qatar-sign-mutual-defence-agreement-2026",
+    "title": "Turkey and Qatar Sign Mutual Defence Pact Pledging a United Front Against Attack",
+    "dek": "The agreement, signed in Istanbul by President Erdogan and Qatar's emir, commits the two countries to consult on security threats and expand joint military exercises and defence-industry ties.",
+    "cat": "World",
+    "date": "Nov 14, 2026",
+    "url": "/story/turkey-qatar-sign-mutual-defence-agreement-2026"
+  },
+  {
+    "id": "china-unannounced-pacific-drills-taiwan-2026",
+    "title": "China Stages Unannounced Pacific Drills Around Taiwan, Taipei Says",
+    "dek": "Taiwan says more than 100 Chinese naval and coast guard vessels massed around the island in early November, in drills its defence minister calls 'area denial' exercises.",
+    "cat": "World",
+    "date": "Nov 14, 2026",
+    "url": "/story/china-unannounced-pacific-drills-taiwan-2026"
+  },
+  {
+    "id": "iaea-increasingly-concerned-iran-isfahan-plant-2026",
+    "title": "IAEA Says It Cannot Locate Iran's Uninspected Isfahan Enrichment Plant or Its Uranium",
+    "dek": "The UN nuclear watchdog says it does not know where the Isfahan Fuel Enrichment Plant is, whether it holds nuclear material, or the fate of Iran's stockpile of near-weapons-grade uranium.",
+    "cat": "World",
+    "date": "Nov 14, 2026",
+    "url": "/story/iaea-increasingly-concerned-iran-isfahan-plant-2026"
+  },
+  {
+    "id": "houthis-claim-attacks-saudi-east-west-pipeline-2026",
+    "title": "Houthis Claim Drone and Missile Attacks on Saudi Oil Pipeline, Yanbu and Riyadh",
+    "dek": "Yemen's Houthis say they hit a pumping station on Saudi Arabia's East-West pipeline and an oil facility in Yanbu, as the kingdom's Hormuz bypass becomes a target in the widening Gulf war.",
+    "cat": "World",
+    "date": "Nov 14, 2026",
+    "url": "/story/houthis-claim-attacks-saudi-east-west-pipeline-2026"
+  },
+  {
+    "id": "peltola-lead-doubles-alaska-senate-count-2026",
+    "title": "Peltola's Lead Nearly Doubles in Alaska as Friday Count Puts Her at 49.84%",
+    "dek": "Mary Peltola added more than 13,000 votes in Friday's update, stretching her lead over Sen. Dan Sullivan to 10,412 votes \u2014 but she remains just short of the majority that would settle the race outright.",
+    "cat": "Politics",
+    "date": "Nov 14, 2026",
+    "url": "/story/peltola-lead-doubles-alaska-senate-count-2026"
+  },
+  {
+    "id": "congress-summons-huang-lutnick-nvidia-spy-probe-2026",
+    "title": "Congress Summons Huang and Lutnick as Nvidia Spy Scandal Reaches Capitol Hill",
+    "dek": "Senate Banking Chairman Tim Scott wants the former Nvidia chief on December 3 and the commerce secretary on December 10, with subpoenas threatened if either refuses.",
+    "cat": "Politics",
+    "date": "Nov 14, 2026",
+    "url": "/story/congress-summons-huang-lutnick-nvidia-spy-probe-2026"
+  },
+  {
+    "id": "blanche-walks-back-doj-threat-democrats-oversight-2026",
+    "title": "Blanche Walks It Back: No Criminal Probes of Democrats Over Oversight Threats",
+    "dek": "The attorney general said Thursday the Justice Department has no active criminal investigations into lawmakers' words, days after suggesting oversight threats 'could be' a crime.",
+    "cat": "Politics",
+    "date": "Nov 14, 2026",
+    "url": "/story/blanche-walks-back-doj-threat-democrats-oversight-2026"
+  },
+  {
+    "id": "laubacher-ousts-boebert-colorado-house-race-2026",
+    "title": "Boebert Ousted: Laubacher Flips Colorado's Reddest Seat",
+    "dek": "Democrat Eileen Laubacher defeated three-term Rep. Lauren Boebert 48.8% to 47.9% in a district Donald Trump carried by 18 points, capping a brutal midterm for House Republicans.",
+    "cat": "Politics",
+    "date": "Nov 14, 2026",
+    "url": "/story/laubacher-ousts-boebert-colorado-house-race-2026"
+  },
+  {
+    "id": "stocks-end-mixed-friday-nvidia-slump-winning-week-2026",
+    "title": "Stocks End Mixed Friday but Wall Street Still Notches a Winning Week",
+    "dek": "The S&P 500 slipped 0.4% and the Nasdaq fell 0.9% as chip stocks gave back Thursday's gains, but all three major indexes still finished the week higher.",
+    "cat": "Business",
+    "date": "Nov 14, 2026",
+    "url": "/story/stocks-end-mixed-friday-nvidia-slump-winning-week-2026"
+  },
+  {
+    "id": "samsung-talks-buy-modine-data-center-cooling-2026",
+    "title": "Samsung in Talks to Buy Modine in $7.5 Billion AI Cooling Bet",
+    "dek": "Modine shares soared 28% after Bloomberg reported the talks; a deal would be the biggest acquisition in Samsung's history.",
+    "cat": "Business",
+    "date": "Nov 14, 2026",
+    "url": "/story/samsung-talks-buy-modine-data-center-cooling-2026"
+  },
+  {
+    "id": "cerebras-microsoft-deal-record-quarter-2026",
+    "title": "Cerebras Lands Microsoft as Record Quarter Beats Expectations",
+    "dek": "Core revenue jumped 70% to $230.9 million and the AI chipmaker raised its full-year outlook, naming Microsoft as its third hyperscaler customer.",
+    "cat": "Business",
+    "date": "Nov 14, 2026",
+    "url": "/story/cerebras-microsoft-deal-record-quarter-2026"
+  },
+  {
+    "id": "oil-holds-near-96-hormuz-iran-tensions-2026",
+    "title": "Oil Holds Near $96 as Hormuz Attacks and Trump's Iran Snub Keep Traders on Edge",
+    "dek": "Brent settled at $95.84 after a week of tanker attacks in the Strait of Hormuz, even as the IEA said the market will be in surplus this quarter.",
+    "cat": "Business",
+    "date": "Nov 14, 2026",
+    "url": "/story/oil-holds-near-96-hormuz-iran-tensions-2026"
+  },
+  {
+    "id": "virgin-galactic-plunges-stock-sale-delay-2026",
+    "title": "Virgin Galactic Crashes 31% as $250 Million Stock Sale Spooks Investors",
+    "dek": "Shares fell to $1.84 after the space tourism company said it would sell up to $250 million of stock and pushed its first commercial flight to early 2027.",
+    "cat": "Business",
+    "date": "Nov 14, 2026",
+    "url": "/story/virgin-galactic-plunges-stock-sale-delay-2026"
+  },
+  {
+    "id": "appeals-court-blocks-trump-highway-funding-new-york-2026",
+    "title": "Appeals Court Blocks Trump's $73.5 Million Highway Funding Cut to New York",
+    "dek": "The Second Circuit ruled the Transportation Department overstepped its authority by punishing New York for licenses issued under rules that never required expiration dates to match drivers' immigration documents.",
+    "cat": "Politics",
+    "date": "Nov 14, 2026",
+    "url": "/story/appeals-court-blocks-trump-highway-funding-new-york-2026"
+  },
+  {
+    "id": "tesla-cybertruck-wind-down-cyberbeast-only-sale",
+    "title": "Tesla's Cybertruck Wind-Down Accelerates as Only the $109,990 Cyberbeast Remains on Sale",
+    "dek": "Tesla has pulled every cheaper Cybertruck from its U.S. configurator and dropped its lowest-priced Model Y, as the company clears the decks for its robotaxi.",
+    "cat": "Technology",
+    "date": "Nov 14, 2026",
+    "url": "/story/tesla-cybertruck-wind-down-cyberbeast-only-sale"
+  },
+  {
+    "id": "spacex-74-billion-ai-supercomputing-campuses-texas-arizona",
+    "title": "SpaceX to Spend Over $74 Billion on AI Supercomputing Campuses in Texas and Arizona",
+    "dek": "The rocket company is pivoting hard into artificial intelligence infrastructure, with two mega-campuses that together would create more than 9,500 construction jobs.",
+    "cat": "Technology",
+    "date": "Nov 14, 2026",
+    "url": "/story/spacex-74-billion-ai-supercomputing-campuses-texas-arizona"
+  },
+  {
+    "id": "openai-chatgpt-wallet-ai-agents-shopping-checkout",
+    "title": "OpenAI Launches ChatGPT Wallet, Letting AI Agents Pay for Your Purchases",
+    "dek": "The new wallet lets ChatGPT's shopping agents check out on your behalf, using a payment token instead of your real card number.",
+    "cat": "Technology",
+    "date": "Nov 14, 2026",
+    "url": "/story/openai-chatgpt-wallet-ai-agents-shopping-checkout"
+  },
+  {
+    "id": "fed-financial-stability-report-ai-top-risk",
+    "title": "Fed Survey: AI Now the Top-Cited Risk to the Financial System",
+    "dek": "Eighty-seven percent of market contacts named artificial intelligence as a salient risk in the Federal Reserve's latest Financial Stability Report, up from 50 percent in May.",
+    "cat": "Technology",
+    "date": "Nov 14, 2026",
+    "url": "/story/fed-financial-stability-report-ai-top-risk"
+  },
+  {
+    "id": "langchain-300-million-series-c-3-billion-valuation",
+    "title": "LangChain Raises $300 Million at a $3 Billion Valuation",
+    "dek": "The AI agent startup more than doubled its valuation in about a year as demand for tools that build and run agents keeps climbing.",
+    "cat": "Technology",
+    "date": "Nov 14, 2026",
+    "url": "/story/langchain-300-million-series-c-3-billion-valuation"
+  },
+  {
+    "id": "ebenezer-johnny-depp-tops-friday-box-office",
+    "title": "\"Ebenezer\" Tops Friday Box Office as Johnny Depp Scores First No. 1 in Eight Years",
+    "dek": "The dark Dickens retelling earned $7.1 million on Friday and is pacing for a $20 million-plus opening, Depp's first No. 1 since 2018.",
+    "cat": "Entertainment",
+    "date": "Nov 14, 2026",
+    "url": "/story/ebenezer-johnny-depp-tops-friday-box-office"
+  },
+  {
+    "id": "rock-hall-2026-induction-oasis-sade-iron-maiden-absent",
+    "title": "Rock Hall Induction Set for Saturday as Oasis, Sade and Iron Maiden Skip the Stage",
+    "dek": "Oasis, Sade and Iron Maiden will all miss Saturday's ceremony at the Peacock Theater, leaving Wu-Tang Clan, Billy Idol and Queen Latifah to carry the night.",
+    "cat": "Entertainment",
+    "date": "Nov 14, 2026",
+    "url": "/story/rock-hall-2026-induction-oasis-sade-iron-maiden-absent"
+  },
+  {
+    "id": "snl-john-mulaney-hosts-seventh-time-phoebe-bridgers",
+    "title": "John Mulaney Hosts \"SNL\" for a Seventh Time With Phoebe Bridgers as Musical Guest",
+    "dek": "The comedian's seventh hosting turn airs Saturday at 11:30 p.m. ET, with Phoebe Bridgers performing songs from her August album \"Lost Weekend.\"",
+    "cat": "Entertainment",
+    "date": "Nov 14, 2026",
+    "url": "/story/snl-john-mulaney-hosts-seventh-time-phoebe-bridgers"
+  },
+  {
+    "id": "netflix-heartland-jessica-chastain-premieres",
+    "title": "Jessica Chastain's Country-Music Mystery \"Heartland\" Arrives on Netflix",
+    "dek": "Chastain stars as a disgraced former country singer who returns to Nashville after her niece disappears in Shana Feste's mystery thriller.",
+    "cat": "Entertainment",
+    "date": "Nov 14, 2026",
+    "url": "/story/netflix-heartland-jessica-chastain-premieres"
+  },
+  {
+    "id": "avatar-fire-and-ash-collectors-edition-december-8",
+    "title": "\"Avatar: Fire and Ash\" Collector's Edition Arrives December 8 With 12 Deleted Scenes",
+    "dek": "The December 8 set includes 12 deleted scenes, more than nine hours of extras and a two-part making-of documentary.",
+    "cat": "Entertainment",
+    "date": "Nov 14, 2026",
+    "url": "/story/avatar-fire-and-ash-collectors-edition-december-8"
+  },
+  {
+    "id": "spurs-blow-out-warriors-11th-straight-win",
+    "title": "Spurs Rout Warriors 123-85 for 11th Straight Win",
+    "dek": "Stephon Castle scored a season-high 32 points as San Antonio opened the game on an 18-0 run and never looked back.",
+    "cat": "Sports",
+    "date": "Nov 14, 2026",
+    "url": "/story/spurs-blow-out-warriors-11th-straight-win"
+  },
+  {
+    "id": "clippers-edge-thunder-113-112-garland-late-three",
+    "title": "Garland's Late Three-Point Play Lifts Clippers Past Thunder 113-112",
+    "dek": "Garland's driving three-point play capped a late 7-0 run as the Clippers stunned the short-handed Thunder.",
+    "cat": "Sports",
+    "date": "Nov 14, 2026",
+    "url": "/story/clippers-edge-thunder-113-112-garland-late-three"
+  },
+  {
+    "id": "rockets-beat-jazz-125-118-sengun-43",
+    "title": "Sengun's 43 Powers Rockets Past Jazz 125-118",
+    "dek": "Sengun scored a season-high 43 points and teamed with Kevin Durant for 65 as Houston sent Utah to its 11th straight loss.",
+    "cat": "Sports",
+    "date": "Nov 14, 2026",
+    "url": "/story/rockets-beat-jazz-125-118-sengun-43"
+  },
+  {
+    "id": "heat-beat-cavaliers-133-121-adebayo-giannis-37-each",
+    "title": "Adebayo and Giannis Score 37 Each as Heat Beat Cavaliers 133-121",
+    "dek": "Adebayo and Antetokounmpo combined for 74 points and joined LeBron James and Dwyane Wade as the only Heat duos to each score 35-plus in the same game.",
+    "cat": "Sports",
+    "date": "Nov 14, 2026",
+    "url": "/story/heat-beat-cavaliers-133-121-adebayo-giannis-37-each"
+  },
+  {
+    "id": "bulls-top-hawks-125-117-ot-snap-eight-game-skid",
+    "title": "Bulls Snap Eight-Game Skid With 125-117 Overtime Win Over Hawks",
+    "dek": "Powell scored 33 in his return and Josh Giddey posted a triple-double as Chicago ended an eight-game losing streak in overtime.",
+    "cat": "Sports",
+    "date": "Nov 14, 2026",
+    "url": "/story/bulls-top-hawks-125-117-ot-snap-eight-game-skid"
+  },
+  {
     "id": "ice-record-deportations-fiscal-2026",
     "title": "ICE Deported a Record 483,200 People in Fiscal 2026 as Arrests Also Hit a High",
     "dek": "The Department of Homeland Security says immigration enforcement set agency records on both fronts in the year that ended September 30 \u2014 though independent data shows much of the deportation total came from voluntary departures, not formal removals.",

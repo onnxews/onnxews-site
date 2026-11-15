@@ -1,5 +1,285 @@
 [
   {
+    "id": "faa-ground-stop-l3harris-router-cause-2026",
+    "title": "Faulty Router Installed by L3Harris Likely Caused Nationwide FAA Ground Stop, Duffy Says",
+    "dek": "Transportation Secretary Sean Duffy said a router installed during a routine copper-to-fibre upgrade flooded air traffic control networks, grounding flights across the country for nearly five hours on Friday.",
+    "cat": "U.S. News",
+    "date": "Nov 15, 2026",
+    "url": "/story/faa-ground-stop-l3harris-router-cause-2026"
+  },
+  {
+    "id": "bessent-blames-lutnick-megaspeed-blacklist-2026",
+    "title": "Bessent Publicly Blames Lutnick for Failing to Blacklist Nvidia Chip Buyer Megaspeed",
+    "dek": "Treasury Secretary Scott Bessent said four parts of the government wanted the Singapore firm at the centre of the Nvidia spy scandal put on a U.S. trade blacklist, but that Commerce Secretary Howard Lutnick's department never acted.",
+    "cat": "U.S. News",
+    "date": "Nov 15, 2026",
+    "url": "/story/bessent-blames-lutnick-megaspeed-blacklist-2026"
+  },
+  {
+    "id": "us-loses-measles-elimination-status-2026",
+    "title": "U.S. Loses Measles Elimination Status After 26 Years as Cases Hit Highest Level Since 1991",
+    "dek": "The Pan American Health Organization has determined the United States no longer qualifies as having eliminated measles, after the same strain of the virus circulated without a break for more than a year.",
+    "cat": "U.S. News",
+    "date": "Nov 15, 2026",
+    "url": "/story/us-loses-measles-elimination-status-2026"
+  },
+  {
+    "id": "us-floats-donbas-nato-membership-zelensky-2026",
+    "title": "U.S. Floated Trading Donbas for NATO Membership, Zelensky Says",
+    "dek": "President Volodymyr Zelensky said American negotiators asked for the first time whether Ukraine would withdraw from the Donbas in exchange for joining NATO, and that he would put any such deal to a national referendum.",
+    "cat": "World",
+    "date": "Nov 15, 2026",
+    "url": "/story/us-floats-donbas-nato-membership-zelensky-2026"
+  },
+  {
+    "id": "niger-market-convoy-ambush-38-killed-2026",
+    "title": "At Least 38 Killed in Ambush on Market Convoy in Western Niger",
+    "dek": "Gunmen ambushed villagers travelling to a weekly market in the Tillaberi region, killing 37 people at the scene, local sources told AFP. A further victim died of wounds on Friday.",
+    "cat": "World",
+    "date": "Nov 15, 2026",
+    "url": "/story/niger-market-convoy-ambush-38-killed-2026"
+  },
+  {
+    "id": "cop31-second-week-fossil-fuel-divide-2026",
+    "title": "COP31 Enters Final Week With Fossil Fuel Divide Unresolved, Climate Chief Warns",
+    "dek": "UN climate chief Simon Stiell urged negotiators in Antalya to move swiftly to the hardest issues and avoid tactical delays, as big fossil fuel producers resist any deal with firm new targets.",
+    "cat": "World",
+    "date": "Nov 15, 2026",
+    "url": "/story/cop31-second-week-fossil-fuel-divide-2026"
+  },
+  {
+    "id": "asean-summit-opens-manila-2026",
+    "title": "ASEAN Summit Opens in Manila With Energy, South China Sea and Myanmar on the Agenda",
+    "dek": "Southeast Asian leaders opened the 49th ASEAN Summit on Sunday for three days of talks, with President Donald Trump due to arrive on Tuesday for meetings with the bloc and the Quad.",
+    "cat": "World",
+    "date": "Nov 15, 2026",
+    "url": "/story/asean-summit-opens-manila-2026"
+  },
+  {
+    "id": "three-tankers-hit-mines-strait-of-hormuz-2026",
+    "title": "Three Oil Tankers Catch Fire After Striking Mines in the Strait of Hormuz",
+    "dek": "Iran said three tankers hit naval mines on Saturday in the latest attack on shipping through the strait, as Gulf markets fell and a Saudi-led coalition said it downed missiles fired at Riyadh.",
+    "cat": "World",
+    "date": "Nov 15, 2026",
+    "url": "/story/three-tankers-hit-mines-strait-of-hormuz-2026"
+  },
+  {
+    "id": "trump-xi-putin-trilateral-summit-2026",
+    "title": "Trump, Xi and Putin to Hold First-Ever Three-Way Meeting in China Next Week",
+    "dek": "The White House says the three leaders will meet Thursday on the sidelines of the APEC summit in Shenzhen to discuss nuclear arms reductions and the war with Iran, though officials expect no agreement.",
+    "cat": "Politics",
+    "date": "Nov 15, 2026",
+    "url": "/story/trump-xi-putin-trilateral-summit-2026"
+  },
+  {
+    "id": "nyc-dsa-urges-ocasio-cortez-2028-run",
+    "title": "New York Democratic Socialists Urge Ocasio-Cortez to Run for President in 2028",
+    "dek": "The New York City chapter of the Democratic Socialists of America voted 291-123 on Saturday to urge Rep. Alexandria Ocasio-Cortez to seek the White House, the latest push from the left for a 2028 bid.",
+    "cat": "Politics",
+    "date": "Nov 15, 2026",
+    "url": "/story/nyc-dsa-urges-ocasio-cortez-2028-run"
+  },
+  {
+    "id": "judge-blocks-trump-east-potomac-golf-closure",
+    "title": "Judge Blocks Trump From Closing Washington's East Potomac Golf Course",
+    "dek": "U.S. District Judge Ana Reyes issued a temporary restraining order on Saturday halting the planned 15-month closure of the historic public course, calling the administration's safety rationale 'pretextual.'",
+    "cat": "Politics",
+    "date": "Nov 15, 2026",
+    "url": "/story/judge-blocks-trump-east-potomac-golf-closure"
+  },
+  {
+    "id": "peltola-lead-grows-saturday-alaska-count-2026",
+    "title": "Peltola's Lead Grows to 11,213 Votes in Alaska as Saturday Count Nears a Majority",
+    "dek": "Official results released Saturday show the Democrat at 49.94 percent, 157 votes short of a majority, with ranked-choice tabulation set for Wednesday.",
+    "cat": "Politics",
+    "date": "Nov 15, 2026",
+    "url": "/story/peltola-lead-grows-saturday-alaska-count-2026"
+  },
+  {
+    "id": "van-hollen-filibuster-pledge-schumer-race-2026",
+    "title": "Van Hollen Pledges to End the Filibuster as Schumer Allies Predict 40-Plus Votes",
+    "dek": "At a Denver conference on Friday, Van Hollen promised to scrap the 60-vote threshold, ruled out a 2028 White House bid, and picked up Jeff Merkley's endorsement as Schumer's allies predicted a win.",
+    "cat": "Politics",
+    "date": "Nov 15, 2026",
+    "url": "/story/van-hollen-filibuster-pledge-schumer-race-2026"
+  },
+  {
+    "id": "bitcoin-crashes-below-70000-62000-2026",
+    "title": "Bitcoin Crashes Below $70,000 and Sinks Toward $62,000 in Brutal Weekend Sell-Off",
+    "dek": "The cryptocurrency fell below $70,000 on Friday and hit a low of $62,081 on Sunday, down about 23 percent from its November 4 high, as ETF outflows and forced selling piled up.",
+    "cat": "Business",
+    "date": "Nov 15, 2026",
+    "url": "/story/bitcoin-crashes-below-70000-62000-2026"
+  },
+  {
+    "id": "treasury-yield-515-december-fed-hike-2026",
+    "title": "10-Year Treasury Yield Jumps to 5.15% as Hot Inflation Locks In a December Fed Hike",
+    "dek": "The benchmark yield hit its highest close since mid-October after producer prices rose 6.5 percent from a year earlier, leaving traders pricing in a near-certain rate hike next month.",
+    "cat": "Business",
+    "date": "Nov 15, 2026",
+    "url": "/story/treasury-yield-515-december-fed-hike-2026"
+  },
+  {
+    "id": "nikkei-best-week-five-months-2026",
+    "title": "Japan's Nikkei Posts Its Best Week in Five Months as AI Optimism Returns",
+    "dek": "The Nikkei 225 gained 6.46 percent on the week, its largest rise since June, as chip stocks rebounded on renewed artificial intelligence optimism.",
+    "cat": "Business",
+    "date": "Nov 15, 2026",
+    "url": "/story/nikkei-best-week-five-months-2026"
+  },
+  {
+    "id": "asda-q3-sales-growth-potts-2026",
+    "title": "Asda Returns to Food Sales Growth as New Chief Potts Takes the Wheel",
+    "dek": "The supermarket group reported third-quarter revenue up 3.1 percent to \u00a36.5 billion, with food sales back in growth, as former Morrisons boss David Potts takes over as chief executive.",
+    "cat": "Business",
+    "date": "Nov 15, 2026",
+    "url": "/story/asda-q3-sales-growth-potts-2026"
+  },
+  {
+    "id": "on-holding-record-q3-sales-2026",
+    "title": "On Holding Posts Record Third-Quarter Sales as Asia-Pacific Jumps 31%",
+    "dek": "The Swiss running-shoe maker reported its first quarter above CHF 900 million in sales, with record margins and a raised outlook, even as its shares slid more than 10 percent in a week.",
+    "cat": "Business",
+    "date": "Nov 15, 2026",
+    "url": "/story/on-holding-record-q3-sales-2026"
+  },
+  {
+    "id": "tesla-cybercab-orders-2026",
+    "title": "Tesla Opens Cybercab Orders at $29,990, but the Car Won't Move Without a $299 Monthly Fee",
+    "dek": "Tesla has started inviting select customers to order its steering-wheel-free Cybercab for personal use, but the $29,990 two-seater only works inside the company's robotaxi zones and needs a $299-a-month subscription to drive at all \u2014 a price Elon Musk himself called too high.",
+    "cat": "Technology",
+    "date": "Nov 15, 2026",
+    "url": "/story/tesla-cybercab-orders-2026"
+  },
+  {
+    "id": "microsoft-365-outage-restored-2026",
+    "title": "Microsoft Says Global Microsoft 365 Outage Is Over After More Than a Day Offline",
+    "dek": "Microsoft said on Saturday that its Microsoft 365 services were fully restored after a worldwide outage that knocked out Outlook, Teams and Copilot for more than 24 hours, blaming a problem introduced during a network capacity upgrade and ruling out a cyberattack.",
+    "cat": "Technology",
+    "date": "Nov 15, 2026",
+    "url": "/story/microsoft-365-outage-restored-2026"
+  },
+  {
+    "id": "intel-desktop-cpu-comeback-2026",
+    "title": "Intel Stages Surprise Desktop CPU Comeback as AMD Falls Below 30%",
+    "dek": "Intel reclaimed 70.1% of desktop CPU shipments in the third quarter of 2026, a five-point swing that caught the market off guard \u2014 even as overall PC chip shipments shrank and AMD kept gaining ground in servers.",
+    "cat": "Technology",
+    "date": "Nov 15, 2026",
+    "url": "/story/intel-desktop-cpu-comeback-2026"
+  },
+  {
+    "id": "musk-warns-nvidia-supply-deals-2026",
+    "title": "Musk Warns Nvidia Could Lose Critical Deals After Huang's Exit: Many Were a Handshake",
+    "dek": "Elon Musk warned on Saturday that Nvidia could lose some of its most important supply-chain relationships after Jensen Huang's resignation, saying many of the deals were sealed with a handshake rather than a written contract.",
+    "cat": "Technology",
+    "date": "Nov 15, 2026",
+    "url": "/story/musk-warns-nvidia-supply-deals-2026"
+  },
+  {
+    "id": "dram-lawsuit-samsung-micron-2026",
+    "title": "Judge Refuses to Dismiss DRAM Lawsuit Against Samsung, SK Hynix and Micron",
+    "dek": "A federal judge ruled on Friday that a class-action lawsuit accusing Samsung, SK Hynix and Micron of conspiring to restrict memory supply and inflate prices can proceed, rejecting the companies' argument that the case was a rerun of one thrown out in 2022.",
+    "cat": "Technology",
+    "date": "Nov 15, 2026",
+    "url": "/story/dram-lawsuit-samsung-micron-2026"
+  },
+  {
+    "id": "rock-hall-induction-2026-phil-collins",
+    "title": "Phil Collins in Tears as Rock Hall Inducts 2026 Class in Los Angeles",
+    "dek": "Phil Collins wept at a standing ovation as he was inducted into the Rock & Roll Hall of Fame for his solo career on Saturday night, joining a class that also included Billy Idol, Wu-Tang Clan, Luther Vandross and Queen Latifah.",
+    "cat": "Entertainment",
+    "date": "Nov 15, 2026",
+    "url": "/story/rock-hall-induction-2026-phil-collins"
+  },
+  {
+    "id": "snl-mulaney-seventh-hosting-2026",
+    "title": "John Mulaney Roasts RFK Jr. and Tech Billionaires in Seventh SNL Hosting Turn",
+    "dek": "John Mulaney hosted Saturday Night Live for a seventh time on Saturday, opening with a CIA sketch about tech billionaires and spies and welcoming Phoebe Bridgers for two songs in the last show before Thanksgiving.",
+    "cat": "Entertainment",
+    "date": "Nov 15, 2026",
+    "url": "/story/snl-mulaney-seventh-hosting-2026"
+  },
+  {
+    "id": "kids-choice-awards-2026-winners",
+    "title": "Spider-Man and BTS Sweep the 2026 Kids' Choice Awards",
+    "dek": "Spider-Man: Brand New Day won four movie prizes and BTS took three music awards at the 2026 Kids' Choice Awards on Saturday night, the first to air simultaneously on CBS and Nickelodeon.",
+    "cat": "Entertainment",
+    "date": "Nov 15, 2026",
+    "url": "/story/kids-choice-awards-2026-winners"
+  },
+  {
+    "id": "ramayana-1200-crore-2026",
+    "title": "Ramayana Passes \u20b91,200 Crore Worldwide and Overtakes Jawan in 10 Days",
+    "dek": "Ramayana \u2013 Part I passed \u20b91,200 crore worldwide in just ten days, overtaking the lifetime totals of Jawan and KGF: Chapter 2 to become the fifth-biggest Indian film of all time.",
+    "cat": "Entertainment",
+    "date": "Nov 15, 2026",
+    "url": "/story/ramayana-1200-crore-2026"
+  },
+  {
+    "id": "weekend-box-office-ebenezer-2026",
+    "title": "Depp's Ebenezer Eyes $20 Million Opening as How to Rob a Bank Flops",
+    "dek": "Johnny Depp's Ebenezer is projected for a $20 million opening weekend at the top of the North American box office, while How to Rob a Bank is heading for a $4.7 million flop and Godzilla Minus Zero has fallen 75% in its second weekend.",
+    "cat": "Entertainment",
+    "date": "Nov 15, 2026",
+    "url": "/story/weekend-box-office-ebenezer-2026"
+  },
+  {
+    "id": "indiana-beats-usc-27-13-2026",
+    "title": "Grant Wilson Throws Two Touchdowns as No. 6 Indiana Beats No. 15 USC 27-13",
+    "dek": "Grant Wilson threw two touchdown passes in his first start for No. 6 Indiana as the Hoosiers beat No. 15 USC 27-13 on Saturday, surviving three fourth-quarter scares to keep their College Football Playoff hopes alive.",
+    "cat": "Sports",
+    "date": "Nov 15, 2026",
+    "url": "/story/indiana-beats-usc-27-13-2026"
+  },
+  {
+    "id": "texas-beats-lsu-22-21-2026",
+    "title": "Arch Manning Redeems Three Interceptions With Last-Seconds Touchdown as Texas Edges LSU 22-21",
+    "dek": "Arch Manning threw three interceptions, then found Raleek Brown for a 4-yard touchdown in the final seconds as No. 8 Texas beat LSU 22-21 at Tiger Stadium on Saturday night.",
+    "cat": "Sports",
+    "date": "Nov 15, 2026",
+    "url": "/story/texas-beats-lsu-22-21-2026"
+  },
+  {
+    "id": "georgia-beats-missouri-48-21-2026",
+    "title": "Nate Frazier Scores Three Times as No. 1 Georgia Cruises Past Missouri 48-21",
+    "dek": "Nate Frazier scored three touchdowns as No. 1 Georgia scored on its first five possessions and cruised past No. 22 Missouri 48-21 on Saturday in front of a sellout crowd of 93,033.",
+    "cat": "Sports",
+    "date": "Nov 15, 2026",
+    "url": "/story/georgia-beats-missouri-48-21-2026"
+  },
+  {
+    "id": "cavaliers-beat-mavericks-127-117-2026",
+    "title": "Tyrese Proctor's First Triple-Double Lifts Shorthanded Cavaliers Past Mavericks 127-117",
+    "dek": "Tyrese Proctor recorded his first career triple-double as the shorthanded Cleveland Cavaliers, missing their entire starting five, stunned the Dallas Mavericks 127-117 on Saturday night.",
+    "cat": "Sports",
+    "date": "Nov 15, 2026",
+    "url": "/story/cavaliers-beat-mavericks-127-117-2026"
+  },
+  {
+    "id": "jets-rally-blackhawks-shootout-2026",
+    "title": "Scheifele Makes Franchise History as Jets Rally From 4-0 Down to Beat Blackhawks 5-4 in Shootout",
+    "dek": "Mark Scheifele passed Dale Hawerchuk as the franchise's all-time leading scorer as the Winnipeg Jets rallied from 4-0 down to beat the Chicago Blackhawks 5-4 in a shootout on Saturday.",
+    "cat": "Sports",
+    "date": "Nov 15, 2026",
+    "url": "/story/jets-rally-blackhawks-shootout-2026"
+  },
+  {
+    "id": "brooklyn-flatbush-building-collapse-2026",
+    "title": "Eight Dead in Brooklyn Building Collapse as City Widens Inspections to 160 Sites",
+    "dek": "A three-story building in Brooklyn's Flatbush neighborhood fell into a construction excavation on Wednesday, killing eight people including two children. The city has now ordered inspections at about 160 sites tied to the project, and the Brooklyn district attorney has opened a criminal probe.",
+    "cat": "U.S. News",
+    "date": "Nov 15, 2026",
+    "url": "/story/brooklyn-flatbush-building-collapse-2026"
+  },
+  {
+    "id": "wildfires-threaten-drinking-water-supplies-2026",
+    "title": "Wildfires Are Poisoning America's Drinking Water for Years After the Flames Go Out",
+    "dek": "New studies show that wildfire contamination can linger in the rivers and streams that supply drinking water for more than a decade. With more than 68,000 fires burning over 14,062 square miles in the U.S. so far in 2026, water utilities are scrambling to adapt.",
+    "cat": "U.S. News",
+    "date": "Nov 15, 2026",
+    "url": "/story/wildfires-threaten-drinking-water-supplies-2026"
+  },
+  {
     "id": "faa-lifts-nationwide-ground-stop-2026",
     "title": "FAA Lifts Nationwide Ground Stop After Communications Outage Strands Thousands",
     "dek": "The Federal Aviation Administration ended a nationwide halt to departures on Friday night after an air traffic control communications failure grounded flights across the country for more than four hours.",

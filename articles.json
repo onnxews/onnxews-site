@@ -1,5 +1,285 @@
 [
   {
+    "id": "new-orleans-riverboat-capsize-tanker-2026",
+    "title": "Tanker Loses Steering and Capsizes Docked New Orleans Riverboat, Sending 32 to Hospital",
+    "dek": "The tanker Atlantic Asphalt veered across the Mississippi River and struck the American Heritage at its New Orleans dock on Friday, rolling the riverboat onto its side. All 190 people aboard were accounted for, but 32 were taken to hospitals.",
+    "cat": "U.S. News",
+    "date": "Nov 16, 2026",
+    "url": "/story/new-orleans-riverboat-capsize-tanker-2026"
+  },
+  {
+    "id": "vulcan-rocket-failure-amazon-leo-2026",
+    "title": "ULA Vulcan Rocket Fails Minutes After Liftoff, Destroying 40 Amazon Satellites in First Total Loss",
+    "dek": "United Launch Alliance's Vulcan rocket suffered an anomaly about 10 minutes into Sunday's flight from Cape Canaveral and never reached orbit, wiping out the first 40 satellites of Amazon's Leo broadband network to fly on the new rocket.",
+    "cat": "U.S. News",
+    "date": "Nov 16, 2026",
+    "url": "/story/vulcan-rocket-failure-amazon-leo-2026"
+  },
+  {
+    "id": "california-giant-waves-el-nino-2026",
+    "title": "50-Foot Waves Batter California Coast as El Ni\u00f1o Supercharges the Surf",
+    "dek": "The biggest swell in a decade hammered California's coastline over the weekend, flooding streets in Pacifica and Santa Cruz, closing piers from Ventura to San Diego, and sending 50- to 60-foot sets into the famous Mavericks break. Forecasters warn more big surf is coming this week.",
+    "cat": "U.S. News",
+    "date": "Nov 16, 2026",
+    "url": "/story/california-giant-waves-el-nino-2026"
+  },
+  {
+    "id": "medicaid-work-requirements-delay-2026",
+    "title": "Trump Administration Gives States Six More Months Before Medicaid Work Requirements Bite",
+    "dek": "The Centers for Medicare and Medicaid Services told states on Friday they will not have to remove anyone from Medicaid for failing to meet new work requirements until July 1, 2027 \u2014 a six-month reprieve for state agencies scrambling to build the systems to enforce the rules.",
+    "cat": "U.S. News",
+    "date": "Nov 16, 2026",
+    "url": "/story/medicaid-work-requirements-delay-2026"
+  },
+  {
+    "id": "kim-davis-judge-assets-deadline-2026",
+    "title": "Judge Orders Kim Davis to Explain Hidden Inheritance as $565,000 Judgment Deadline Hits",
+    "dek": "Former Kentucky county clerk Kim Davis faces a Monday deadline to tell a federal judge why she should not be sanctioned after the court found she gave false answers about an inheritance while owing $565,000 to the gay couple she refused to marry.",
+    "cat": "U.S. News",
+    "date": "Nov 16, 2026",
+    "url": "/story/kim-davis-judge-assets-deadline-2026"
+  },
+  {
+    "id": "congo-ebola-outbreak-2026",
+    "title": "Congo's Ebola Outbreak Tops 11,000 Cases Six Months In, With No End in Sight",
+    "dek": "Six months after it was declared, Congo's Ebola outbreak has infected 11,376 people and killed 5,568, and health officials say it is still not under control. Two-thirds of the dead are dying in their communities, not in treatment centres, as conflict and mistrust hamper the response.",
+    "cat": "World",
+    "date": "Nov 16, 2026",
+    "url": "/story/congo-ebola-outbreak-2026"
+  },
+  {
+    "id": "spain-election-2026-far-right",
+    "title": "Spain Heads to Snap Election With Far Right Poised to Enter Government for First Time Since Franco",
+    "dek": "Spain votes on November 29 in a snap election that could end eight years of socialist rule and bring the far-right Vox party into national government for the first time since the return to democracy. Polls put the People's Party first, but only a deal with Vox gives it a majority.",
+    "cat": "World",
+    "date": "Nov 16, 2026",
+    "url": "/story/spain-election-2026-far-right"
+  },
+  {
+    "id": "prague-rally-public-media-2026",
+    "title": "Hundreds of Thousands Fill Prague's Letn\u00e1 Park to Defend Public Media From Government Overhaul",
+    "dek": "Hundreds of thousands of Czechs filled Prague's Letn\u00e1 Park on Sunday to oppose a government plan to scrap the public broadcasting fee and fund Czech Television and Czech Radio from the state budget \u2014 a move critics say would hand politicians control over the media.",
+    "cat": "World",
+    "date": "Nov 16, 2026",
+    "url": "/story/prague-rally-public-media-2026"
+  },
+  {
+    "id": "estonia-russia-border-closure-2026",
+    "title": "Estonia to Shut All Russia Border Crossings After Foiled Arson Attack on Drone Maker",
+    "dek": "Estonia will shut its Narva, Luhamaa and Koidula crossings with Russia from December 1 after officials blamed Moscow's GRU for a foiled arson attack on drone maker Threod Systems. Eight people living in Latvia were detained over the attempt.",
+    "cat": "World",
+    "date": "Nov 16, 2026",
+    "url": "/story/estonia-russia-border-closure-2026"
+  },
+  {
+    "id": "felix-gallardo-dies-2026",
+    "title": "'Boss of Bosses' Miguel \u00c1ngel F\u00e9lix Gallardo, Architect of Mexico's Modern Drug Trade, Dies at 80",
+    "dek": "Miguel \u00c1ngel F\u00e9lix Gallardo, the founder of the Guadalajara cartel and the man convicted in the 1985 murder of DEA agent Enrique \"Kiki\" Camarena, died on Sunday in a Guadalajara hospital at 80 after suffering multiple organ failure.",
+    "cat": "World",
+    "date": "Nov 16, 2026",
+    "url": "/story/felix-gallardo-dies-2026"
+  },
+  {
+    "id": "trilateral-summit-shenzhen-2026",
+    "title": "China Confirms First-Ever Trump\u2013Xi\u2013Putin Meeting for Thursday in Shenzhen",
+    "dek": "Beijing confirmed on Monday that the three leaders will meet on the sidelines of the APEC summit, completing a lineup Washington and Moscow had already announced \u2014 with Washington saying Trump will raise nuclear arms reduction, and no deal expected.",
+    "cat": "Politics",
+    "date": "Nov 16, 2026",
+    "url": "/story/trilateral-summit-shenzhen-2026"
+  },
+  {
+    "id": "peltola-alaska-fifty-percent-question-2026",
+    "title": "Peltola's 50% Problem: Why a Lead of 11,213 Votes Has Not Settled Alaska's Senate Race",
+    "dek": "The Democrat sits at 49.94% on the state's full count and just over 50% on another reading \u2014 and the difference comes down to 872 write-in votes and what counts as a majority.",
+    "cat": "Politics",
+    "date": "Nov 16, 2026",
+    "url": "/story/peltola-alaska-fifty-percent-question-2026"
+  },
+  {
+    "id": "schumer-van-hollen-leadership-count-2026",
+    "title": "Schumer Allies Say He Has the Votes as Van Hollen's Leadership Challenge Tests Senate Democrats",
+    "dek": "The first contested Senate Democratic leadership race in more than three decades will be decided by secret ballot on December 1, and both camps are counting \u2014 in public, at least \u2014 while most of the caucus stays quiet.",
+    "cat": "Politics",
+    "date": "Nov 16, 2026",
+    "url": "/story/schumer-van-hollen-leadership-count-2026"
+  },
+  {
+    "id": "sullivan-epstein-fbi-notes-order-2026",
+    "title": "Judge Orders Justice Department to Publish Withheld FBI Notes on Epstein Interviews by November 23",
+    "dek": "Senior Judge Emmet Sullivan issued three orders on November 9 in the lawsuit enforcing the Epstein files law, giving Attorney General Todd Blanche two weeks to post handwritten interview notes the department had kept out of its public library.",
+    "cat": "Politics",
+    "date": "Nov 16, 2026",
+    "url": "/story/sullivan-epstein-fbi-notes-order-2026"
+  },
+  {
+    "id": "oversight-epstein-report-federal-failures-2026",
+    "title": "House Oversight Report Says Federal Government Failed Epstein Survivors for Decades",
+    "dek": "The Republican-led committee's 15-month investigation concluded that Epstein's crimes after 2005 could have been prevented, and it called on the Justice Department to re-interview witnesses and give survivors unredacted access to their own records.",
+    "cat": "Politics",
+    "date": "Nov 16, 2026",
+    "url": "/story/oversight-epstein-report-federal-failures-2026"
+  },
+  {
+    "id": "asia-chip-rout-taiwan-tumbles-2026",
+    "title": "Taiwan Stocks Plunge 6% as Nvidia Turmoil Sends Asia's Chip Shares Tumbling",
+    "dek": "The Taiex suffered its second-biggest single-day points drop on record on Monday as the fallout from Jensen Huang's resignation spread across Asia, a day before Nvidia reports its first results without him.",
+    "cat": "Business",
+    "date": "Nov 16, 2026",
+    "url": "/story/asia-chip-rout-taiwan-tumbles-2026"
+  },
+  {
+    "id": "bitcoin-sixth-weekly-loss-2026",
+    "title": "Bitcoin Posts Sixth Straight Weekly Loss After Sliding to $62,006 Over the Weekend",
+    "dek": "The cryptocurrency fell to its lowest since July before recovering to about $64,200 on Monday, as a seventh straight day of ETF outflows and a fully priced December rate hike kept sellers in control.",
+    "cat": "Business",
+    "date": "Nov 16, 2026",
+    "url": "/story/bitcoin-sixth-weekly-loss-2026"
+  },
+  {
+    "id": "nvidia-earnings-kress-first-test-2026",
+    "title": "Nvidia Reports Its First Results Without Huang on Tuesday. Kress Faces the Credibility Test.",
+    "dek": "Interim chief Colette Kress will present numbers she set as chief financial officer, with analysts expecting about $109 billion in revenue \u2014 but the market wants to know whether the outlook for next year survives the leadership change.",
+    "cat": "Business",
+    "date": "Nov 16, 2026",
+    "url": "/story/nvidia-earnings-kress-first-test-2026"
+  },
+  {
+    "id": "oil-iea-surplus-hormuz-2026",
+    "title": "Oil Slips as IEA Sees a Supply Surplus, Even as Hormuz Attacks Continue",
+    "dek": "Brent eased to about $95 a barrel on Monday after the International Energy Agency said the world oil market returns to surplus this quarter, with shipments through the Strait of Hormuz nearly back to pre-war levels.",
+    "cat": "Business",
+    "date": "Nov 16, 2026",
+    "url": "/story/oil-iea-surplus-hormuz-2026"
+  },
+  {
+    "id": "baidu-ai-cloud-earnings-2026",
+    "title": "Baidu's AI Cloud Nearly Doubles as Search Ads Slide 22%",
+    "dek": "The Chinese search giant reported third-quarter results on Monday showing its AI business now makes up more than half of its core revenue \u2014 but heavy spending on data centers pushed free cash flow into negative territory.",
+    "cat": "Business",
+    "date": "Nov 16, 2026",
+    "url": "/story/baidu-ai-cloud-earnings-2026"
+  },
+  {
+    "id": "alibaba-qwen4-max-launch-2026",
+    "title": "Alibaba Launches Qwen4-Max, Its New Flagship AI Model, With a 1-Million-Token Context",
+    "dek": "Alibaba has launched Qwen4-Max, the flagship of its next-generation Qwen family, with a 1-million-token context window and a public pay-as-you-go API priced below its predecessor.",
+    "cat": "Technology",
+    "date": "Nov 16, 2026",
+    "url": "/story/alibaba-qwen4-max-launch-2026"
+  },
+  {
+    "id": "nonprofits-sue-ai-giants-freeze-frontier-ai-2026",
+    "title": "Four Nonprofits Sue OpenAI, Google, Anthropic, Meta and SpaceX to Freeze Frontier AI",
+    "dek": "Four nonprofits have asked a San Francisco court to freeze frontier AI development at Anthropic, Google, Meta, OpenAI and SpaceX, arguing the companies are building systems they admit they cannot control.",
+    "cat": "Technology",
+    "date": "Nov 16, 2026",
+    "url": "/story/nonprofits-sue-ai-giants-freeze-frontier-ai-2026"
+  },
+  {
+    "id": "microsoft-xbox-project-helix-console-not-pc-2026",
+    "title": "Microsoft Says Next Xbox Project Helix Plays PC Games but Is Not a PC",
+    "dek": "In its 25th anniversary magazine, Microsoft says its next Xbox, code-named Project Helix, is a console that can also play PC games, not a PC that can also play console games.",
+    "cat": "Technology",
+    "date": "Nov 16, 2026",
+    "url": "/story/microsoft-xbox-project-helix-console-not-pc-2026"
+  },
+  {
+    "id": "gdc-survey-game-developers-generative-ai-2026",
+    "title": "GDC Survey: 40% of Game Professionals Now Use Generative AI, but 55% Say It Hurts the Industry",
+    "dek": "A survey of more than 2,600 game industry professionals finds 40 percent now use generative AI at work, up from 36 percent, while 55 percent say it is hurting the industry.",
+    "cat": "Technology",
+    "date": "Nov 16, 2026",
+    "url": "/story/gdc-survey-game-developers-generative-ai-2026"
+  },
+  {
+    "id": "apple-health-ai-usage-study-2026",
+    "title": "Apple Launches Health AI Study of Up to 200,000 iPhone Users With OpenEvidence",
+    "dek": "Apple has opened the Apple Health AI Usage Study to up to 200,000 iPhone users in the United States, working with clinical AI company OpenEvidence to examine how people trust, understand and act on AI health answers.",
+    "cat": "Technology",
+    "date": "Nov 16, 2026",
+    "url": "/story/apple-health-ai-usage-study-2026"
+  },
+  {
+    "id": "governors-awards-2026-honorary-oscars",
+    "title": "Glenn Close, Ridley Scott and Floyd Norman Honored at 2026 Governors Awards",
+    "dek": "Glenn Close finally holds an Oscar after eight nominations without a win, Ridley Scott accepts from afar in tribute to his late brother Tony, and Disney pioneer Floyd Norman gets his happy ending at the Academy's 17th Governors Awards.",
+    "cat": "Entertainment",
+    "date": "Nov 16, 2026",
+    "url": "/story/governors-awards-2026-honorary-oscars"
+  },
+  {
+    "id": "grammy-nominations-2027-raye-leads",
+    "title": "Raye Leads 2027 Grammy Nominations With 11 as Taylor Swift Earns Five",
+    "dek": "Raye leads the field for the 69th Grammy Awards with 11 nominations, ahead of Rosal\u00eda with nine, as Taylor Swift breaks Frank Sinatra's album of the year record and the nominations are announced live on Monday morning.",
+    "cat": "Entertainment",
+    "date": "Nov 16, 2026",
+    "url": "/story/grammy-nominations-2027-raye-leads"
+  },
+  {
+    "id": "ebenezer-box-office-19-million-number-one",
+    "title": "Johnny Depp's Ebenezer Tops Box Office With $19 Million Opening",
+    "dek": "Johnny Depp's Ebenezer opens at No. 1 with an estimated $19 million domestically and $42 million worldwide, giving the actor his first chart-topping opening in eight years.",
+    "cat": "Entertainment",
+    "date": "Nov 16, 2026",
+    "url": "/story/ebenezer-box-office-19-million-number-one"
+  },
+  {
+    "id": "virgin-river-season-9-netflix-renewal",
+    "title": "Netflix Renews Virgin River for Season 9, Its Longest-Running Scripted Series",
+    "dek": "Netflix has renewed Virgin River for a ninth season months before Season 8 premieres in 2027, making the romantic drama the streamer's longest-running original scripted series.",
+    "cat": "Entertainment",
+    "date": "Nov 16, 2026",
+    "url": "/story/virgin-river-season-9-netflix-renewal"
+  },
+  {
+    "id": "carmelle-wins-eurovision-asia-2026",
+    "title": "Carmelle Wins First Eurovision Song Contest Asia for the Philippines",
+    "dek": "Nineteen-year-old Carmelle Collado wins the inaugural Eurovision Song Contest Asia in Bangkok with her dance-pop anthem Sobra-Sobra, scoring 211 points to finish 41 clear of host country Thailand.",
+    "cat": "Entertainment",
+    "date": "Nov 16, 2026",
+    "url": "/story/carmelle-wins-eurovision-asia-2026"
+  },
+  {
+    "id": "49ers-beat-cowboys-46-40-2026",
+    "title": "Purdy Throws for Career-High 389 Yards as 49ers Outlast Cowboys 46-40",
+    "dek": "Brock Purdy threw for a career-high 389 yards and three touchdowns, and Christian McCaffrey scored three times, as the San Francisco 49ers held off a furious Dallas rally to win a 46-40 shootout at AT&T Stadium on Sunday.",
+    "cat": "Sports",
+    "date": "Nov 16, 2026",
+    "url": "/story/49ers-beat-cowboys-46-40-2026"
+  },
+  {
+    "id": "bengals-beat-steelers-38-18-2026",
+    "title": "Burrow Throws for 409 Yards and Four Touchdowns as Bengals Rout Steelers 38-18",
+    "dek": "Joe Burrow passed for 409 yards and four touchdowns, Ja'Marr Chase caught 11 passes for 231 yards, and the Cincinnati Bengals beat the Pittsburgh Steelers 38-18 on Sunday Night Football to take sole possession of first place in the AFC North.",
+    "cat": "Sports",
+    "date": "Nov 16, 2026",
+    "url": "/story/bengals-beat-steelers-38-18-2026"
+  },
+  {
+    "id": "vikings-beat-packers-30-10-2026",
+    "title": "Cousins Stars in Emotional Vikings Return as Minnesota Routs Packers 30-10",
+    "dek": "Kirk Cousins threw two touchdown passes in his first start back with Minnesota, and the Vikings' defense sacked Jordan Love eight times and forced four turnovers in a 30-10 win over the Green Bay Packers at Lambeau Field.",
+    "cat": "Sports",
+    "date": "Nov 16, 2026",
+    "url": "/story/vikings-beat-packers-30-10-2026"
+  },
+  {
+    "id": "lions-beat-patriots-35-10-munich-2026",
+    "title": "Gibbs Piles Up 252 Total Yards as Lions Roll Patriots 35-10 in Munich",
+    "dek": "Jahmyr Gibbs ran for 153 yards and two touchdowns and caught seven passes for 99 more as the Detroit Lions beat the New England Patriots 35-10 at Allianz Arena in Munich, extending their winning streak to five games.",
+    "cat": "Sports",
+    "date": "Nov 16, 2026",
+    "url": "/story/lions-beat-patriots-35-10-munich-2026"
+  },
+  {
+    "id": "nba-sunday-roundup-celtics-lakers-rockets-2026",
+    "title": "Tatum Scores 32 as Celtics Rout Mavericks; Lakers and Rockets Roll on Sunday",
+    "dek": "Jayson Tatum scored 32 points as the Boston Celtics blew out the Dallas Mavericks 131-94, Luka Doncic poured in 43 as the Los Angeles Lakers held off the Phoenix Suns 131-123, and the Houston Rockets routed the Washington Wizards 147-119 on Sunday night.",
+    "cat": "Sports",
+    "date": "Nov 16, 2026",
+    "url": "/story/nba-sunday-roundup-celtics-lakers-rockets-2026"
+  },
+  {
     "id": "faa-ground-stop-l3harris-router-cause-2026",
     "title": "Faulty Router Installed by L3Harris Likely Caused Nationwide FAA Ground Stop, Duffy Says",
     "dek": "Transportation Secretary Sean Duffy said a router installed during a routine copper-to-fibre upgrade flooded air traffic control networks, grounding flights across the country for nearly five hours on Friday.",

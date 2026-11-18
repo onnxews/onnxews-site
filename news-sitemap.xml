@@ -2,6 +2,391 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
         xmlns:news="http://www.google.com/schemas/sitemap-news/0.9">
   <url>
+    <loc>https://onnxews.com/story/voyager-1-reaches-one-light-day-from-earth-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Voyager 1 Reaches One Light-Day From Earth, a First for Any Human-Made Object</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/huawei-trial-closings-jury-deliberations-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Huawei Trial Nears Its End as Jury Prepares to Deliberate in Brooklyn</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/judge-blocks-dhs-international-student-internship-limits-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Judge Blocks Trump Administration&#x27;s Limits on Internships for International Students</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/passenger-charged-attempted-murder-minnesota-uber-driver-attack-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Passenger Charged With Attempted Murder After Somali Uber Driver Is Strangled and Run Over in Minnesota</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/nsa-classified-network-outage-nsanet-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>NSA&#x27;s Classified Internal Network Goes Down in Latest U.S. Tech Outage</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/us-strikes-qeshm-iran-hits-kuwait-bahrain-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>U.S. Strikes Iran&#x27;s Qeshm Island as Tehran Hits Back at Bases in Kuwait and Bahrain</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/xi-putin-blast-protectionism-sanctions-trump-lands-china-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Xi and Putin Rail Against Protectionism and Sanctions as Trump Lands in China for First Three-Way Talks</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/board-of-peace-warns-gaza-ceasefire-collapse-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Trump&#x27;s Board of Peace Warns Gaza Ceasefire Is Near Collapse as Israel and Hamas Miss Commitments</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/russian-military-plane-crashes-siberia-19-killed-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Russian Military Transport Plane Crashes in Siberia, Killing All 19 on Board</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/cyclone-xavier-category-5-northern-cook-islands-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Category 5 Cyclone Xavier Bears Down on Northern Cook Islands as Shelters Open</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/trump-lands-china-xi-putin-trilateral-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Trump Lands in China as Xi and Putin Meet Ahead of First-Ever Trilateral Summit</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/peltola-wins-alaska-senate-56-44-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Peltola Wins Alaska Senate Race, Giving Democrats a 56-44 Majority</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/schumer-van-hollen-leadership-fight-december-vote-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Schumer Snaps at Reporters as Van Hollen Challenge Roils Senate Democrats</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/buttigieg-midterm-blitz-2028-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>The Midterm Blitz That Saved Pete Buttigieg From Quitting Politics</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/trump-pulls-vance-iran-talks-democratic-cities-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Trump Pulls Vance Off Iran Talks and Sends Him After Fraud in Democratic-Led Cities</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/nvidia-record-revenue-first-earnings-without-huang-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Nvidia Posts Record $115.8 Billion Quarter in First Earnings Without Huang</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/target-third-quarter-earnings-tariff-refund-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Target Posts Strongest Sales Gain in Five Years, Helped by a $301 Million Tariff Refund</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/lowes-third-quarter-earnings-online-sales-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Lowe&#x27;s Beats Earnings Estimates as Online Sales Jump 17.4%</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/tjx-third-quarter-earnings-bargain-shoppers-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>TJX Rises on Strong Quarter as Bargain Hunters Keep Coming</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/rents-rise-first-time-since-june-2023-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Rents Rise for the First Time Since June 2023</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/anthropic-ipo-pricing-above-range</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Anthropic IPO Set to Price Above Its $70–$78 Range as Orders Swamp the Offering</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/microsoft-ignite-seven-mai-models</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Microsoft Unveils Seven New MAI Models at Ignite, Taking Aim at Anthropic and OpenAI</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/apple-outage-internal-update-not-cyberattack</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Apple Says Internal Update — Not a Cyberattack — Knocked Out iCloud, App Store and Apple Pay</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/sec-probing-nvidia-huang-departure</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>SEC Is Probing Nvidia as Huang&#x27;s Departure Deepens the Chipmaker&#x27;s Crisis</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/glastonbury-2027-headliners-styles-eilish-fender</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Harry Styles, Billie Eilish and Sam Fender to Headline Glastonbury 2027 as Festival Returns</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/gta-vi-leads-game-awards-2026-eight-nominations</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>GTA VI Leads The Game Awards 2026 With Eight Nominations Two Days Before Launch</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/hunger-games-sunrise-reaping-reviews-split</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Hunger Games: Sunrise on the Reaping Draws Split Reviews Ahead of Friday Release</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/only-murders-building-season-6-london-trailer</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Only Murders in the Building Heads to London in Season 6 Trailer</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/netflix-harlan-coben-the-innocent-limited-series</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Netflix Orders Harlan Coben&#x27;s The Innocent as Its 15th Adaptation of the Author</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/pistons-snap-spurs-12-game-winning-streak</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Pistons Snap Spurs&#x27; 12-Game Winning Streak With 105–93 Win in San Antonio</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/mcdavid-ties-gretzky-23-game-point-streak-oilers-panthers</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>McDavid Ties Gretzky&#x27;s 23-Game Season-Opening Point Streak as Oilers Beat Panthers 5–2</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/zverev-beats-shelton-atp-finals-semifinals</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Zverev Beats Shelton in Straight Sets to Reach ATP Finals Semifinals First</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/grimes-career-high-47-lakers-beat-hornets-overtime</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Grimes&#x27; Career-High 47 Lifts Lakers Past Hornets 118–114 in Overtime</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/gauthier-fourth-hat-trick-november-blues-beat-ducks</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>Gauthier&#x27;s Record Fourth Hat Trick of November Not Enough as Blues Outgun Ducks 8–6</news:title>
+    </news:news>
+  </url>
+  <url>
+    <loc>https://onnxews.com/story/openai-gpt-6-2-astra-sol-launch-2026</loc>
+    <news:news>
+      <news:publication>
+        <news:name>Orbit News Network</news:name>
+        <news:language>en</news:language>
+      </news:publication>
+      <news:publication_date>2026-11-18</news:publication_date>
+      <news:title>OpenAI Launches GPT-6.2 Astra and Sol, Cutting Prices as the AI Race Tightens</news:title>
+    </news:news>
+  </url>
+  <url>
     <loc>https://onnxews.com/story/iran-dirty-bomb-plot-washington-intelligence-2026</loc>
     <news:news>
       <news:publication>
@@ -384,391 +769,6 @@
       </news:publication>
       <news:publication_date>2026-11-17</news:publication_date>
       <news:title>Malware Planted Through Optimizely Hit 178 Major Websites, Including Zoom, the BBC and CNN</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/new-orleans-riverboat-capsize-tanker-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Tanker Loses Steering and Capsizes Docked New Orleans Riverboat, Sending 32 to Hospital</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/vulcan-rocket-failure-amazon-leo-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>ULA Vulcan Rocket Fails Minutes After Liftoff, Destroying 40 Amazon Satellites in First Total Loss</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/california-giant-waves-el-nino-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>50-Foot Waves Batter California Coast as El Niño Supercharges the Surf</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/medicaid-work-requirements-delay-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Trump Administration Gives States Six More Months Before Medicaid Work Requirements Bite</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/kim-davis-judge-assets-deadline-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Judge Orders Kim Davis to Explain Hidden Inheritance as $565,000 Judgment Deadline Hits</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/congo-ebola-outbreak-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Congo&#x27;s Ebola Outbreak Tops 11,000 Cases Six Months In, With No End in Sight</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/spain-election-2026-far-right</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Spain Heads to Snap Election With Far Right Poised to Enter Government for First Time Since Franco</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/prague-rally-public-media-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Hundreds of Thousands Fill Prague&#x27;s Letná Park to Defend Public Media From Government Overhaul</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/estonia-russia-border-closure-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Estonia to Shut All Russia Border Crossings After Foiled Arson Attack on Drone Maker</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/felix-gallardo-dies-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>&#x27;Boss of Bosses&#x27; Miguel Ángel Félix Gallardo, Architect of Mexico&#x27;s Modern Drug Trade, Dies at 80</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/trilateral-summit-shenzhen-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>China Confirms First-Ever Trump–Xi–Putin Meeting for Thursday in Shenzhen</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/peltola-alaska-fifty-percent-question-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Peltola&#x27;s 50% Problem: Why a Lead of 11,213 Votes Has Not Settled Alaska&#x27;s Senate Race</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/schumer-van-hollen-leadership-count-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Schumer Allies Say He Has the Votes as Van Hollen&#x27;s Leadership Challenge Tests Senate Democrats</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/sullivan-epstein-fbi-notes-order-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Judge Orders Justice Department to Publish Withheld FBI Notes on Epstein Interviews by November 23</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/oversight-epstein-report-federal-failures-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>House Oversight Report Says Federal Government Failed Epstein Survivors for Decades</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/asia-chip-rout-taiwan-tumbles-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Taiwan Stocks Plunge 6% as Nvidia Turmoil Sends Asia&#x27;s Chip Shares Tumbling</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/bitcoin-sixth-weekly-loss-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Bitcoin Posts Sixth Straight Weekly Loss After Sliding to $62,006 Over the Weekend</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/nvidia-earnings-kress-first-test-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Nvidia Reports Its First Results Without Huang on Tuesday. Kress Faces the Credibility Test.</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/oil-iea-surplus-hormuz-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Oil Slips as IEA Sees a Supply Surplus, Even as Hormuz Attacks Continue</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/baidu-ai-cloud-earnings-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Baidu&#x27;s AI Cloud Nearly Doubles as Search Ads Slide 22%</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/alibaba-qwen4-max-launch-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Alibaba Launches Qwen4-Max, Its New Flagship AI Model, With a 1-Million-Token Context</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/nonprofits-sue-ai-giants-freeze-frontier-ai-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Four Nonprofits Sue OpenAI, Google, Anthropic, Meta and SpaceX to Freeze Frontier AI</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/microsoft-xbox-project-helix-console-not-pc-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Microsoft Says Next Xbox Project Helix Plays PC Games but Is Not a PC</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/gdc-survey-game-developers-generative-ai-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>GDC Survey: 40% of Game Professionals Now Use Generative AI, but 55% Say It Hurts the Industry</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/apple-health-ai-usage-study-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Apple Launches Health AI Study of Up to 200,000 iPhone Users With OpenEvidence</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/governors-awards-2026-honorary-oscars</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Glenn Close, Ridley Scott and Floyd Norman Honored at 2026 Governors Awards</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/grammy-nominations-2027-raye-leads</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Raye Leads 2027 Grammy Nominations With 11 as Taylor Swift Earns Five</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/ebenezer-box-office-19-million-number-one</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Johnny Depp&#x27;s Ebenezer Tops Box Office With $19 Million Opening</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/virgin-river-season-9-netflix-renewal</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Netflix Renews Virgin River for Season 9, Its Longest-Running Scripted Series</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/carmelle-wins-eurovision-asia-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Carmelle Wins First Eurovision Song Contest Asia for the Philippines</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/49ers-beat-cowboys-46-40-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Purdy Throws for Career-High 389 Yards as 49ers Outlast Cowboys 46-40</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/bengals-beat-steelers-38-18-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Burrow Throws for 409 Yards and Four Touchdowns as Bengals Rout Steelers 38-18</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/vikings-beat-packers-30-10-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Cousins Stars in Emotional Vikings Return as Minnesota Routs Packers 30-10</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/lions-beat-patriots-35-10-munich-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Gibbs Piles Up 252 Total Yards as Lions Roll Patriots 35-10 in Munich</news:title>
-    </news:news>
-  </url>
-  <url>
-    <loc>https://onnxews.com/story/nba-sunday-roundup-celtics-lakers-rockets-2026</loc>
-    <news:news>
-      <news:publication>
-        <news:name>Orbit News Network</news:name>
-        <news:language>en</news:language>
-      </news:publication>
-      <news:publication_date>2026-11-16</news:publication_date>
-      <news:title>Tatum Scores 32 as Celtics Rout Mavericks; Lakers and Rockets Roll on Sunday</news:title>
     </news:news>
   </url>
 </urlset>

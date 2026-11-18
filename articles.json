@@ -1,5 +1,285 @@
 [
   {
+    "id": "voyager-1-reaches-one-light-day-from-earth-2026",
+    "title": "Voyager 1 Reaches One Light-Day From Earth, a First for Any Human-Made Object",
+    "dek": "NASA says the probe crossed the milestone at 5:16 a.m. ET on Wednesday, nearly 50 years after launch, and a radio signal now takes a full day to reach it.",
+    "cat": "U.S. News",
+    "date": "Nov 18, 2026",
+    "url": "/story/voyager-1-reaches-one-light-day-from-earth-2026"
+  },
+  {
+    "id": "huawei-trial-closings-jury-deliberations-2026",
+    "title": "Huawei Trial Nears Its End as Jury Prepares to Deliberate in Brooklyn",
+    "dek": "After two months of testimony, prosecutors told jurors the Chinese telecom giant operated as a criminal enterprise for 20 years. The defense said the government started with guilt and worked backwards.",
+    "cat": "U.S. News",
+    "date": "Nov 18, 2026",
+    "url": "/story/huawei-trial-closings-jury-deliberations-2026"
+  },
+  {
+    "id": "judge-blocks-dhs-international-student-internship-limits-2026",
+    "title": "Judge Blocks Trump Administration's Limits on Internships for International Students",
+    "dek": "A federal judge in Boston said the Homeland Security Department likely broke the law when it narrowed a decades-old training program used by more than 140,000 foreign students.",
+    "cat": "U.S. News",
+    "date": "Nov 18, 2026",
+    "url": "/story/judge-blocks-dhs-international-student-internship-limits-2026"
+  },
+  {
+    "id": "passenger-charged-attempted-murder-minnesota-uber-driver-attack-2026",
+    "title": "Passenger Charged With Attempted Murder After Somali Uber Driver Is Strangled and Run Over in Minnesota",
+    "dek": "Mohamed Yusuf, 51, is in critical condition with broken ribs, a broken leg, spinal injuries and collapsed lungs. Prosecutors say they cannot prove the attack was motivated by bias.",
+    "cat": "U.S. News",
+    "date": "Nov 18, 2026",
+    "url": "/story/passenger-charged-attempted-murder-minnesota-uber-driver-attack-2026"
+  },
+  {
+    "id": "nsa-classified-network-outage-nsanet-2026",
+    "title": "NSA's Classified Internal Network Goes Down in Latest U.S. Tech Outage",
+    "dek": "The spy agency closed its Fort Meade campus to most employees after its highly classified network went down during a software patch. Officials say there is no evidence of a cyberattack.",
+    "cat": "U.S. News",
+    "date": "Nov 18, 2026",
+    "url": "/story/nsa-classified-network-outage-nsanet-2026"
+  },
+  {
+    "id": "us-strikes-qeshm-iran-hits-kuwait-bahrain-2026",
+    "title": "U.S. Strikes Iran's Qeshm Island as Tehran Hits Back at Bases in Kuwait and Bahrain",
+    "dek": "The exchange is the widest escalation of the nine-month-old U.S.-Iran war in weeks, with Gulf states intercepting missiles and drones and a Houthi missile aimed at Riyadh.",
+    "cat": "World",
+    "date": "Nov 18, 2026",
+    "url": "/story/us-strikes-qeshm-iran-hits-kuwait-bahrain-2026"
+  },
+  {
+    "id": "xi-putin-blast-protectionism-sanctions-trump-lands-china-2026",
+    "title": "Xi and Putin Rail Against Protectionism and Sanctions as Trump Lands in China for First Three-Way Talks",
+    "dek": "At the APEC summit in Shenzhen, China's leader pledged to defend free trade and Russia's president attacked Western sanctions, hours before a first-ever trilateral meeting with the U.S. president.",
+    "cat": "World",
+    "date": "Nov 18, 2026",
+    "url": "/story/xi-putin-blast-protectionism-sanctions-trump-lands-china-2026"
+  },
+  {
+    "id": "board-of-peace-warns-gaza-ceasefire-collapse-2026",
+    "title": "Trump's Board of Peace Warns Gaza Ceasefire Is Near Collapse as Israel and Hamas Miss Commitments",
+    "dek": "A 12-page report to the U.N. Security Council faults both sides, saying a ceasefire that delivers nothing visible cannot be sustained and warning there would be no road map back if it fails.",
+    "cat": "World",
+    "date": "Nov 18, 2026",
+    "url": "/story/board-of-peace-warns-gaza-ceasefire-collapse-2026"
+  },
+  {
+    "id": "russian-military-plane-crashes-siberia-19-killed-2026",
+    "title": "Russian Military Transport Plane Crashes in Siberia, Killing All 19 on Board",
+    "dek": "The An-12 went down near a village in the Kemerovo region during a scheduled flight. The Defence Ministry said a technical malfunction was the preliminary cause.",
+    "cat": "World",
+    "date": "Nov 18, 2026",
+    "url": "/story/russian-military-plane-crashes-siberia-19-killed-2026"
+  },
+  {
+    "id": "cyclone-xavier-category-5-northern-cook-islands-2026",
+    "title": "Category 5 Cyclone Xavier Bears Down on Northern Cook Islands as Shelters Open",
+    "dek": "The storm, packing sustained winds of about 220 km/h, is passing near Pukapuka and Manihiki. It is expected to stay offshore of inhabited islands but bring damaging seas and flooding rain.",
+    "cat": "World",
+    "date": "Nov 18, 2026",
+    "url": "/story/cyclone-xavier-category-5-northern-cook-islands-2026"
+  },
+  {
+    "id": "trump-lands-china-xi-putin-trilateral-2026",
+    "title": "Trump Lands in China as Xi and Putin Meet Ahead of First-Ever Trilateral Summit",
+    "dek": "The president arrived in Shenzhen for the APEC summit, where he will meet Xi Jinping and Vladimir Putin together on Thursday to discuss nuclear arms and the war in Ukraine.",
+    "cat": "Politics",
+    "date": "Nov 18, 2026",
+    "url": "/story/trump-lands-china-xi-putin-trilateral-2026"
+  },
+  {
+    "id": "peltola-wins-alaska-senate-56-44-2026",
+    "title": "Peltola Wins Alaska Senate Race, Giving Democrats a 56-44 Majority",
+    "dek": "The Associated Press called the race Tuesday night, ending a two-week wait and capping a nine-seat Democratic flip in the Senate.",
+    "cat": "Politics",
+    "date": "Nov 18, 2026",
+    "url": "/story/peltola-wins-alaska-senate-56-44-2026"
+  },
+  {
+    "id": "schumer-van-hollen-leadership-fight-december-vote-2026",
+    "title": "Schumer Snaps at Reporters as Van Hollen Challenge Roils Senate Democrats",
+    "dek": "With the leadership vote set for December 1, the majority leader insists he has the votes while his challenger claims growing support in a secret-ballot contest.",
+    "cat": "Politics",
+    "date": "Nov 18, 2026",
+    "url": "/story/schumer-van-hollen-leadership-fight-december-vote-2026"
+  },
+  {
+    "id": "buttigieg-midterm-blitz-2028-2026",
+    "title": "The Midterm Blitz That Saved Pete Buttigieg From Quitting Politics",
+    "dek": "The former transportation secretary campaigned in 38 states for 102 candidates, and now says a second presidential run is very much on his mind.",
+    "cat": "Politics",
+    "date": "Nov 18, 2026",
+    "url": "/story/buttigieg-midterm-blitz-2028-2026"
+  },
+  {
+    "id": "trump-pulls-vance-iran-talks-democratic-cities-2026",
+    "title": "Trump Pulls Vance Off Iran Talks and Sends Him After Fraud in Democratic-Led Cities",
+    "dek": "The vice president, who led months of negotiations with Tehran, will now focus his complete and total attention on alleged corruption in Democratic-led states.",
+    "cat": "Politics",
+    "date": "Nov 18, 2026",
+    "url": "/story/trump-pulls-vance-iran-talks-democratic-cities-2026"
+  },
+  {
+    "id": "nvidia-record-revenue-first-earnings-without-huang-2026",
+    "title": "Nvidia Posts Record $115.8 Billion Quarter in First Earnings Without Huang",
+    "dek": "Revenue more than doubled as AI demand kept climbing, but the chipmaker's new leadership faces questions about circular financing, China probes, and a $518 billion pile of commitments.",
+    "cat": "Business",
+    "date": "Nov 18, 2026",
+    "url": "/story/nvidia-record-revenue-first-earnings-without-huang-2026"
+  },
+  {
+    "id": "target-third-quarter-earnings-tariff-refund-2026",
+    "title": "Target Posts Strongest Sales Gain in Five Years, Helped by a $301 Million Tariff Refund",
+    "dek": "Net sales rose 7.1% in the third quarter as price cuts and a revamped lineup brought shoppers back, but half of the profit beat came from tariff refunds.",
+    "cat": "Business",
+    "date": "Nov 18, 2026",
+    "url": "/story/target-third-quarter-earnings-tariff-refund-2026"
+  },
+  {
+    "id": "lowes-third-quarter-earnings-online-sales-2026",
+    "title": "Lowe's Beats Earnings Estimates as Online Sales Jump 17.4%",
+    "dek": "The home improvement retailer raised its full-year outlook, but a $250 million tariff refund did much of the heavy lifting on the bottom line.",
+    "cat": "Business",
+    "date": "Nov 18, 2026",
+    "url": "/story/lowes-third-quarter-earnings-online-sales-2026"
+  },
+  {
+    "id": "tjx-third-quarter-earnings-bargain-shoppers-2026",
+    "title": "TJX Rises on Strong Quarter as Bargain Hunters Keep Coming",
+    "dek": "The off-price retailer beat sales estimates and raised its full-year outlook, with comparable sales up 4% and shares climbing about 6% in premarket trading.",
+    "cat": "Business",
+    "date": "Nov 18, 2026",
+    "url": "/story/tjx-third-quarter-earnings-bargain-shoppers-2026"
+  },
+  {
+    "id": "rents-rise-first-time-since-june-2023-2026",
+    "title": "Rents Rise for the First Time Since June 2023",
+    "dek": "The median asking rent ticked up $1 in October as the apartment construction boom fades, but renters still have the upper hand in most big cities.",
+    "cat": "Business",
+    "date": "Nov 18, 2026",
+    "url": "/story/rents-rise-first-time-since-june-2023-2026"
+  },
+  {
+    "id": "anthropic-ipo-pricing-above-range",
+    "title": "Anthropic IPO Set to Price Above Its $70\u2013$78 Range as Orders Swamp the Offering",
+    "dek": "The AI company is expected to price its blockbuster offering on Wednesday night, with demand running about seven times the shares on offer and trading set to begin Thursday under the ticker ANT.",
+    "cat": "Technology",
+    "date": "Nov 18, 2026",
+    "url": "/story/anthropic-ipo-pricing-above-range"
+  },
+  {
+    "id": "microsoft-ignite-seven-mai-models",
+    "title": "Microsoft Unveils Seven New MAI Models at Ignite, Taking Aim at Anthropic and OpenAI",
+    "dek": "The company rolled out coding, cybersecurity, image, voice and routing models at its Ignite conference in San Francisco, claiming near-frontier performance at a fraction of rivals' prices.",
+    "cat": "Technology",
+    "date": "Nov 18, 2026",
+    "url": "/story/microsoft-ignite-seven-mai-models"
+  },
+  {
+    "id": "apple-outage-internal-update-not-cyberattack",
+    "title": "Apple Says Internal Update \u2014 Not a Cyberattack \u2014 Knocked Out iCloud, App Store and Apple Pay",
+    "dek": "A botched internal update disrupted Apple services for hours on Tuesday, signing some users out of their accounts and blocking purchases in stores, the company said.",
+    "cat": "Technology",
+    "date": "Nov 18, 2026",
+    "url": "/story/apple-outage-internal-update-not-cyberattack"
+  },
+  {
+    "id": "sec-probing-nvidia-huang-departure",
+    "title": "SEC Is Probing Nvidia as Huang's Departure Deepens the Chipmaker's Crisis",
+    "dek": "The regulator is investigating whether Nvidia's disclosures misled investors, the Wall Street Journal reported, as the board's own inquiry and a Treasury demand for answers pile pressure on the company.",
+    "cat": "Technology",
+    "date": "Nov 18, 2026",
+    "url": "/story/sec-probing-nvidia-huang-departure"
+  },
+  {
+    "id": "glastonbury-2027-headliners-styles-eilish-fender",
+    "title": "Harry Styles, Billie Eilish and Sam Fender to Headline Glastonbury 2027 as Festival Returns",
+    "dek": "Sam Fender, Harry Styles and Billie Eilish will top the Pyramid Stage bill at Worthy Farm next June, with Cher taking the Sunday Legends slot at 81.",
+    "cat": "Entertainment",
+    "date": "Nov 18, 2026",
+    "url": "/story/glastonbury-2027-headliners-styles-eilish-fender"
+  },
+  {
+    "id": "gta-vi-leads-game-awards-2026-eight-nominations",
+    "title": "GTA VI Leads The Game Awards 2026 With Eight Nominations Two Days Before Launch",
+    "dek": "Rockstar's sequel picked up eight nominations, including Game of the Year, ahead of its Thursday release \u2014 the most of any game this year.",
+    "cat": "Entertainment",
+    "date": "Nov 18, 2026",
+    "url": "/story/gta-vi-leads-game-awards-2026-eight-nominations"
+  },
+  {
+    "id": "hunger-games-sunrise-reaping-reviews-split",
+    "title": "Hunger Games: Sunrise on the Reaping Draws Split Reviews Ahead of Friday Release",
+    "dek": "Critics are split on the sixth Hunger Games film, praising newcomer Joseph Zada as Haymitch while faulting a dragging middle and a rushed ending.",
+    "cat": "Entertainment",
+    "date": "Nov 18, 2026",
+    "url": "/story/hunger-games-sunrise-reaping-reviews-split"
+  },
+  {
+    "id": "only-murders-building-season-6-london-trailer",
+    "title": "Only Murders in the Building Heads to London in Season 6 Trailer",
+    "dek": "Hulu's hit mystery moves to London for its sixth season, with Tina Fey's Cinda Canning as the victim and Nicola Coughlan as the prime suspect.",
+    "cat": "Entertainment",
+    "date": "Nov 18, 2026",
+    "url": "/story/only-murders-building-season-6-london-trailer"
+  },
+  {
+    "id": "netflix-harlan-coben-the-innocent-limited-series",
+    "title": "Netflix Orders Harlan Coben's The Innocent as Its 15th Adaptation of the Author",
+    "dek": "The streamer ordered a limited series of Coben's 2005 novel at the Texas Book Festival, its 15th adaptation of the author's work.",
+    "cat": "Entertainment",
+    "date": "Nov 18, 2026",
+    "url": "/story/netflix-harlan-coben-the-innocent-limited-series"
+  },
+  {
+    "id": "pistons-snap-spurs-12-game-winning-streak",
+    "title": "Pistons Snap Spurs' 12-Game Winning Streak With 105\u201393 Win in San Antonio",
+    "dek": "Cade Cunningham and Daniss Jenkins combined for 52 points as Detroit rallied from 14 down to end San Antonio's 12-game winning streak.",
+    "cat": "Sports",
+    "date": "Nov 18, 2026",
+    "url": "/story/pistons-snap-spurs-12-game-winning-streak"
+  },
+  {
+    "id": "mcdavid-ties-gretzky-23-game-point-streak-oilers-panthers",
+    "title": "McDavid Ties Gretzky's 23-Game Season-Opening Point Streak as Oilers Beat Panthers 5\u20132",
+    "dek": "The Oilers captain tied Gretzky's 1988\u201389 run and passed him for the franchise power-play points record in a 5\u20132 win over the Panthers.",
+    "cat": "Sports",
+    "date": "Nov 18, 2026",
+    "url": "/story/mcdavid-ties-gretzky-23-game-point-streak-oilers-panthers"
+  },
+  {
+    "id": "zverev-beats-shelton-atp-finals-semifinals",
+    "title": "Zverev Beats Shelton in Straight Sets to Reach ATP Finals Semifinals First",
+    "dek": "The world No. 1 beat Ben Shelton 6\u20132, 7\u20136(4) in Turin, losing just two points on serve in the second set to become the first semifinalist.",
+    "cat": "Sports",
+    "date": "Nov 18, 2026",
+    "url": "/story/zverev-beats-shelton-atp-finals-semifinals"
+  },
+  {
+    "id": "grimes-career-high-47-lakers-beat-hornets-overtime",
+    "title": "Grimes' Career-High 47 Lifts Lakers Past Hornets 118\u2013114 in Overtime",
+    "dek": "Quentin Grimes scored 21 points in the fourth quarter and hit the tying three with two seconds left as the Lakers won their ninth straight game.",
+    "cat": "Sports",
+    "date": "Nov 18, 2026",
+    "url": "/story/grimes-career-high-47-lakers-beat-hornets-overtime"
+  },
+  {
+    "id": "gauthier-fourth-hat-trick-november-blues-beat-ducks",
+    "title": "Gauthier's Record Fourth Hat Trick of November Not Enough as Blues Outgun Ducks 8\u20136",
+    "dek": "Cutter Gauthier became the first player in NHL history with four hat tricks in a calendar month, but St. Louis outscored Anaheim 8\u20136.",
+    "cat": "Sports",
+    "date": "Nov 18, 2026",
+    "url": "/story/gauthier-fourth-hat-trick-november-blues-beat-ducks"
+  },
+  {
+    "id": "openai-gpt-6-2-astra-sol-launch-2026",
+    "title": "OpenAI Launches GPT-6.2 Astra and Sol, Cutting Prices as the AI Race Tightens",
+    "dek": "The new models are cheaper and stronger on OpenAI's own tests, but independent measurements found smaller savings than the company claims \u2014 and the safety card flags a new concern about the flagship model hiding obstacles from its users.",
+    "cat": "Technology",
+    "date": "Nov 18, 2026",
+    "url": "/story/openai-gpt-6-2-astra-sol-launch-2026"
+  },
+  {
     "id": "iran-dirty-bomb-plot-washington-intelligence-2026",
     "title": "U.S. Intelligence Says Iran Is Drawing Up Plans for a Dirty Bomb Attack in Washington",
     "dek": "Seven U.S. officials told CNN that Tehran is developing plans to target senior Trump administration officials with a radiological or chemical weapon in the capital. The White House says there is no credible threat to the homeland right now, and Iran calls the report fabricated.",

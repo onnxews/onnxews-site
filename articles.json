@@ -1,5 +1,277 @@
 [
   {
+    "id": "senate-passes-energy-permitting-bill-62-33-2026",
+    "title": "Senate Passes Sweeping Energy Permitting Bill in 62-33 Vote",
+    "dek": "The Bipartisan American Affordability and Jobs Act would speed approvals for power plants, transmission lines, mines and data centers, and now faces an uncertain future in the House.",
+    "cat": "U.S. News",
+    "date": "Nov 20, 2026",
+    "url": "/story/senate-passes-energy-permitting-bill-62-33-2026"
+  },
+  {
+    "id": "white-house-fires-national-cyber-director-cairncross-2026",
+    "title": "White House Fires National Cyber Director Sean Cairncross After Week of Tech Outages",
+    "dek": "Sean Cairncross is out after little more than a year in the Senate-confirmed role, and Pentagon technology chief Kirsten Davies will take over in an acting capacity.",
+    "cat": "U.S. News",
+    "date": "Nov 20, 2026",
+    "url": "/story/white-house-fires-national-cyber-director-cairncross-2026"
+  },
+  {
+    "id": "trump-posthumously-pardons-pete-rose-2026",
+    "title": "Trump Gives Posthumous Pardon to Baseball Hit King Pete Rose",
+    "dek": "The pardon wipes away the tax convictions of the sport's all-time hits leader, who died in 2024 still barred from the Hall of Fame.",
+    "cat": "U.S. News",
+    "date": "Nov 20, 2026",
+    "url": "/story/trump-posthumously-pardons-pete-rose-2026"
+  },
+  {
+    "id": "texas-execution-reinaldo-dennes-takes-over-an-hour-2026",
+    "title": "Texas Execution of Reinaldo Dennes Takes Over an Hour as Staff Struggle to Find a Vein",
+    "dek": "Reinaldo Dennes, 70, cried out in pain during a 63-minute lethal injection in Huntsville, weeks after Tennessee's failed execution of Christa Pike put the method under fresh scrutiny.",
+    "cat": "U.S. News",
+    "date": "Nov 20, 2026",
+    "url": "/story/texas-execution-reinaldo-dennes-takes-over-an-hour-2026"
+  },
+  {
+    "id": "atmospheric-river-storm-floods-california-record-rain-2026",
+    "title": "Atmospheric River Floods California, Breaks a 108-Year San Francisco Rain Record",
+    "dek": "The season's first big atmospheric river swamped Bay Area streets, forced Los Angeles to warn burn-scar neighborhoods to prepare to evacuate, and dumped heavy snow in the Sierra.",
+    "cat": "U.S. News",
+    "date": "Nov 20, 2026",
+    "url": "/story/atmospheric-river-storm-floods-california-record-rain-2026"
+  },
+  {
+    "id": "russia-massive-missile-strike-ukraine-kyiv-bridges-2026",
+    "title": "Russia Hits Kyiv Bridges in Massive Overnight Barrage Hours After Trump Calls Putin \u2018Tired\u2019 and Ready for a Deal",
+    "dek": "More than 400 drones and 110 missiles struck Ukraine overnight, killing at least eight people, knocking out power as temperatures fall below zero, and spilling into Polish airspace.",
+    "cat": "World",
+    "date": "Nov 20, 2026",
+    "url": "/story/russia-massive-missile-strike-ukraine-kyiv-bridges-2026"
+  },
+  {
+    "id": "uk-gives-ukraine-1000-long-range-drones-260-million-2026",
+    "title": "Britain to Give Ukraine More Than 1,000 Long-Range Strike Drones in \u00a3260 Million Package",
+    "dek": "Prime Minister Andy Burnham announced the package in Berlin, where allies also discussed joining peace talks, as Russia steps up its winter campaign against Ukraine's power grid.",
+    "cat": "World",
+    "date": "Nov 20, 2026",
+    "url": "/story/uk-gives-ukraine-1000-long-range-drones-260-million-2026"
+  },
+  {
+    "id": "european-youth-strike-cost-of-living-militarisation-2026",
+    "title": "Young People Walk Out Across Europe in Coordinated Strike Over Living Costs and Military Spending",
+    "dek": "Students in more than 25 countries walked out of school on Friday, demanding money for housing and education instead of weapons, as trade unions staged a general strike in Italy.",
+    "cat": "World",
+    "date": "Nov 20, 2026",
+    "url": "/story/european-youth-strike-cost-of-living-militarisation-2026"
+  },
+  {
+    "id": "iraqi-forces-deploy-kataib-hezbollah-stronghold-jurf-al-sakhar-2026",
+    "title": "Iraqi Forces Move Into Kataib Hezbollah Stronghold in Deal to End Militia's Grip on Jurf al-Sakhar",
+    "dek": "Government troops deployed in the town south of Baghdad on Friday under a compromise that lets the Iran-backed militia pull back rather than fight, after an investigation accused it of smuggling hundreds of millions of dollars in oil.",
+    "cat": "World",
+    "date": "Nov 20, 2026",
+    "url": "/story/iraqi-forces-deploy-kataib-hezbollah-stronghold-jurf-al-sakhar-2026"
+  },
+  {
+    "id": "pakistan-kills-22-militants-northwest-raids-2026",
+    "title": "Pakistan Reports 22 Militants Killed in Two Days of Northwest Raids",
+    "dek": "Security forces raided militant hideouts in South Waziristan, Bannu and Tank over two days, the military said, in the latest round of a counterterrorism campaign that has intensified across the northwest.",
+    "cat": "World",
+    "date": "Nov 20, 2026",
+    "url": "/story/pakistan-kills-22-militants-northwest-raids-2026"
+  },
+  {
+    "id": "senate-rejects-iran-war-powers-resolution-2026",
+    "title": "Senate Rejects Iran War Powers Resolution in 51-48 Vote, Backing Trump Weeks After Midterm Losses",
+    "dek": "Senate Republicans defeated a measure directing President Donald Trump to end the war in Iran or seek Congress's approval, with three Republicans breaking ranks and one Democrat voting against it.",
+    "cat": "Politics",
+    "date": "Nov 20, 2026",
+    "url": "/story/senate-rejects-iran-war-powers-resolution-2026"
+  },
+  {
+    "id": "garcia-oversight-letters-trump-officials-2026",
+    "title": "Incoming Oversight Chair Garcia Orders Trump Family and Top Officials to Preserve Records Ahead of Probes",
+    "dek": "Rep. Robert Garcia sent a dozen letters to Vice President JD Vance, members of the Trump family, and current and former officials, mapping Democrats' investigation targets before they take control of Congress in January.",
+    "cat": "Politics",
+    "date": "Nov 20, 2026",
+    "url": "/story/garcia-oversight-letters-trump-officials-2026"
+  },
+  {
+    "id": "trump-pressures-congress-farm-bill-2026",
+    "title": "Trump Pressures Congress to Pass Farm Bill Before Democrats Take Control in January",
+    "dek": "The president urged Republican majorities to finish the long-stalled five-year farm bill in the session's remaining days, warning farmers need certainty before the 2027 planting season.",
+    "cat": "Politics",
+    "date": "Nov 20, 2026",
+    "url": "/story/trump-pressures-congress-farm-bill-2026"
+  },
+  {
+    "id": "trump-unbelievably-productive-democratic-congress-2026",
+    "title": "Trump Says He Will Be 'Unbelievably Productive' With a Democratic Congress",
+    "dek": "In a Fox News interview, the president said his veto power gives him leverage over the incoming Democratic majorities and predicted deals would follow his vetoes.",
+    "cat": "Politics",
+    "date": "Nov 20, 2026",
+    "url": "/story/trump-unbelievably-productive-democratic-congress-2026"
+  },
+  {
+    "id": "lenovo-record-revenue-ai-servers-2026",
+    "title": "Lenovo Posts Record $30.2 Billion Quarter as AI Server Sales Nearly Triple",
+    "dek": "Revenue jumped 48% in the September quarter, beating estimates, as demand for AI infrastructure pushed the company's server business to its strongest quarter ever.",
+    "cat": "Business",
+    "date": "Nov 20, 2026",
+    "url": "/story/lenovo-record-revenue-ai-servers-2026"
+  },
+  {
+    "id": "gap-cuts-annual-forecasts-weak-holiday-demand-2026",
+    "title": "Gap Cuts Annual Forecasts as Holiday Demand Starts Slow",
+    "dek": "The apparel retailer lowered its full-year sales and profit outlook after a slow start to the holiday quarter, though third-quarter earnings still beat estimates.",
+    "cat": "Business",
+    "date": "Nov 20, 2026",
+    "url": "/story/gap-cuts-annual-forecasts-weak-holiday-demand-2026"
+  },
+  {
+    "id": "ross-stores-strong-q3-holiday-guidance-2026",
+    "title": "Ross Stores Tops Third-Quarter Estimates but Signals a Slower Holiday Quarter",
+    "dek": "The off-price retailer raised its full-year earnings outlook after a strong quarter, but held its holiday sales forecast steady, sending shares lower in extended trading.",
+    "cat": "Business",
+    "date": "Nov 20, 2026",
+    "url": "/story/ross-stores-strong-q3-holiday-guidance-2026"
+  },
+  {
+    "id": "intuit-sells-mailchimp-bending-spoons-2026",
+    "title": "Intuit to Sell Mailchimp for $3.68 Billion, Less Than a Third of What It Paid",
+    "dek": "The TurboTax maker agreed to sell its email-marketing business to Bending Spoons as it sharpens its focus on AI, while cutting its full-year revenue outlook.",
+    "cat": "Business",
+    "date": "Nov 20, 2026",
+    "url": "/story/intuit-sells-mailchimp-bending-spoons-2026"
+  },
+  {
+    "id": "tsmc-samsung-pause-china-chip-shipments-2026",
+    "title": "TSMC and Samsung Pause Some Chip Shipments to China Under New U.S. Export Rules",
+    "dek": "The world's two largest contract chipmakers halted deliveries while they seek U.S. export licences, after Washington closed a loophole for Chinese chip designers.",
+    "cat": "Business",
+    "date": "Nov 20, 2026",
+    "url": "/story/tsmc-samsung-pause-china-chip-shipments-2026"
+  },
+  {
+    "id": "google-gemini-computer-use-mac-2026",
+    "title": "Google Brings Gemini Computer Use to the Mac, Letting Its AI Click and Type for You",
+    "dek": "Gemini can now work through multi-step tasks across Mac apps, local files and the web in a background window, putting Google in direct competition with the AI agents already living on the desktop.",
+    "cat": "Technology",
+    "date": "Nov 20, 2026",
+    "url": "/story/google-gemini-computer-use-mac-2026"
+  },
+  {
+    "id": "european-commission-ai-cyberattack-artex-2026",
+    "title": "European Commission Hit by AI-Assisted Cyberattack as Investigators Point to the Artex Tool",
+    "dek": "Hackers disrupted the European Commission's staff HR and medical systems for more than ten days, and the EU's own cyber team says the attack highly likely involved Artex, an AI-powered hacking framework.",
+    "cat": "Technology",
+    "date": "Nov 20, 2026",
+    "url": "/story/european-commission-ai-cyberattack-artex-2026"
+  },
+  {
+    "id": "windows-11-hotpatch-breaks-office-apps-2026",
+    "title": "Microsoft Confirms Its November Windows 11 Hotpatch Can Stop Office and Other Apps From Launching",
+    "dek": "The no-restart security update KB5132043 is breaking apps on enterprise PCs managed through Windows Autopatch, and Microsoft's temporary fix is a registry edit while a permanent repair is prepared.",
+    "cat": "Technology",
+    "date": "Nov 20, 2026",
+    "url": "/story/windows-11-hotpatch-breaks-office-apps-2026"
+  },
+  {
+    "id": "huawei-osta-o1-pro-launch-2026",
+    "title": "Huawei Launches OSTA, Its First New Phone Brand Since Honor, With the Wide-Screen O1 Pro",
+    "dek": "Six years after selling Honor, Huawei has a new smartphone sub-brand aimed at younger buyers who want AI features without flagship prices, starting with the O1 Pro in China.",
+    "cat": "Technology",
+    "date": "Nov 20, 2026",
+    "url": "/story/huawei-osta-o1-pro-launch-2026"
+  },
+  {
+    "id": "valve-steam-machine-512gb-direct-sale-2026",
+    "title": "Valve Opens Direct Sales of the 512GB Steam Machine as Memory Costs Squeeze the 2TB Model",
+    "dek": "The entry-level Steam Machine can now be bought outright while supplies last, but Valve has closed the 2TB waitlist to new signups and says it does not know how many more units it can build or what they will cost.",
+    "cat": "Technology",
+    "date": "Nov 20, 2026",
+    "url": "/story/valve-steam-machine-512gb-direct-sale-2026"
+  },
+  {
+    "id": "gilded-age-season-5-renewal-hbo-2026",
+    "title": "HBO Renews The Gilded Age for Season 5 as Its Audience Keeps Growing",
+    "dek": "The Julian Fellowes period drama earned an early fifth season midway through its fourth, with Season 4 averaging 5.9 million viewers an episode and tracking as the show's most-watched season yet.",
+    "cat": "Entertainment",
+    "date": "Nov 20, 2026",
+    "url": "/story/gilded-age-season-5-renewal-hbo-2026"
+  },
+  {
+    "id": "nikki-glaser-netflix-niaj-studios-2026",
+    "title": "Nikki Glaser to Star in a Scripted Netflix Series as the Streamer Launches Its New Comedy Studio",
+    "dek": "Netflix has launched Netflix Is a Joke Studios, an in-house incubator for turning stand-up talent into scripted stars, and Glaser is its first partner, with a series and two specials on the way.",
+    "cat": "Entertainment",
+    "date": "Nov 20, 2026",
+    "url": "/story/nikki-glaser-netflix-niaj-studios-2026"
+  },
+  {
+    "id": "larry-poindexter-dies-66-2026",
+    "title": "Larry Poindexter, Days of Our Lives and S.W.A.T. Actor, Dies at 66 Days After Being Hit by a Car",
+    "dek": "The veteran character actor, whose career spanned more than four decades and 170 film and television credits, died suddenly in a Los Angeles hospital while awaiting surgery for broken ribs.",
+    "cat": "Entertainment",
+    "date": "Nov 20, 2026",
+    "url": "/story/larry-poindexter-dies-66-2026"
+  },
+  {
+    "id": "macys-thanksgiving-parade-broadway-medley-2026",
+    "title": "Macy's 100th Thanksgiving Day Parade Swaps Solo Broadway Numbers for One Big Medley",
+    "dek": "For its landmark 100th march, the parade will feature a single ten-minute Broadway medley with performers from nine productions, introduced by Julianne Hough, plus a tribute to Dolly Parton.",
+    "cat": "Entertainment",
+    "date": "Nov 20, 2026",
+    "url": "/story/macys-thanksgiving-parade-broadway-medley-2026"
+  },
+  {
+    "id": "much-ado-about-nothing-broadway-opening-2026",
+    "title": "Much Ado About Nothing Opens on Broadway as a Confetti-Soaked Dance Party",
+    "dek": "Jamie Lloyd's production starring Tom Hiddleston and Hayley Atwell opened at the Winter Garden Theatre on November 19, turning Shakespeare's comedy into a pink, pop-fueled rave that mostly won over the critics.",
+    "cat": "Entertainment",
+    "date": "Nov 20, 2026",
+    "url": "/story/much-ado-about-nothing-broadway-opening-2026"
+  },
+  {
+    "id": "lightning-end-mcdavid-23-game-point-streak-2026",
+    "title": "Lightning End Connor McDavid's 23-Game Point Streak in 3-1 Win Over Oilers",
+    "dek": "Ilya Mikheyev's third-period goal proved the winner as Tampa Bay snapped Edmonton's six-game winning run and held the NHL's leading scorer off the scoresheet for the first time this season.",
+    "cat": "Sports",
+    "date": "Nov 20, 2026",
+    "url": "/story/lightning-end-mcdavid-23-game-point-streak-2026"
+  },
+  {
+    "id": "knicks-survive-timberwolves-102-99-2026",
+    "title": "Knicks Survive Fourth-Quarter Collapse to Edge Timberwolves 102-99",
+    "dek": "Karl-Anthony Towns scored 22 points against his former team as New York nearly squandered a 19-point lead in Minnesota before holding on for a third straight win.",
+    "cat": "Sports",
+    "date": "Nov 20, 2026",
+    "url": "/story/knicks-survive-timberwolves-102-99-2026"
+  },
+  {
+    "id": "grizzlies-rout-warriors-126-98-fifth-straight-2026",
+    "title": "Grizzlies Rout Short-Handed Warriors 126-98 for Fifth Straight Win",
+    "dek": "Jaylen Wells scored 22 points and Memphis never trailed as Golden State finished a winless five-game road trip without the injured Stephen Curry.",
+    "cat": "Sports",
+    "date": "Nov 20, 2026",
+    "url": "/story/grizzlies-rout-warriors-126-98-fifth-straight-2026"
+  },
+  {
+    "id": "puka-nacua-suspended-three-games-2026",
+    "title": "Rams Star Puka Nacua Suspended Three Games for Personal Conduct Violation",
+    "dek": "The NFL handed the Los Angeles wide receiver a three-game ban over a New Year's Eve incident, but he will serve it while on injured reserve and miss no extra time.",
+    "cat": "Sports",
+    "date": "Nov 20, 2026",
+    "url": "/story/puka-nacua-suspended-three-games-2026"
+  },
+  {
+    "id": "kings-rally-beat-maple-leafs-shootout-2026",
+    "title": "Kings Rally From Three Down to Beat Maple Leafs 4-3 in Shootout",
+    "dek": "Adrian Kempe scored the only shootout goal as Los Angeles erased a 3-0 deficit in Toronto, handing the Maple Leafs an eighth straight defeat.",
+    "cat": "Sports",
+    "date": "Nov 20, 2026",
+    "url": "/story/kings-rally-beat-maple-leafs-shootout-2026"
+  },
+  {
     "id": "trump-third-supreme-court-trip-venezuelan-tps-2026",
     "title": "Court Freezes Venezuelan TPS Ruling Hours After Trump Administration's Third Supreme Court Bid",
     "dek": "The Justice Department's third emergency trip to the Supreme Court lasted a day: an appeals court froze the ruling that would have restored Venezuelan deportation protections, and the administration withdrew its request.",

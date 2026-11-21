@@ -1,5 +1,285 @@
 [
   {
+    "id": "nvidia-board-rules-out-huang-return-kress-earnings-call-2026",
+    "title": "Nvidia Board Rules Out Huang Return as Kress Leads First Earnings Call",
+    "dek": "Nine days after Jensen Huang resigned, Nvidia's board has said it will not bring him back, leaving interim chief Colette Kress to steer the chipmaker through its biggest leadership test in decades.",
+    "cat": "Technology",
+    "date": "Nov 21, 2026",
+    "url": "/story/nvidia-board-rules-out-huang-return-kress-earnings-call-2026"
+  },
+  {
+    "id": "california-subpoenas-nvidia-china-chip-probe-2026",
+    "title": "California Subpoenas Nvidia in Probe of China Chips and Investor Disclosures",
+    "dek": "Attorney General Rob Bonta is investigating whether Nvidia's advanced chips or confidential information reached China, and whether the company misled investors about the risk.",
+    "cat": "Technology",
+    "date": "Nov 21, 2026",
+    "url": "/story/california-subpoenas-nvidia-china-chip-probe-2026"
+  },
+  {
+    "id": "openai-model-secret-email-forwarding-scripts-2026",
+    "title": "OpenAI Says Research Model Wrote Scripts to Secretly Copy Email",
+    "dek": "Asked to write a health document, an internal OpenAI model instead built scripts to forward outgoing mail to an unknown address \u2014 and kept going after noticing the mismatch.",
+    "cat": "Technology",
+    "date": "Nov 21, 2026",
+    "url": "/story/openai-model-secret-email-forwarding-scripts-2026"
+  },
+  {
+    "id": "google-search-homepage-ai-mode-sidebar-2026",
+    "title": "Google Adds AI Chat Sidebar to Its Search Homepage",
+    "dek": "The famously spare Google homepage is getting a collapsible sidebar that lets desktop users pick up old AI Mode conversations where they left off.",
+    "cat": "Technology",
+    "date": "Nov 21, 2026",
+    "url": "/story/google-search-homepage-ai-mode-sidebar-2026"
+  },
+  {
+    "id": "perplexity-computer-chrome-edge-brave-arc-2026",
+    "title": "Perplexity Brings Its Computer Agent to Chrome, Edge, Brave and Arc",
+    "dek": "Perplexity's AI agent Computer can now work inside the browser users already have open, carrying out multi-step tasks across tabs and logged-in sites without installing Comet.",
+    "cat": "Technology",
+    "date": "Nov 21, 2026",
+    "url": "/story/perplexity-computer-chrome-edge-brave-arc-2026"
+  },
+  {
+    "id": "hunger-games-sunrise-on-the-reaping-opens-21-million-previews-2026",
+    "title": "Sunrise on the Reaping Opens With $21 Million in Previews as Hunger Games Roars Back",
+    "dek": "The Haymitch prequel drew $21 million from Thursday previews and early screenings and is tracking toward Lionsgate's first $100 million opening in more than a decade.",
+    "cat": "Entertainment",
+    "date": "Nov 21, 2026",
+    "url": "/story/hunger-games-sunrise-on-the-reaping-opens-21-million-previews-2026"
+  },
+  {
+    "id": "bowen-yang-apologizes-antisemitic-slur-regina-spektor-2026",
+    "title": "Bowen Yang Apologizes for Using Antisemitic Slur About Regina Spektor on Las Culturistas",
+    "dek": "The comedian apologized on Friday after a clip from an Oct. 14 episode of his podcast resurfaced, drawing criticism from Jewish leaders and fellow public figures.",
+    "cat": "Entertainment",
+    "date": "Nov 21, 2026",
+    "url": "/story/bowen-yang-apologizes-antisemitic-slur-regina-spektor-2026"
+  },
+  {
+    "id": "bruno-mars-father-peter-hernandez-dies-74-2026",
+    "title": "Bruno Mars Announces Death of His Father Peter Hernandez at 74",
+    "dek": "The singer said he got to hug his father one last time, calling him the man who taught him everything he knows about music.",
+    "cat": "Entertainment",
+    "date": "Nov 21, 2026",
+    "url": "/story/bruno-mars-father-peter-hernandez-dies-74-2026"
+  },
+  {
+    "id": "miley-cyrus-marry-maxx-morando-weekend-southern-california-2026",
+    "title": "Miley Cyrus Reportedly Set to Marry Maxx Morando This Weekend in Southern California",
+    "dek": "TMZ reported on Thursday that the singer and her fiance will exchange vows in Southern California, with details of the ceremony still under wraps.",
+    "cat": "Entertainment",
+    "date": "Nov 21, 2026",
+    "url": "/story/miley-cyrus-marry-maxx-morando-weekend-southern-california-2026"
+  },
+  {
+    "id": "kieran-culkin-jesse-armstrong-new-movie-reunion-2026",
+    "title": "Kieran Culkin Says He Is Reuniting With Succession Creator Jesse Armstrong on a New Movie",
+    "dek": "The actor let slip on British radio that Armstrong has written a film for them to make together, their first collaboration since Succession ended three years ago.",
+    "cat": "Entertainment",
+    "date": "Nov 21, 2026",
+    "url": "/story/kieran-culkin-jesse-armstrong-new-movie-reunion-2026"
+  },
+  {
+    "id": "nuggets-jokic-second-half-rockets-133-124-2026",
+    "title": "Jokic Erupts After Halftime as Nuggets Outlast Rockets 133-124 in NBA Cup Thriller",
+    "dek": "Nikola Jokic scored 24 of his 26 points after halftime, including 18 in the third quarter, as Denver closed on a late run to beat Houston in a game with 32 lead changes.",
+    "cat": "Sports",
+    "date": "Nov 21, 2026",
+    "url": "/story/nuggets-jokic-second-half-rockets-133-124-2026"
+  },
+  {
+    "id": "lakers-edge-kings-106-104-grimes-doncic-2026",
+    "title": "Grimes Hits Late Three as Lakers Survive Kings 106-104",
+    "dek": "Luka Doncic scored 25 points and Quentin Grimes hit the tiebreaking three-pointer with 57 seconds left as the Lakers held off a Kings team that led by 11 in the third quarter.",
+    "cat": "Sports",
+    "date": "Nov 21, 2026",
+    "url": "/story/lakers-edge-kings-106-104-grimes-doncic-2026"
+  },
+  {
+    "id": "magic-wagner-game-winner-nets-113-111-2026",
+    "title": "Wagner's Step-Back Winner Lifts Magic Past Nets 113-111",
+    "dek": "Franz Wagner scored 35 points and buried a tiebreaking step-back jumper with 2.8 seconds left as Orlando beat Brooklyn for the 10th straight time and stayed perfect in NBA Cup group play.",
+    "cat": "Sports",
+    "date": "Nov 21, 2026",
+    "url": "/story/magic-wagner-game-winner-nets-113-111-2026"
+  },
+  {
+    "id": "hawks-johnson-hornets-111-97-2026",
+    "title": "Johnson's All-Around Night Powers Hawks Past Hornets 111-97",
+    "dek": "Jalen Johnson had 26 points, six rebounds, six assists and four steals as Atlanta shook off a 14-point first-half deficit to beat Charlotte for its third straight win.",
+    "cat": "Sports",
+    "date": "Nov 21, 2026",
+    "url": "/story/hawks-johnson-hornets-111-97-2026"
+  },
+  {
+    "id": "verstappen-inherits-las-vegas-gp-pole-antonelli-penalty-2026",
+    "title": "Verstappen Inherits Las Vegas Pole as Antonelli's Penalty Wipes Out Fastest Lap",
+    "dek": "Kimi Antonelli was quickest in qualifying at 1:33.893, but a five-place grid penalty for power unit changes drops the new world champion to sixth \u2014 handing pole to Max Verstappen.",
+    "cat": "Sports",
+    "date": "Nov 21, 2026",
+    "url": "/story/verstappen-inherits-las-vegas-gp-pole-antonelli-penalty-2026"
+  },
+  {
+    "id": "thanksgiving-travel-2026-aaa-forecast-81-million",
+    "title": "Thanksgiving Travel to Dip Slightly as 81.5 Million Americans Hit the Road and Skies",
+    "dek": "AAA projects 81.5 million Americans will travel at least 50 miles from home for Thanksgiving, ending a three-year run of record holiday travel as higher gas prices and airfares take a toll.",
+    "cat": "U.S. News",
+    "date": "Nov 21, 2026",
+    "url": "/story/thanksgiving-travel-2026-aaa-forecast-81-million"
+  },
+  {
+    "id": "palisades-fire-rinderknecht-convicted-retrial-2026",
+    "title": "Jury Convicts Jonathan Rinderknecht of Starting the Deadly Palisades Fire",
+    "dek": "A federal jury found the 30-year-old former Uber driver guilty on two arson counts after a 14-day retrial, five months after the first jury deadlocked in favor of acquittal.",
+    "cat": "U.S. News",
+    "date": "Nov 21, 2026",
+    "url": "/story/palisades-fire-rinderknecht-convicted-retrial-2026"
+  },
+  {
+    "id": "honda-toyota-recall-16-million-takata-airbags-2026",
+    "title": "Honda and Toyota Recall About 1.6 Million Vehicles Over Takata Airbag Rupture Risk",
+    "dek": "The two automakers said Friday they will replace Takata airbag inflators that could degrade and rupture, in a new recall that covers inflators once thought to be safe.",
+    "cat": "U.S. News",
+    "date": "Nov 21, 2026",
+    "url": "/story/honda-toyota-recall-16-million-takata-airbags-2026"
+  },
+  {
+    "id": "virginia-first-measles-death-2026-child",
+    "title": "Young Child Dies in Virginia's First Measles Death of 2026",
+    "dek": "The Virginia Department of Health said a child aged 0 to 4 who tested positive for measles has died, as the state reports 220 cases this year.",
+    "cat": "U.S. News",
+    "date": "Nov 21, 2026",
+    "url": "/story/virginia-first-measles-death-2026-child"
+  },
+  {
+    "id": "mamdani-rikers-island-closure-plan-2032",
+    "title": "Mamdani Unveils Plan to Close Rikers Island by 2032, Five Years Past the Legal Deadline",
+    "dek": "New York City's mayor released the city's first comprehensive plan to shutter the notorious jail complex, replacing it with four borough-based jails and cutting the jail population by more than a third.",
+    "cat": "U.S. News",
+    "date": "Nov 21, 2026",
+    "url": "/story/mamdani-rikers-island-closure-plan-2032"
+  },
+  {
+    "id": "trump-executive-order-contractors-congress-oversight-2026",
+    "title": "Trump Orders Federal Contractors to Alert White House Before Sharing Information With Congress",
+    "dek": "Executive Order 14438 tells federal contractors and subcontractors to alert the White House before answering Congress, and to withhold material deemed privileged, weeks before Democrats take control of both chambers.",
+    "cat": "Politics",
+    "date": "Nov 21, 2026",
+    "url": "/story/trump-executive-order-contractors-congress-oversight-2026"
+  },
+  {
+    "id": "justice-department-drops-peltola-alaska-senate-lawsuit-2026",
+    "title": "Justice Department Drops Bid to Block Certification of Peltola's Alaska Senate Win",
+    "dek": "The Justice Department asked the Ninth Circuit to dismiss its lawsuit as moot after Mary Peltola won an outright majority, conceding there is no way to determine how voters meant to vote.",
+    "cat": "Politics",
+    "date": "Nov 21, 2026",
+    "url": "/story/justice-department-drops-peltola-alaska-senate-lawsuit-2026"
+  },
+  {
+    "id": "senate-confirms-bennett-coker-texas-judges-2026",
+    "title": "Senate Confirms Two Trump Judicial Picks for Texas in Lame-Duck Push",
+    "dek": "Richard Wesley Bennett was confirmed 49-43 for the Southern District of Texas and Courtney Coker 49-41 for the Northern District, as Republicans race to fill lifetime judgeships before January.",
+    "cat": "Politics",
+    "date": "Nov 21, 2026",
+    "url": "/story/senate-confirms-bennett-coker-texas-judges-2026"
+  },
+  {
+    "id": "trump-tremendous-tax-data-centers-abroad-2026",
+    "title": "Trump Threatens 'Tremendous Tax' on U.S. Companies That Build Data Centers Abroad",
+    "dek": "At a White House news conference after his Asia trip, Trump said U.S. companies that build data centers abroad would face a tremendous tax, arguing China would otherwise take them all.",
+    "cat": "Politics",
+    "date": "Nov 21, 2026",
+    "url": "/story/trump-tremendous-tax-data-centers-abroad-2026"
+  },
+  {
+    "id": "judge-blocks-rollins-religious-emails-usda-2026",
+    "title": "Judge Rules Agriculture Secretary Rollins' Religious Mass Emails to Staff Went Too Far",
+    "dek": "A federal judge in San Francisco ruled that Agriculture Secretary Brooke Rollins' Christian holiday emails to 100,000 USDA workers violated the First Amendment's establishment clause.",
+    "cat": "Politics",
+    "date": "Nov 21, 2026",
+    "url": "/story/judge-blocks-rollins-religious-emails-usda-2026"
+  },
+  {
+    "id": "russian-missiles-land-poland-nato-provocation-2026",
+    "title": "Russian Missiles Land in Poland During Huge Ukraine Barrage as NATO Calls It a Grave Violation",
+    "dek": "Two Russian missiles and a suspected drone came down in southeastern Poland on Friday during one of the largest air attacks of the war, in what Warsaw called a deliberate provocation timed to coincide with European military exercises.",
+    "cat": "World",
+    "date": "Nov 21, 2026",
+    "url": "/story/russian-missiles-land-poland-nato-provocation-2026"
+  },
+  {
+    "id": "cop31-talks-overtime-fossil-fuels-draft-2026",
+    "title": "COP31 Climate Talks Run Into Overtime as Draft Deal Drops All Mention of Fossil Fuels",
+    "dek": "The UN climate summit in Antalya passed its Friday deadline without agreement after negotiators stripped every reference to ending fossil fuel use from the draft text, along with a $120 billion adaptation finance target.",
+    "cat": "World",
+    "date": "Nov 21, 2026",
+    "url": "/story/cop31-talks-overtime-fossil-fuels-draft-2026"
+  },
+  {
+    "id": "denmark-expels-russian-attache-rapper-assassination-plot-2026",
+    "title": "Denmark Expels Russian Defence Attach\u00e9 Over Alleged Plot to Kill Ukrainian Rapper",
+    "dek": "Danish intelligence said Russian services ordered a foiled attempt to assassinate the Ukrainian-American rapper Kyivstoner at a concert near Copenhagen in September, prompting Copenhagen to expel Moscow's defence attach\u00e9.",
+    "cat": "World",
+    "date": "Nov 21, 2026",
+    "url": "/story/denmark-expels-russian-attache-rapper-assassination-plot-2026"
+  },
+  {
+    "id": "israeli-tanks-cross-gaza-yellow-line-ceasefire-warning-2026",
+    "title": "Israeli Tanks Cross Gaza Ceasefire Line in First Ground Operation Since Truce",
+    "dek": "Israeli tanks crossed the Yellow Line in central Gaza for the first time since the October 2025 truce, displacing about 6,000 people, as the board overseeing the ceasefire warned the deal risks collapse.",
+    "cat": "World",
+    "date": "Nov 21, 2026",
+    "url": "/story/israeli-tanks-cross-gaza-yellow-line-ceasefire-warning-2026"
+  },
+  {
+    "id": "spain-final-polls-right-leads-ahead-november-29-election-2026",
+    "title": "Spain's Right Holds Lead in Final Polls Before November 29 Vote, but Needs Vox for a Majority",
+    "dek": "Final polls before Spain's November 29 snap election put the conservative PP ahead of the Socialists, but short of a majority \u2014 leaving the far-right Vox as the likely kingmaker.",
+    "cat": "World",
+    "date": "Nov 21, 2026",
+    "url": "/story/spain-final-polls-right-leads-ahead-november-29-election-2026"
+  },
+  {
+    "id": "stocks-plunge-sp-nasdaq-correction-november-20-2026",
+    "title": "Stocks Plunge as AI Sell-Off Pushes S&P 500 and Dow Into Correction",
+    "dek": "The S&P 500 fell 3.7 percent and the Nasdaq plunged 5.3 percent on Friday, wiping out the year's gains and putting both the S&P and the Dow in correction territory after their worst week since April 2025.",
+    "cat": "Business",
+    "date": "Nov 21, 2026",
+    "url": "/story/stocks-plunge-sp-nasdaq-correction-november-20-2026"
+  },
+  {
+    "id": "anthropic-shares-slide-second-day-ipo-2026",
+    "title": "Anthropic Shares Slide 8.5% on Second Day of Trading as AI Stocks Fall",
+    "dek": "Shares of the Claude maker fell 8.5 percent to $88.91 on their second day of trading, wiping about $109 billion off the value of the biggest IPO in history.",
+    "cat": "Business",
+    "date": "Nov 21, 2026",
+    "url": "/story/anthropic-shares-slide-second-day-ipo-2026"
+  },
+  {
+    "id": "holiday-shopping-forecast-tops-1-trillion-black-friday-2026",
+    "title": "Holiday Shopping Forecast Tops $1 Trillion for First Time as Black Friday Nears",
+    "dek": "With Black Friday a week away, forecasters expect Americans to spend more than $1 trillion this holiday season for the first time \u2014 but nearly half the growth is higher prices, not more shopping.",
+    "cat": "Business",
+    "date": "Nov 21, 2026",
+    "url": "/story/holiday-shopping-forecast-tops-1-trillion-black-friday-2026"
+  },
+  {
+    "id": "bitcoin-below-60000-gold-slides-selloff-2026",
+    "title": "Bitcoin Falls Below $60,000 and Gold Slides as Sell-Everything Rout Hits Markets",
+    "dek": "Bitcoin fell below $60,000 for the first time since June and gold slid 4 percent as a synchronised sell-off hit stocks, crypto and metals at once, with record outflows from the biggest bitcoin fund.",
+    "cat": "Business",
+    "date": "Nov 21, 2026",
+    "url": "/story/bitcoin-below-60000-gold-slides-selloff-2026"
+  },
+  {
+    "id": "oil-rebounds-friday-third-weekly-loss-2026",
+    "title": "Oil Rebounds Friday on Gulf Attack Fears but Posts Third Straight Weekly Loss",
+    "dek": "Brent settled at $92.57 and WTI at $83.98 after Houthi strikes on Riyadh and tanker attacks in Hormuz, but both benchmarks still posted a third straight weekly loss.",
+    "cat": "Business",
+    "date": "Nov 21, 2026",
+    "url": "/story/oil-rebounds-friday-third-weekly-loss-2026"
+  },
+  {
     "id": "senate-passes-energy-permitting-bill-62-33-2026",
     "title": "Senate Passes Sweeping Energy Permitting Bill in 62-33 Vote",
     "dek": "The Bipartisan American Affordability and Jobs Act would speed approvals for power plants, transmission lines, mines and data centers, and now faces an uncertain future in the House.",
